@@ -1,0 +1,53 @@
+{
+  "id": "shaanxi_history",
+  "name": "陕西历史博物馆",
+  "englishName": "",
+  "city": "西安",
+  "province": "陕西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "陕西历史博物馆是位于陕西省西安市雁塔区的一座博物馆，坐落于小寨东路与翠华路路口、大雁塔的西北侧。陕西历史博物馆从1983年开始筹建，1991年6月20日建成开放，是中国第一座拥有现代化设施的大型国家级博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "03.jpg",
+      "caption": "The facade/tiled roof of the Shaanxi History Museum, located in Yanta District, Xi'an, China.",
+      "credit": "Danielinblue(张之诚)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "zh:陕西历史博物馆 Jamguo 摄于2004年5月6日 版权所有（见下）\n\n== 版权信息 ==",
+      "credit": "User Jamguo on zh.wikipedia",
+      "license": "CC BY-SA 1.0"
+    },
+    {
+      "filename": "06.png",
+      "caption": "Subdivision of Xi'an",
+      "credit": "ASDFGHJ (talk)",
+      "license": "CC BY-SA 2.5"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Tangsancai collection of Shaanxi History Museum. This collection is made in Tang Dynasty, which date",
+      "credit": "Danielinblue(张之诚)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "The back of a Tang Dynasty mirror in Shaanxi History Museum.",
+      "credit": "Danielinblue(张之诚)",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 34.22527778,
+  "longitude": 108.95138889,
+  "grade": null
+}

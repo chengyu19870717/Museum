@@ -1,0 +1,71 @@
+{
+  "id": "yunnan_ethnic",
+  "name": "云南民族博物馆",
+  "englishName": "",
+  "city": "昆明",
+  "province": "云南",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "云南民族博物馆，位于云南省昆明市西山区滇池路1503号，是中国规模最大的民族类博物馆，是隶属云南省民族宗教事务委员会的正处级公益性文化事业单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "Zhuang embroidered baby-carrying quilt. Fabric exhibited in the Yunnan Nationalities Museum, Kunming",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Naxi sacred diagram in the Yunnan Nationalities Museum. Folk Arts in the Yunnan Nationalities Museum",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Dai silver crown. Jewelry in the Yunnan Nationalities Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Naxi loom. Exhibit in the weaving collection in the Yunnan Nationalities Museum, Kunming, Yunnan, Ch",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Dai astronomical calendar on mulberry-bark paper. Manuscripts / writing systems in the Yunnan Nation",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Tibetan short horns. Musical instruments in the Yunnan Nationalities Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Yao taoist priest costume. Clothing exhibited in the Yunnan Nationalities Museum, Kunming, Yunnan, C",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Yunnan Nationalities Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 24.96853056,
+  "longitude": 102.66786111,
+  "grade": null
+}

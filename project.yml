@@ -1,0 +1,39 @@
+name: Museum
+options:
+  bundleIdPrefix: com.yourname
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "15.0"
+
+settings:
+  base:
+    PRODUCT_BUNDLE_IDENTIFIER: com.yourname.museum
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.9"
+    DEVELOPMENT_TEAM: ""  # 填入你的 Apple Developer Team ID
+
+targets:
+  Museum:
+    type: application
+    platform: iOS
+    sources:
+      - Museum
+      - path: MuseumData
+        type: folder
+        name: MuseumData
+    resources:
+      - Museum/Resources
+    info:
+      path: Museum/Info.plist
+      properties:
+        CFBundleDisplayName: "中国博物馆"
+        CFBundleShortVersionString: "$(MARKETING_VERSION)"
+        CFBundleVersion: "$(CURRENT_PROJECT_VERSION)"
+        NSLocationWhenInUseUsageDescription: "用于在地图上显示附近的博物馆"
+        UILaunchStoryboardName: LaunchScreen
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UIRequiresFullScreen: false

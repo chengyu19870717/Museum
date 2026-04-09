@@ -1,0 +1,47 @@
+{
+  "id": "hebei_museum",
+  "name": "河北博物院",
+  "englishName": "",
+  "city": "石家庄",
+  "province": "河北",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "河北博物院原名河北省博物馆，是中国河北省唯一一所省级地志类综合性博物馆，位于石家庄市中心地段的中山东路南侧，面向省会文化广场。行政上，是河北省文化和旅游厅直属副厅级事业单位。\n河北博物院分为主院区、建华院区、育才院区三部分。主院区分为南区、北区，北区即原河北省博物馆（主楼）。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Chang Xin Gong Deng(Palace light), Han Dynasty,China (Hebei Museum)",
+      "credit": "XRAY96",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Color-painted Relief Scene of Musicians Playing.\nFive Dynasties (A.D.907-923).\nUnearthed from the To",
+      "credit": "XRAY96",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Jin Lv Yu Yi of Liusheng, Han Dynasty,China (Hebei Museum)",
+      "credit": "XRAY96",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Hebei Museum",
+      "credit": "Suginami",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 38.04094167,
+  "longitude": 114.52315833,
+  "grade": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "shanxi_museum",
+  "name": "山西博物院",
+  "englishName": "",
+  "city": "太原",
+  "province": "山西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "山西博物院，位于山西省省会太原市滨河西路北段13号，是首批国家一级博物馆、中央地方共建国家级博物馆培育对象，山西最大的文物征集、收藏、保护、研究和展示中心。山西博物院前身为1919年创建的山西教育图书博物馆，此后几经周折，于1953年改称山西省博物馆，2004年新馆竣工之后，正式定名为山西博物院。\n山西博物院目前共收藏近66万件藏品，尤其是在青铜、瓷器、石刻、佛教造像、壁画方面颇具特色。山西博物院曾先后获得中国建设工程鲁班奖、全国博物馆十大陈列展览精品、全国文化遗产保护先进单位、第一批全国古籍重点保护单位、全国最具创新力博物馆、国家级青年文明号等荣誉。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "20250602 Coffin of Yu Hong in the Shanxi Museum",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​秊𣞤彊子𖿣𭓂𖿣永寶𢆶鐘 (年無疆，子子孫孫，永寶茲鐘)",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​北魏彩绘杂技俑，山西省大同市曹夫楼村出土。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Shanxi Provincial Museum, Taiyuan. Complete indexed photo collection at WorldHistoryPics.com.",
+      "credit": "Gary Todd",
+      "license": "CC0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Shanxi Provincial Museum, Taiyuan, Porcelain and Jade Galleries. Complete indexed photo collection a",
+      "credit": "Gary Todd",
+      "license": "CC0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Shanxi Provincial Museum, Taiyuan. Complete indexed photo collection at WorldHistoryPics.com.",
+      "credit": "Gary Todd",
+      "license": "CC0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​舞鐃\n商代, 山西石樓縣曹家垣出土",
+      "credit": "Underbar dk",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​山西博物院西门",
+      "credit": "1969社论",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Large basin. Yangshao, Miaodigou culture, ca. 4000 BC. Shanxi Prov Museum, Taiyuan.",
+      "credit": "Prof. Gary Lee Todd",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "壁画，东魏－北齐，山西忻州九原岗墓出土，山西博物院藏",
+      "credit": "Artist: 6th century artist in China.\n\nPhotographer: unknown",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 37.86487222,
+  "longitude": 112.52485278,
+  "grade": null
+}

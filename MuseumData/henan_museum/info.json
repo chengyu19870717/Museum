@@ -1,0 +1,77 @@
+{
+  "id": "henan_museum",
+  "name": "河南博物院",
+  "englishName": "",
+  "city": "郑州",
+  "province": "河南",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "河南博物院是位于河南省郑州市的一所国家级的大型现代化综合博物馆，国家级重点博物院之一，前身是河南省博物馆。河南省博物院是中国近代较早创立的博物馆，自民國十六年在冯玉祥的主导下建立，距今已有八十多年历史，抗日战争期间，河南博物院的部分珍贵文物几经辗转最终被珍藏在台湾国立历史博物馆。大陸的河南博物院馆址几经变更，最初的馆址位于开封市龙亭区三胜街31号，1961年搬迁至郑州市。目前的馆舍于1997年开放，馆址位于河南省郑州市金水区农业路8号。\n目前馆藏文物多来自于二十世纪初淅川、洛阳、三门峡、辉县、新郑、安阳等地的考古发掘，数量达13万多件，史前文物、商周青铜器、历代陶瓷器、玉器最具特色。其中国家一级文物与国家二级文物5000余件，历史文化艺术价值极高。当世中国之博物馆，以藏品而言，除故宫博物院外，河南博物馆当属第二。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Bronze owl-shaped Zun with inscriptions of Fu Hao",
+      "credit": "Windmemories",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Sky blue glazed porcelain vase, Ru Kiln, Henan Museum",
+      "credit": "Windmemories",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Wu Zetian Gold Strip, Henan Museum",
+      "credit": "Windmemories",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​河南博物院 云纹铜禁",
+      "credit": "Greg kf",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "henan musem at kaifeng",
+      "credit": "Greg kf (talk)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "JIRCAS Photo Archive\nwww.jircas.go.jp/ja/database/photoarchive\nAuthor: Hamamura Kunio\nDate: 1992.07.",
+      "credit": "JIRCAS Library from Tsukuba, Japan",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "河南博物院内部陈设",
+      "credit": "Renato Ganoza",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​四神云气图",
+      "credit": "Greg kf",
+      "license": "CC BY 3.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Neolithic bone flute (Henan Provincial Museum)",
+      "credit": "asgitner",
+      "license": "CC BY-SA 2.0"
+    }
+  ],
+  "latitude": 34.78896111,
+  "longitude": 113.66607222,
+  "grade": null
+}

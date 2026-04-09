@@ -1,0 +1,77 @@
+{
+  "id": "hk_history_museum",
+  "name": "香港历史博物馆",
+  "englishName": "",
+  "city": "香港",
+  "province": "香港",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "香港歷史博物館（英語：Hong Kong Museum of History）位於香港九龍尖沙咀漆咸道南100號，現由康樂及文化事務署管理，共耗資3億9千萬港元興建，於1998年9月28日開放。建築設計由建築署委托巴馬丹拿公司承辦，採用建築師威拿（E. Verner Johnson）的概念，總承建商為宏宗建築有限公司。\n香港歷史博物館為香港居民及遊客介紹香港的歷史，展覽內容包括香港及南中國一帶的考古發現、珍貴文物及資料等；涵蓋自然生態、民間風俗及歷史發展，向參觀者呈現香港四億年來的生態環境及歷史故事。博物館總樓面面積18,500平方米，常設展廳佔地7,000平方米，並經常舉辦包括香港掌故等主題展覽。\n館內的「香港故事」常設展由2020年10月19日起暫停開放，以進行大規模的更新工程，於2024年8月開放二樓展覧廳部分，2026年4月1日重新開放地庫展覽廳。在新常設展覽推出之前，專題展覽廳佈置成「經典再現－香港故事精華展」，作為原常設展的濃縮版，讓參觀者重溫香港由史前時期至1997年回歸的發展歷程。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Birth and Early Growth of the City in Hong Kong Museum of History",
+      "credit": "Wpcpey",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Folk Culture in HK in Hong Kong Museum of History",
+      "credit": "Wpcpey",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Hong Kong Museum of History-History-Birth and Early Growth of the City",
+      "credit": "Wpcpey",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "HK TST East HKMH 香港歷史博物館 Hong Kong Museum of History exhibition 國家安全展覽館 National Security Exhibition",
+      "credit": "Gson Hwal Wagnem",
+      "license": "CC0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "HK TST East HKMH 香港歷史博物館 Hong Kong Museum of History exhibition 華僑 Oversea Chinese People Hong Kong",
+      "credit": "Gson Hwal Wagnem",
+      "license": "CC0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "HK TST 尖沙咀 Tsim Sha Tsui zh:漆咸道南 Chatham Road South zh:香港歷史博物館 Hong Kong Museum of History in August",
+      "credit": "FOOOTNAMPARK SCHRRPLOAE",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "HK YTMD 尖沙咀東 TST East HKMH 香港歷史博物館 Hong Kong Museum of History sign 香港故事 Story exhibition in April 2",
+      "credit": "CUSP18LEE DEE ZHANGUOt",
+      "license": "CC0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "HK YTMD 尖沙咀東 TST East HKMH 香港歷史博物館 Hong Kong Museum of History 香港故事 Story exhibition in April 2026",
+      "credit": "CUSP18LEE DEE ZHANGUOt",
+      "license": "CC0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "HK YTMD 尖沙咀東 TST East HKMH 香港歷史博物館 Hong Kong Museum of History 香港故事 Story exhibition in April 2026",
+      "credit": "CUSP18LEE DEE ZHANGUOt",
+      "license": "CC0"
+    }
+  ],
+  "latitude": 22.30196,
+  "longitude": 114.17743,
+  "grade": null
+}

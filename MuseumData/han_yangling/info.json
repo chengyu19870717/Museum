@@ -1,0 +1,83 @@
+{
+  "id": "han_yangling",
+  "name": "汉阳陵",
+  "englishName": "",
+  "city": "咸阳",
+  "province": "陕西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "汉阳陵是西汉汉景帝刘启及其皇后王氏同茔异穴的合葬陵园，位于今陕西省咸阳市渭城区正阳镇张家湾、后沟村北的咸阳原上，是咸阳原西汉诸帝陵中最东的一座，地跨咸阳市渭城区、泾阳县和西安市高陵县三地。景帝驾崩于公元前141年，15年（公元前126年）后王皇后薨，方合葬陵内。\n1956年8月，阳陵列入第一批陕西省文物保护单位，编号84。2001年，阳陵做为西汉帝陵之一，列入第五批全国重点文物保护单位。西安考古所曾于1998年发掘了10余条陪葬坑。2004年，西安考古研究所对陵区内的丛葬坑（部分）、陪葬墓园、祭祀建筑等进行了发掘，目前已于原址建立咸阳汉阳陵博物馆作保护参观之用。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Han Yang Ling Ceremonial Chariot Unit",
+      "credit": "Wiki Elven Fan",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Han Yang Ling Chariot",
+      "credit": "Wiki Elven Fan",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Han Yang Ling - Mausoleum of Jingdi, Han Emperor, Xianyang, near Xi'an",
+      "credit": "Brücke-Osteuropa",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "china_tea_museum",
+  "name": "中国茶叶博物馆",
+  "englishName": "",
+  "city": "杭州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中国茶叶博物馆是浙江省杭州市西湖区的一座以茶和茶文化为专题的博物馆。博物馆设有两个馆区，分别位于双峰村和龙井村，于1991年4月正式对外开放，并被中国博物馆协会列为国家一级博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​中国茶叶博物馆双峰馆区",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​中国茶叶博物馆双峰馆区",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

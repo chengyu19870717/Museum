@@ -1,0 +1,35 @@
+{
+  "id": "china_silk_museum",
+  "name": "中国丝绸博物馆",
+  "englishName": "",
+  "city": "杭州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中国丝绸博物馆位于中国浙江省杭州市上城区玉皇山路73-1号(近南山路)，是第一座全国性的丝绸专业博物馆，也是世界上最大的丝绸博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​中国丝绸博物馆",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​中国丝绸博物馆",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 30.225,
+  "longitude": 120.14722222,
+  "grade": null
+}

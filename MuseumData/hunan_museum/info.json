@@ -1,0 +1,77 @@
+{
+  "id": "hunan_museum",
+  "name": "湖南省博物馆",
+  "englishName": "",
+  "city": "长沙",
+  "province": "湖南",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "湖南省博物馆位于湖南长沙，占地5万多平方米，是湖南省最大的历史文化博物馆，曾用名「湖南博物院」。其初建于1951年3月，1956年7月正式建馆，1974年7月长沙马王堆汉墓出土文物陈列馆建成开放。2003年1月13日新陈列大楼建成开放。2008年5月18日，湖南省博物馆被中国文物局列为首批“国家一级博物馆”。2012年6月18日因改扩建工程暂停开放，于2017年11月29日重新开放。2022年7月30日，湖南省博物馆正式更名为湖南博物院。2025年10月12日，湖南博物院更名为湖南省博物馆，由正处级升为副厅级。\n湖南省博物馆现有馆藏文物18万余件。院內收藏了為數不少的马王堆汉墓出土文物，包括两千年不腐的马王堆女尸、馬王堆一號漢墓帛畫、直裾素紗襌衣，載有政治、經濟、哲學、歷史、天文、地理、醫學等等內容的帛書。湖南出土的众多青铜器也在院內陈列。\n其他重要展品还有「湖南考古十大新发现」，著名书法家画家的作品等。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Shi zun, Shang dynasty (1600 BC-1046 BC), excavated in 1981 from Xiangtan, Hunan, It is preserved in",
+      "credit": "Huangdan2060",
+      "license": "CC0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Bronze square ding (cauldron) with human faces: far from the Shang Dynasty territory. Ninxiang, Huna",
+      "credit": "smartneddy from FLICKR [1]",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Silk painting featuring a man (a wizard) asking a dragon to go to the sky, dated to 5th century BCE",
+      "credit": "anonymous",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​湖南省博物馆新馆入口",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​朱地彩绘漆棺，1972年湖南省长沙市马王堆一号墓出土，高88厘米，长230厘米，宽93厘米，为四层套棺的第三层棺。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "A part of a Taoist manuscript, ink on silk, 2nd century BCE, Han Dynasty, unearthed from  Mawangdui",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "The painting on silk depicts the heaven (upper part), the human realm (middle part), and the nether",
+      "credit": "anonymous",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Min Er Quan Bronze Square Lei, Shang dynasty (1600 BC-1046 BC), excavated in 1919 from Shuitian Town",
+      "credit": "Huangdan2060",
+      "license": "CC0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​直裾素纱襌衣",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 28.21526,
+  "longitude": 112.98784,
+  "grade": null
+}

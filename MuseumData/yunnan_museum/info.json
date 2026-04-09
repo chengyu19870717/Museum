@@ -1,0 +1,65 @@
+{
+  "id": "yunnan_museum",
+  "name": "云南省博物馆",
+  "englishName": "",
+  "city": "昆明",
+  "province": "云南",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "云南省博物馆是中华人民共和国云南省昆明市的一家综合地志博物馆，是国家一级博物馆，创建于1951年，2015年迁至新馆。云南省博物馆自成立以来在云南全省范围内进行了上百次的科学考古发掘、试掘、调查，包括石寨山古墓群、李家山古墓群大规模的发掘。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "03.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
+      "credit": "Daderot",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 24.95221,
+  "longitude": 102.7522,
+  "grade": null
+}

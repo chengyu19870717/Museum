@@ -1,0 +1,83 @@
+{
+  "id": "zhejiang_museum",
+  "name": "浙江省博物馆",
+  "englishName": "",
+  "city": "杭州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "浙江省博物馆，始建于1929年11月，是中国最早的地方综合性博物馆之一，曾名“浙江省西湖博物馆”、“浙江省立西湖博物馆”。位于杭州西湖孤山南麓，是浙江省内规模最大的综合性博物馆，国家一级博物馆、中央地方共建国家级博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Pottery stove in the Zhejiang Provincial Museum",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Collected and exhibited in Zhejiang Provincial Museum.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Located at Hangzhou, China.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Collected and exhibited in Zhejiang Provincial Museum.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Located at Hangzhou, China.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Collected and exhibited in Zhejiang Provincial Museum.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Located at Hangzhou, China.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​良渚玉琮王",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "This archaeological artifact was unearthed at Liangzhu, Hangzhou in 1986. Cong symbolizes supreme po",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Collected and exhibited in Zhejiang Provincial Museum.",
+      "credit": "LukeLOU",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 30.25333333,
+  "longitude": 120.13888889,
+  "grade": null
+}

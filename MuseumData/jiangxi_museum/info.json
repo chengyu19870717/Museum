@@ -1,0 +1,41 @@
+{
+  "id": "jiangxi_museum",
+  "name": "江西省博物馆",
+  "englishName": "",
+  "city": "南昌",
+  "province": "江西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "江西省博物馆是中华人民共和国江西省的大型综合性博物馆，位于南昌市红谷滩区，现为中国国家一级博物馆、江西省第一批古籍重点保护单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "​江西省博物馆（位于中国江西省南昌市）藏品——黑陶云雷纹兽首鼎，东周，1979年龙虎山仙水岩出土。",
+      "credit": "Zhangzhugang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​江西省博物馆（位于中国江西省南昌市）藏品——洪州窑青瓷猪圈，西晋，瑞昌码头晋墓出土。",
+      "credit": "Zhangzhugang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​江西省博物馆（位于中国江西省南昌市）藏品——七里镇窑鼓钉纹罐，宋，1986年赣州七里镇窑出土",
+      "credit": "Zhangzhugang",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 28.70926,
+  "longitude": 115.87698,
+  "grade": null
+}

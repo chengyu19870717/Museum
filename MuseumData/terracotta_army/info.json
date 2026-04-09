@@ -1,0 +1,77 @@
+{
+  "id": "terracotta_army",
+  "name": "秦始皇帝陵博物院",
+  "englishName": "",
+  "city": "西安",
+  "province": "陕西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "秦始皇帝陵是秦朝開國皇帝始皇帝的陵墓，位於中國陝西省西安市臨潼區驪山北麓，原名驪山園，現為世界遺產及全國重點文物保護單位。陵園距西安市區以東約31公里，現存封土堆高76米，坐西朝東，核心地宮尚未發掘，據考古探測推測其深度約相當於十層樓高，長80米、寬50米，以巨石板構築並設有複雜的防水系統。  \n陵墓修建時間存在爭議，傳統依據《史記》記載認為始建於公元前247年，歷時39年；但現代考古研究（如段清波教授團隊）提出實際集中建造期可能僅為統一後的公元前219至前213年，約7年完成。陵園布局仿秦都咸陽，分內外兩城，總面積244公頃，外圍陪葬的兵馬俑坑於1974年被發現，成為20世紀最重要考古發現之一。  \n關於地宮的記載見於《史記》，描述其以水銀模擬江河、機關密布，現代科技檢測亦證實封土存在異常汞分佈，形似中國疆域輪廓，支持史料可信性。歷史上雖有項羽、黃巢等盜掘傳說，但21世紀考古調查未發現成功入侵地宮的證據，僅在周邊發現局部盜洞。  \n自1987年與兵馬俑共同列入《世界遺產名錄》以來，是否主動發掘地宮仍存爭議，中國官方基於保護技術限制維持「不主動發掘帝王陵」政策。近年考古工作集中於外圍陪葬坑，如2023年發布的一號坑第三次發掘成果，揭示秦軍軍陣排列規律及陶俑製作工藝。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.png",
+      "caption": "Subdivision of Xi'an",
+      "credit": "ASDFGHJ (talk)",
+      "license": "CC BY-SA 2.5"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Terracotta Army‎‎ at Xi'an‎ in China",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "War chariots of the Terracotta Army‎",
+      "credit": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​秦始皇帝陵封土北側正面",
+      "credit": "Legolas1024",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 34.38194444,
+  "longitude": 109.25361111,
+  "grade": null
+}

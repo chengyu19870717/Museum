@@ -1,0 +1,83 @@
+{
+  "id": "capital_museum",
+  "name": "首都博物馆",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "首都博物馆，位于北京市西城区复兴门外大街16号，是北京市大型综合性博物馆，为北京市文物局直属单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​伯矩鬲，西周早期青铜器，出土北京市房山区琉璃河遗址。拍摄于首都博物馆",
+      "credit": "Baomi",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Capital Museum in Beijing, China",
+      "credit": "PENG Yanan (Neo-Jay/鸟甲)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Cizhou ware black undeglaze pillow, decorated with a story scene, signed by Wang Shouming 王寿明. Jin d",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Fu (象首纹簠) in Capital Museum, Beijing, China",
+      "credit": "PENG Yanan (Neo-Jay)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Giant Wild Goose Pagoda at Xi'an",
+      "credit": "Alex Kwok",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Hubert Vos's painting of a young girl from a rich family in Suzhou",
+      "credit": "Hubert Vos",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Tripod censer with Jingtai reign mark",
+      "credit": "shizhao from beijing, china",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Yan State. Capital Museum, 2010 visit. Complete indexed photo collection at WorldHistoryPics.com.",
+      "credit": "Gary Todd",
+      "license": "CC0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "White jade brush washer in petal shape",
+      "credit": "Shizhao",
+      "license": "CC0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​东汉墓葬壁画",
+      "credit": "狼狼君",
+      "license": "CC0"
+    }
+  ],
+  "latitude": 39.905088,
+  "longitude": 116.33595,
+  "grade": null
+}

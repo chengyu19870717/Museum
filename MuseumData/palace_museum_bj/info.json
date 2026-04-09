@@ -1,0 +1,65 @@
+{
+  "id": "palace_museum_bj",
+  "name": "颐和园",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "颐和园是清朝的皇家行宮和大型皇家園林，位于中国北京市海淀区西北，占地297公顷，主要由万寿山万寿山 (北京)和昆明湖组成。颐和园修建于清朝乾隆年间（原名清漪园）、重建于光绪年间，曾属于清朝北京西郊三山五园之一。颐和园素以人工建筑与自然山水巧妙结合的造园手法著称于世，是中国园林艺术顶峰时期的代表。1998年12月2日，颐和园被评为世界文化遺產。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "03.jpg",
+      "caption": "Palaces, avenues, buildings, parks, and scenery around China's Capital\nA small Pavilion on the Lake",
+      "credit": "Yinan Chen",
+      "license": "Public Domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Giant Wild Goose Pagoda at Xi'an",
+      "credit": "Alex Kwok",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Main building on Nanhu Island.",
+      "credit": "N509FZ",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Hall of Benevolence and Longevity, Imperial Summer Palace, BeijingImperial Summer Palace",
+      "credit": "Eunice winG from Malaysia",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Image from La Chine à terre et en ballon.",
+      "credit": "capitaine Plaisant",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​从西侧眺望万寿山和佛香阁，下方是画舫和一排游船。",
+      "credit": "Charlie fong",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "The Longevity Hill (万寿山) of the Summer Palace (颐和园).",
+      "credit": "Zcm11",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 39.9975,
+  "longitude": 116.2689,
+  "grade": null
+}

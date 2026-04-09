@@ -1,0 +1,41 @@
+{
+  "id": "macau_museum",
+  "name": "澳门博物馆",
+  "englishName": "",
+  "city": "澳门",
+  "province": "澳门",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Picture Of The Macau Museum",
+      "credit": null,
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Macau Museum: The Sign At The Entrance",
+      "credit": null,
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "zh:澳門博物館, Museum of Macau\n\nPhoto author= Mo707",
+      "credit": null,
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

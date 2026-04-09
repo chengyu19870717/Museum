@@ -1,0 +1,35 @@
+{
+  "id": "sanxingdui_museum",
+  "name": "三星堆博物馆",
+  "englishName": "",
+  "city": "广汉",
+  "province": "四川",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "四川广汉三星堆博物馆位于中華人民共和國四川省德阳市廣漢市三星堆镇三星堆遗址的东北部，是国家一级博物馆、国家AAAA级旅游景区，博物馆于1997年10月建成开放，并于2023年7月建成新馆。三星堆博物馆常设展包括“世纪逐梦”、“巍然王都”和“天地人神”三个部分。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "This is the new Sanxingdui Museum, which was officially opened to the public in July 2023.",
+      "credit": "STW932",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "SanXingDui Museum",
+      "credit": "Jason Zou",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 31.00308,
+  "longitude": 104.21814,
+  "grade": null
+}

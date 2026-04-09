@@ -1,0 +1,65 @@
+{
+  "id": "neimenggu_museum",
+  "name": "内蒙古博物院",
+  "englishName": "",
+  "city": "呼和浩特",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "内蒙古博物院（英語：Inner Mongolia Museum），旧名内蒙古博物馆，位于内蒙古自治区首府呼和浩特市，新馆位于赛罕区新华东街与万通路交叉口东南侧，与内蒙古乌兰恰特大剧院毗邻。馆舍主体建筑面积约14.7万平方米，其中展览面积约3.9万平方米，由陈列展厅区、文物库房区、观众服务区、业务科研区及多功能厅等各部分组成。\n博物院是内蒙古最大以及最重要的博物馆机构，兼具历史和自然博物馆的职能。院内收藏有古生物化石、历史文物、民族民俗文物15万余件组，其中珍贵文物5600余件套，国家一级文物650件套。展览按照草原主线而安排，突出地域与民族特色。展品涵盖了从化石到现存生物，从各个民族的起源到发展壮大的代表文物，揭示了中国北方生态变迁史与草原文明发展史的扼要进程。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Inner Mongolia Museum and the Inner Mongolia Ulanqat Grand Theatre",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Photos from our trip to Hohhot, Inner Mongolia, China for National Day Holiday 2007.\n\nThis is the In",
+      "credit": "Sam / Olai Ose / Skjaervoy from Zhangjiagang, China",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Inner Mongolia Museum in 1957 with people in the front celebrating the 10th anniversary of Inner Mon",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Inner Mongolia Museum, Night, in 1950s",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Inner Mongolia Museum, in late 1950s",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Photos from our trip to Hohhot, Inner Mongolia, China for National Day Holiday 2007.\n\nThis is the In",
+      "credit": "Sam / Olai Ose / Skjaervoy from Zhangjiagang, China",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "The gold crown of Xiongnu King.",
+      "credit": "三猎",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 40.84008056,
+  "longitude": 111.75807222,
+  "grade": null
+}

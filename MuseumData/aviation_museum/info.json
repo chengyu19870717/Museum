@@ -1,0 +1,83 @@
+{
+  "id": "aviation_museum",
+  "name": "中国航空博物馆",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中国航空博物馆（英語：Chinese Aviation Museum）原位于北京市昌平区小汤山镇，坐落在昌平大汤山脚下的沙河机场，目前已启动搬迁至吉林省长春市绿园区大房身机场的计划，北京原址已于2025年10月9日闭馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.png",
+      "caption": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Hea",
+      "credit": "Turkmenistan.airlines.frontview.arp.jpg: elfuser\nderivative work: Elfuser (talk)",
+      "license": "Public domain"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "CHINA AVIATION MUSEUM AT DATANGSHAN CHINA OCT 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "CHINA AVIATION MUSEUM AT DATANSHANG CHINA OCT 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "CHINA AVIATION MUSEUM AT DATANSHANG CHINA OCT 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "CHINA AVIATION MUSEUM AT DATANSHAN CHINA OCT 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "CHINA AVIATION MUSEUM AT DATANSHAN CHINA OCT 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "China Aviation Museum - Hangar.",
+      "credit": "Jagooah",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "China Aviation Museum",
+      "credit": "San Andreas",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "ORIGINALLY A FIGHTER BASE THE DATANGSHAN AVIATION MUSEUM USES THE ORIGINAL HANGAR AREA WHICH IS BUIL",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "DATANSHAN AVIATION MUSEUM BEIJING CHINA OCT. 2012",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    }
+  ],
+  "latitude": 40.18316667,
+  "longitude": 116.35675,
+  "grade": null
+}

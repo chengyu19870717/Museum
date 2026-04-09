@@ -1,0 +1,29 @@
+{
+  "id": "shanghai_science",
+  "name": "上海科技馆",
+  "englishName": "",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "上海科技館位於中國上海市浦东新区花木行政文化中心區的世纪大道2000號，是以科普教育為主的展覽館，以「自然·人·科技」為主題。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Damuzhi plaza",
+      "credit": "Yhz1221",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 31.22014722,
+  "longitude": 121.53723333,
+  "grade": null
+}

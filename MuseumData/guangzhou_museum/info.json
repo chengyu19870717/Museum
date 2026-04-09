@@ -1,0 +1,47 @@
+{
+  "id": "guangzhou_museum",
+  "name": "广州博物馆",
+  "englishName": "",
+  "city": "广州",
+  "province": "广东",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "广州博物馆，位于广东省广州市，是广州市级博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "03362-Guangzhou",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "This is a photo of a (or part of a) Major National Historical and Cultural Site in China identi",
+      "credit": "Skywalk1722",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "03362-Guangzhou",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "This is a photo of a (or part of a) Major National Historical and Cultural Site in China identi",
+      "credit": "Skywalk1722",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

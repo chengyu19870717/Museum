@@ -1,0 +1,71 @@
+{
+  "id": "chongqing_museum",
+  "name": "重庆中国三峡博物馆",
+  "englishName": "",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "重庆中国三峡博物馆位于重庆市渝中区上清寺附近，与重庆市人民大礼堂隔人民广场相对而立，与重庆市人民政府驻地相邻。是国家文物局指定的国家一级博物馆。\n\n",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Atrium of the Three Gorges Museum, Chongqing, China.",
+      "credit": "Jpbowen",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Chongqing People's Square 2002",
+      "credit": "Bärtschi, Hans-Peter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "My second museum i visited after Nanjing Museum in China.This is very wonderful museum",
+      "credit": "Eng.Justus Byebirooha",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "重庆中国三峡博物馆",
+      "credit": "Zhangzhugang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Carved stone with fish figure, from the Eastern Han Dynasty, excavated from Fengdu and displayed at",
+      "credit": "Jpbowen",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Three Gorges museum tour",
+      "credit": "Eng.Justus Byebirooha",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Three Gorges gallery display in the Three Gorges Museum, Chongqing, China.",
+      "credit": "Jpbowen",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Display of traditional costumes in the Three Gorges Museum, Chongqing, China.",
+      "credit": "Jpbowen",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 29.565,
+  "longitude": 106.54722222,
+  "grade": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "china_art_museum",
+  "name": "中华艺术宫",
+  "englishName": "",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中华艺术宫（上海美术馆），是位于中华人民共和国上海市浦东新区的一座艺术博物馆，坐落于原2010年上海世博会中国馆，其前身是创建于1956年的上海美术馆，於2012年10月1日迁至现址，及挂牌为中华艺术宫。博物馆以收藏中国近现代美术作品为主，藏品超过1.4万件，总建筑面积达16万平米，展示面积达6.4万平方米，拥有27个展厅。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "The animation based on the historic Chinese painting Along the River During the Qingming Festival in",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Lobby area with information desk.",
+      "credit": "DavidXiaoDaShan",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Inside the lobby looking at the information desk",
+      "credit": "DavidXiaoDaShan",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​中华艺术宫里的雕塑",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​中华艺术宫的雕塑",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​中华艺术宫的藏品《聂耳与田汉》",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​中华艺术宫的藏品，作品名不详",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​中华艺术宫的藏品（风景画）",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​中华艺术宫的藏品（书画作品）",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​中华艺术宫的藏品（人民警察雕塑）",
+      "credit": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 31.186,
+  "longitude": 121.49,
+  "grade": null
+}

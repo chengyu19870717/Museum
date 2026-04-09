@@ -1,0 +1,77 @@
+{
+  "id": "national_museum_cn",
+  "name": "中国国家博物馆",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中国国家博物馆，简称国家博物馆或国博，位于中华人民共和国北京市东城区东长安街16号、天安门广场东侧。总建筑面积近20万平方米，藏品数量140余万件，展厅数量48个，是世界上单体建筑面积最大的博物馆，是中华文物收藏量最丰富的博物馆之一。\n中国国家博物馆现有藏品数量140万余件，涵盖古代文物、近现代文物、图书古籍善本、艺术品等多种门类。其中，古代文物藏品81.5万件（套），近现代文物藏品34万件（套），图书古籍善本24万余件（册），共有一级文物近6000件（套）。其展览包括基本陈列、专题展览、临时展览三大系列，构成涵盖主题展览、基本陈列、专题展览、临时展览的立体化展览体系。其中，“古代中国”、“复兴之路”和“复兴之路新时代部分”为国家博物馆的基本陈列。2012年国家博物馆观众接待量高达537万人次，2016年达到755万人次。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Tiananmen Square",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Brick relief depicting two scholars and two maids, from the Southern Dynasties. Unearthed at Xuezhua",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Bronze cannon with inscription dated the 3rd year of the Zhiyuan era (1332). Yuan Dynasty (1206-1368",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Bronze plate for printing an advertisement for the Liu  family needle shop at Jinan. Song Dynasty (9",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Bronze seal inscribed \"河東南路兵馬都總管印\", dated 12th year of the Dading era (1172) on its back. Jin Dynast",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Exhibition of Achievements in China's Manned Spaceflight Program of 30 Years at the Nation Museum of",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Ceramic figure of a story-teller accompanying himself with a drum in National Museum of China.",
+      "credit": "Shujianyang",
+      "license": "CC0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Pastel pierced turn vase, Qianlong of Qing Dynasty Chinese works. Now stored in the National Museum.",
+      "credit": "The original uploader was Refrain at Chinese Wikipedia.",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Corner of facade of National Museum of China",
+      "credit": "Shujianyang",
+      "license": "CC0"
+    }
+  ],
+  "latitude": 39.9036,
+  "longitude": 116.395,
+  "grade": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "jilin_museum",
+  "name": "吉林省博物院",
+  "englishName": "",
+  "city": "长春",
+  "province": "吉林",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "吉林省博物院，原名“吉林省博物馆”，位于吉林省长春市南关区永顺路1666号，是吉林省内规模最大的综合性历史艺术博物馆，属国家一级博物馆。该馆现有藏品12万余件，館藏的中国历代书画，高句丽、渤海國、满族文物，近现代革命文物具有特色。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Jilin Provincal Museum New Building",
+      "credit": "Amarespeco",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "吉林省博物馆 Ji Lin Museum",
+      "credit": "wanghongliu",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

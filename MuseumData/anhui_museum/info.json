@@ -1,0 +1,47 @@
+{
+  "id": "anhui_museum",
+  "name": "安徽博物院",
+  "englishName": "",
+  "city": "合肥",
+  "province": "安徽",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "安徽博物院又名安徽省博物馆，是中华人民共和国安徽省唯一一家集自然、历史、社教为一体的省级综合类博物馆，廬陽館（旧馆，1956年建，全國重點文物保護單位名稱“安徽省博物館陳列展覽大樓”）位于合肥市安庆路268号，占地面积约70亩，蜀山館（新馆）位于合肥市怀宁路268号，建筑面积4.1万平方米。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​安徽博物院中庭",
+      "credit": "白色瑰宝",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​安徽博物院新院正侧面",
+      "credit": "白色瑰宝",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​安徽博物院正面",
+      "credit": "白色瑰宝",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​安徽博物馆",
+      "credit": "钉钉",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 31.804,
+  "longitude": 117.2149,
+  "grade": null
+}

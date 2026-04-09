@@ -1,0 +1,29 @@
+{
+  "id": "shanghai_history",
+  "name": "上海历史博物馆",
+  "englishName": "",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "上海市历史博物馆（上海革命历史博物馆），位于上海市南京西路325号原上海跑马总会大楼，是介绍上海历史（截至上海戰役前）的上海市级地方性历史博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "Shanghai Art Museum",
+      "credit": "Art Museum Photographer",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 31.23258,
+  "longitude": 121.46665,
+  "grade": null
+}

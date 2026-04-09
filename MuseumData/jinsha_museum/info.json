@@ -1,0 +1,47 @@
+{
+  "id": "jinsha_museum",
+  "name": "金沙遗址博物馆",
+  "englishName": "",
+  "city": "成都",
+  "province": "四川",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "金沙遗址博物馆，位于中国四川省成都市青羊区金沙街道金沙遗址社区金沙遗址路2号，坐落在金沙遗址，是展示和研究金沙遗址的博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Jinsha Site Museum, Chengdu, Sichuan. Complete indexed photo collection at WorldHistoryPics.com.",
+      "credit": "Gary Todd",
+      "license": "CC0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​金沙遗址博物馆",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​金沙遗址博物馆",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​金沙遗址博物馆遗迹馆",
+      "credit": "Kcx36",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 30.68556111,
+  "longitude": 104.01195,
+  "grade": null
+}

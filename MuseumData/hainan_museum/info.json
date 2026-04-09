@@ -1,0 +1,47 @@
+{
+  "id": "hainan_museum",
+  "name": "海南省博物馆",
+  "englishName": "",
+  "city": "海口",
+  "province": "海南",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "海南省博物馆位于海南省海口市琼山区国兴大道68号。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "The Street of Sanya, Hainan, China",
+      "credit": "Fanghong",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Hainan Museum, Haikou city, Hainan Province, China.",
+      "credit": "Anna Frodesiak",
+      "license": "CC0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "The Street of Sanya, Hainan, China",
+      "credit": "Fanghong",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Hainan Museum, Haikou city, Hainan Province, China.",
+      "credit": "Anna Frodesiak",
+      "license": "CC0"
+    }
+  ],
+  "latitude": 20.01751,
+  "longitude": 110.37459,
+  "grade": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ningxia_museum",
+  "name": "宁夏回族自治区博物馆",
+  "englishName": "",
+  "city": "银川",
+  "province": "宁夏",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "宁夏回族自治区博物馆，简称宁夏博物馆，位于宁夏回族自治区银川市金凤区人民广场东街6号，是宁夏回族自治区属综合性博物馆，宁夏回族自治区文化厅直属事业单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Fragments of the Tangut version of the Thousand Names of the Buddha of the Present (現在賢劫千佛名經) [N11·0",
+      "credit": "BabelStone",
+      "license": "CC0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Five clay tsha-tsha (small tablets made of stamped clay) and a clay miniature stupa model, found in",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Gray Pottery Architecture Omament, collection of Ningxia Museum, unearthed at Yinchuan, Ningxia in 1",
+      "credit": "Baomi",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Tangut printed Buddhist text discovered in in 2005 at the Shanzuigou Caves, Helan County, Ningxia. C",
+      "credit": "BabelStone",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​石马，1977年宁夏银川西夏陵区M177出土，长130cm、宽38cm、高70cm、重355kg，现藏于宁夏博物馆",
+      "credit": "雕刻者不详，Baomi拍摄",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​石雕力士志文支座，1974年宁夏银川西夏陵区6号陵出土，白砂石质，长68cm、宽65cm、高62cm，现藏于宁夏博物馆",
+      "credit": "Baomi",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​西夏王陵鎏金铜牛",
+      "credit": "Yanxutong1215",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

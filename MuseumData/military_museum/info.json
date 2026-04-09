@@ -1,0 +1,83 @@
+{
+  "id": "military_museum",
+  "name": "中国人民革命军事博物馆",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "中国人民革命军事博物馆，又称中央军委政治工作部军事博物馆，简称军事博物馆、军博，位于中國北京市海淀区羊坊店街道复兴路9号，地处长安街西延长线上，隶属中央军委政治工作部，为副军级单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "The Chinese people's Revolutionary Military Museum at the end of 2019",
+      "credit": "Wcr1993",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.png",
+      "caption": "​中国民兵和专武干部国旗臂章",
+      "credit": "中华人民共和国国防部",
+      "license": "Public domain"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "The main hall of the Beijing Military Museum.",
+      "credit": "Max Smith",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.png",
+      "caption": "A generic U.S. World War II tank, a derivate of Image:TM-9-374-T25E1-1.jpg, background removed (tran",
+      "credit": "LA2",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "A T-62 tank which raised from the river's bottom after the 1969 Sino-Soviet border clash by the PLA",
+      "credit": "Marchrius",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "DF-2 missile in Beijing military museum",
+      "credit": "Prinz.W",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.png",
+      "caption": "Emblem of China Coast Guard",
+      "credit": "中国海警局",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Giant Wild Goose Pagoda at Xi'an",
+      "credit": "Alex Kwok",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​1959年的解放军历史博物馆。",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "The M1896 pistol Zhu De used during the Nanchang Uprising. First Grade Cultural Relic.",
+      "credit": "Antolavoasio",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 39.90766944,
+  "longitude": 116.31772222,
+  "grade": null
+}

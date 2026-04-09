@@ -1,0 +1,47 @@
+{
+  "id": "fujian_museum",
+  "name": "福建博物院",
+  "englishName": "",
+  "city": "福州",
+  "province": "福建",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "福建博物院，簡稱閩博，是一座位于福建省福州市的省级综合性博物馆，现有馆藏文物和自然标本近17万余件，其中珍贵文物3万余件。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.png",
+      "caption": "The bronze gilt lion-shaped incense burner of Wang Yanhan, King of Min",
+      "credit": "Perinbaba",
+      "license": "CC0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​福建博物院主展馆正门",
+      "credit": "FradonStar",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.png",
+      "caption": "The bronze gilt lion-shaped incense burner of Wang Yanhan, King of Min",
+      "credit": "Perinbaba",
+      "license": "CC0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​福建博物院主展馆正门",
+      "credit": "FradonStar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 26.09722222,
+  "longitude": 119.2825,
+  "grade": null
+}

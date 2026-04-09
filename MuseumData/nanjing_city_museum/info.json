@@ -1,0 +1,35 @@
+{
+  "id": "nanjing_city_museum",
+  "name": "南京市博物馆",
+  "englishName": "",
+  "city": "南京",
+  "province": "江苏",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "南京市博物馆位于江苏省南京市秦淮区冶山朝天宫，为南京市博物总馆分支机构，是以南京地方历史文化为主题的综合性历史艺术类博物馆，国家一级博物馆。该馆1978年正式成立，前身是南京市文物保管委员会。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "朝天宮 南京市博物館 2004年5月5日撮影 撮影者：権作\n\n参照：http://px820.onmitsu.jp/kankou/chaotiangong/chaotiangong01.html",
+      "credit": "No machine-readable author provided. Px820~commonswiki assumed (based on copyrig",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "朝天宮 南京市博物館 2004年5月5日撮影 撮影者：権作\n\n参照：http://px820.onmitsu.jp/kankou/chaotiangong/chaotiangong01.html",
+      "credit": "No machine-readable author provided. Px820~commonswiki assumed (based on copyrig",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "palace_museum",
+  "name": "故宫博物院",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "故宮博物院，又稱北京故宮，是位于中华人民共和国北京紫禁城内的博物館。民國元年（1912年）清帝溥仪退位後仍居於宮內。至民國十三年（1924年）十一月五日，黃郛攝政內閣公布修正清室優待條件第五條，廢除皇帝尊號，並將溥儀驅逐出宮。政府代表李煜瀛、京師警衛司令鹿鍾麟、警察總監張璧，於六日接管皇宮，封存文物。後經攝政內閣核准，經一年之整理，故宮博物院於民國十四年國慶節（1925年10月10日）正式成立開幕。它位于北京中轴线的中心，佔地面积72万平方米，建筑面积约15万平方米；始建于明成祖朱棣永乐四年（1406年），永乐十八年（1420年）落成；藏品也主要是以明、清两代皇宫及其收藏为基础。2012年单日最高客流量突破18万人次，全年客流量突破1500万人次，可以说是世界上接待游客最繁忙的博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "故宫博物院",
+      "credit": "Zhang Zeduan",
+      "license": "Public domain"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "故宫博物院",
+      "credit": null,
+      "license": "Public domain"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "A sundial in the Forbidden City, or Imperial Palace, in Beijing",
+      "credit": "User:Sputnikcccp~commonswiki",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Clock with a copper hatstand，Made in Impiral Workshops，Qianlong period（1736-1795），Qing Dynasty",
+      "credit": "用心阁",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​夕阳下的北京故宫角楼",
+      "credit": "颐园新居",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​《步辇图》",
+      "credit": "Yan Liben",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Shenwumen Gate (神武门) of Forbidden City, Beijing",
+      "credit": "user:kallgan",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "故宫博物院",
+      "credit": null,
+      "license": "CC SA 1.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "\"Sketch of Rare Birds\" (写生珍禽图, Xie Sheng Zhen Qiu Tu) — 41.5 x 70 cm. Sketches of birds, insects and",
+      "credit": "Huang Quan (903-965)",
+      "license": "Public domain"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "The Dragon Throne of the Emperor of China inside the Forbidden City.",
+      "credit": "DF08",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 39.915556,
+  "longitude": 116.390833,
+  "grade": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "natural_history_bj",
+  "name": "中国自然博物馆",
+  "englishName": "",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Exterior of the Beijing Museum of Natural History.",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Beijing Museum of Natural History Dinosaur Hall",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Photo of the skull of Lufengosaurus magnus at the Beijing Museum of Natural History, on tour at the",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Microraptor Specimen on display at Beijing Museum of Natural History",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Szechuanosaurus at the Beijing Museum of Natural History",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Yangchuanosaurus mount at the Beijing Museum of Natural History",
+      "credit": null,
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

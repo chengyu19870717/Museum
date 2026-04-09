@@ -1,0 +1,65 @@
+{
+  "id": "liangzhu_museum",
+  "name": "良渚博物院",
+  "englishName": "",
+  "city": "杭州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "良渚博物院位于中华人民共和国浙江省杭州市余杭区良渚街道美丽洲路1号、美丽洲公园内，是一座展览、陈列、研究良渚文化的专题类博物馆，其前身为1994年成立开馆的良渚文化博物馆，新馆于2005年3月动工、2008年10月对外开放，馆名由江泽民题写。2017年8月，根据良渚遗址和良渚文化最新考古成果，良渚博物院基本陈列改造升级，于2018年6月重新对外开放。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "​玉带钩，浙江余杭反山遗址14号墓出土，良渚博物院藏。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​玉璧，浙江余杭反山遗址14号墓出土，良渚博物院藏。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​玉琮，浙江余杭反山遗址17号墓出土，良渚博物院藏。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​玉琮，浙江余杭瑶山遗址出土，良渚博物院藏。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​玉钺，浙江余杭瑶山遗址7号墓出土，良渚博物院藏。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​良渚博物院，东南侧主入口。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​良渚博物院，大厅前的庭院。",
+      "credit": "猫猫的日记本",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

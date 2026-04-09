@@ -1,0 +1,83 @@
+{
+  "id": "nanyue_museum",
+  "name": "南越王博物院",
+  "englishName": "",
+  "city": "广州",
+  "province": "广东",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "南越王博物院是一座位于中华人民共和国广东省广州市的大型考古遗址类博物馆，为国家一级博物馆，于2021年9月8日由原西汉南越王博物馆和原南越王宫博物馆合并组建成立。\n南越王博物院的主要展出内容为南越国遗址及考古发现，当前分为南越王博物院王墓展区及南越王博物院王宫展区，其中王墓为南越国第二代王赵眜之墓，王宫为南越国宫殿遗址，二者均为全国重点文物保护单位，合计建筑面积达4万平方米，是广州市的著名旅游景点。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "\"Hua Yin Gong\" sherd  (203 B.C. - 111 B.C.) in Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "\"Left Concubine\" bronze seal (203 B.C. - 111 B.C.) at Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "\"Pan Yu\" inscription on bronze tripod ding (203 B.C. - 111 B.C.) in Nanyue King Museum, Guangzhou, C",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "\"Right Concubine\" gold seal (203 B.C. - 111 B.C.) at Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "\"Taizi\" Seal (203 B.C. - 111 B.C.) at Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "\"Yong Xiang Ling\" bronze seal (203 B.C. - 111 B.C.) at Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Wadang with ‘萬歲’ (vạn tuế, ten thousand years) written on it in the Nanyue King Museum",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Tomb of Zhao Mo, King of Nanyue, Han Dynasty, Guangzhou. Complete indexed photo collection at WorldH",
+      "credit": "Gary Todd from Xinzheng, China",
+      "license": "CC0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Bronze \"Gou Diao\" (203 B.C. - 111 B.C.) in Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Bronze \"Niu Zhong\" (203 B.C. - 111 B.C.) in Nanyue King Museum",
+      "credit": "Shujianyang",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

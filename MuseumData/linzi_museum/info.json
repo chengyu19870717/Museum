@@ -1,0 +1,35 @@
+{
+  "id": "linzi_museum",
+  "name": "淄博市博物馆",
+  "englishName": "",
+  "city": "淄博",
+  "province": "山东",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "淄博市博物馆，中华人民共和国山东省淄博市的一家地志性综合性博物馆，国家一级博物馆，座落于淄博市张店区商场西路153号，该市中心广场北侧。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "​西汉初年齐国矩形龙纹铜镜，1980年出土于山东淄博大武公社窝托村南古墓五号陪葬坑。照片拍摄于淄博市博物馆，据User:Inhorw称，它应为复制品，因为此铜镜的原件在中国国内一直不公开展出。",
+      "credit": "Baomi",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​淄博市博物馆馆舍，1992年建成并投入使用，座落在淄博市中心广场，占地面积28000平方米，建筑面积13000平方米，由展览大楼(9300平方米)、文物库房楼(1500平方米)和办公大楼（2200平",
+      "credit": "Baomi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 36.80349,
+  "longitude": 118.03214,
+  "grade": null
+}

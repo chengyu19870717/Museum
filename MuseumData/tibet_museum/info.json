@@ -1,0 +1,83 @@
+{
+  "id": "tibet_museum",
+  "name": "西藏博物馆",
+  "englishName": "",
+  "city": "拉萨",
+  "province": "西藏",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "西藏博物馆（藏語：བོད་ལྗོངས་རྟེན་རྫས་བཤམས་མཛོད་ཁང་，威利转写：bod ljongs rten rdzas bshams mdzod khang）位于拉萨市城关区，是西藏第一座具有现代化功能的博物馆，也是西藏唯一一座综合性国家一级博物馆。总占地53,959平方米，建筑面积达23,508平方米，包括三个部分：主馆区，民俗文化苑和办公区，展厅面积为10,451平方米，馆藏瓷器、玉器、佛像、唐卡、典籍特别是印章、封诰等历史文物52万余件其藏品包括西藏史前文化遗物，并入中国后被历代帝王晋封的历史展品，藏族文化艺术作品以及民俗文化藏品等，是开展爱国主义和民族团结教育的重要基地。\n西藏博物馆于1999年10月落成开馆，2009年7月对外免费开放，是一座集收藏与保护、教育与研究、开放与服务为一体的综合性博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Tibet Museum, Lhasa",
+      "credit": "Gongfu King",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Tibetan Museum in Lhasa.",
+      "credit": "Fanghong",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​201308藏刀加工工艺流程",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​201308藏式客厅",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​201308藏式客厅",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Tibetan tools to cross the river. Yak skin boat.",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​2013藏民纺织工具",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​2013西藏博物馆内景",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​201308西藏博物馆参观导览图",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​201308西藏博物馆服务台",
+      "credit": "Coolmanjackey",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": 29.65115,
+  "longitude": 91.09728,
+  "grade": null
+}

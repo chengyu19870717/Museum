@@ -1,0 +1,71 @@
+{
+  "id": "nanjing_museum",
+  "name": "南京博物院",
+  "englishName": "",
+  "city": "南京",
+  "province": "江苏",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "南京博物院（英語：Nanjing Museum），简称南博，是一座位於中華人民共和國南京市的历史艺术博物馆。南京博物院為中國国家一级博物馆，與北京故宮博物院及臺北國立故宮博物院齊名。行政上，为隶属于江苏省文化和旅游厅的副厅级公益性文化事业单位。\n南京博物院位于江苏省南京市紫金山南麓、中山门內半山园，占地7万多平方米，馆藏文物43万余件（套）。1933年，南京国民政府教育部为筹备国立中央博物院，设立筹备处，1949年迁台。其筹备的国立中央博物院是中国第一所由政府兴建的现代综合性大型博物馆。南京博物院历史馆所在的原国立中央博物院旧址列为第四批江苏省文物保护单位。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​1950年3月9月，国立南京博物院成立典礼。",
+      "credit": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Nanjing Museum plaque inscribed by Sha Menghai",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Camellia and a Lonely Bird, Zhou Shuxi, Qing Dynasty, China, Nanjing Museum",
+      "credit": "Zhou Shuxi",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "zh:雕漆，牛郎织女纹盒，清朝文物，藏于zh:南京博物院",
+      "credit": "Farm",
+      "license": "CC BY-SA 2.5"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "南京博物院",
+      "credit": "Yuan Yao",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Firsherman and Fisherwoman, Huang Shen, Qing Dynasty, China, Nanjing Museum.",
+      "credit": "Huang Shen",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Four Beauties, Ni Tian, Qing Dynasty, China, Nanjing Museum.",
+      "credit": "Ni Tian",
+      "license": "Public domain"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Giant Bamboos and Stones, Li Kan, Yuan Dynasty, China, Nanjing Museum.",
+      "credit": "李衎 Li Kan",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 32.04264444,
+  "longitude": 118.82017222,
+  "grade": null
+}

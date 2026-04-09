@@ -1,0 +1,77 @@
+{
+  "id": "hubei_museum",
+  "name": "湖北省博物馆",
+  "englishName": "",
+  "city": "武汉",
+  "province": "湖北",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "湖北省博物馆是湖北省唯一的省级综合性博物馆，也是国家一级博物馆、中央和地方共建的八家国家级重点博物馆之一，国家文物局挂牌的饱水漆木器保护基地，中国博物馆协会乐器专委会主任委员单位，主要承担着全省文物的收藏、保管、保护、陈列展览及藏品的研究工作。该馆是国家旅游局命名的国家5A级旅游景区东湖的重要组成部分，位于湖北省武汉市武昌区东湖路156号。\n湖北省博物馆现有藏品24万余件，国家一级文物近千件。以屈家岭文化、石家河文化为代表的史前陶器，盘龙城和曾侯乙墓为代表的青铜器，春秋中期楚墓到汉墓出土的大量漆器，曾侯乙墓、郭店楚墓、望山楚墓、包山楚墓、云梦秦墓出土的大量竹简，梁庄王墓、郢靖王墓出土的藩王文物最具特色，是馆藏文物的代表。其中郧县人头骨化石、越王勾践剑、曾侯乙编钟和元青花四爱图梅瓶被誉为湖北省博物馆的四大“镇馆之宝”。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "Hubei Provincial Museum,which  is located in Wuhan City, Hubei Province\n坐落于湖北省武汉市的湖北省博物馆,馆名由董必武题写.",
+      "credit": "No machine-readable author provided. 风之清扬 assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​2009年10月8日摄于湖北省博物馆",
+      "credit": "Fmwang at Chinese Wikipedia",
+      "license": "Public domain"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​2009年10月8日摄于湖北省博物馆",
+      "credit": "Fmwang at Chinese Wikipedia",
+      "license": "Public domain"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​2009年10月8日摄于湖北省博物馆",
+      "credit": "Fmwang at Chinese Wikipedia",
+      "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Hubei Provincial Museum in the state of Chu Culture Exhibition Hall\n\n湖北省博物馆内的楚文化展厅",
+      "credit": "No machine-readable author provided. 风之清扬 assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Tomb of Prince Liangzhuang\n\n位于湖北省武汉市湖北省博物馆的明代梁庄王墓展厅",
+      "credit": "No machine-readable author provided. 风之清扬 assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "​湖北省博物馆-曾世家",
+      "credit": "三十三画生",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "​湖北省博物馆-曾侯乙",
+      "credit": "三十三画生",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "​湖北省博物馆-梁庄王珍藏",
+      "credit": "三十三画生",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 30.56388889,
+  "longitude": 114.35888889,
+  "grade": null
+}

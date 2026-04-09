@@ -1,0 +1,35 @@
+{
+  "id": "sichuan_museum",
+  "name": "四川博物院",
+  "englishName": "",
+  "city": "成都",
+  "province": "四川",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "四川博物院位于中国四川省成都市城西青羊区，浣花溪公园旁，始建于1941年，是中国西南地区规模最大的综合性博物馆，藏品数量在中国大陆各类博物馆中位居第六，现有院藏文物26万余件，其中珍贵文物5万余件，国家一级文物1399件。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Sichuan Provincial Museum (四川省博物院), also known as the Sichuan Museum, 251 Huanhua S Road, Chengdu, S",
+      "credit": "Daderot",
+      "license": "CC0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Sichuan Provincial Museum (四川省博物院), also known as the Sichuan Museum, 251 Huanhua S Road, Chengdu, S",
+      "credit": "Daderot",
+      "license": "CC0"
+    }
+  ],
+  "latitude": 30.66303616,
+  "longitude": 104.02913358,
+  "grade": null
+}

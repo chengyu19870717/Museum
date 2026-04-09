@@ -1,0 +1,35 @@
+{
+  "id": "xian_museum",
+  "name": "西安博物院",
+  "englishName": "",
+  "city": "西安",
+  "province": "陕西",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "西安博物院是一座位于中华人民共和国陕西省西安市碑林區友谊西路的博物院。西安博物院总投资2.2亿元，占地面积245亩，于2007年5月18日“国际博物馆日”正式对外开放。整个博物院由博物馆区、唐小雁塔荐福寺历史名胜区、园林游览区三部分组成。\n2012年，西安博物院被国家文物局核定为第二批国家一级博物馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "Xi'an Museum in Xi'an, China",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "Xi'an Museum in Xi'an, China",
+      "credit": "xiquinhosilva",
+      "license": "CC BY 4.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "guangdong_museum",
+  "name": "广东省博物馆",
+  "englishName": "",
+  "city": "广州",
+  "province": "广东",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "广东省博物馆（英語：Guangdong Museum，简称：省博、粤博），是广东省目前规模最大的综合性博物馆。分为珠江新城馆区和文明路馆区。珠江新城馆区位于广州市天河区珠江新城猎德街道珠江东路2号。文明路馆区位于越秀区大塘街道龙腾社区文明路215号，包括广州鲁迅纪念馆和广东贡院明远楼。\n该馆在2008年5月18日被公布为首批国家一级博物馆，2024年4月入选中央地方共建国家级重点博物馆名单。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "construction of new Kwangtung Museum in Tinho, Canton",
+      "credit": "FHKE",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​广东省博物馆",
+      "credit": "myself",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Guangdong Museum at Zhujian New Town, Guangzhou, China",
+      "credit": "Shujianyang",
+      "license": "CC0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "first floor of Guangdong Museum(Look down)",
+      "credit": "XiaoGuoQuQ233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Hall on the first floor of Guangdong Museum",
+      "credit": "XiaoGuoQuQ233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Entrance to the Ocean World of Guangdong Museum",
+      "credit": "XiaoGuoQuQ233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Intelligent guided self-service rental machine of Guangdong Museum",
+      "credit": "XiaoGuoQuQ233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Souvenir buying machine of Guangdong Museum",
+      "credit": "XiaoGuoQuQ233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "広東省博物館",
+      "credit": "そらみみ",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Ocean World in Guangdong Museum",
+      "credit": "Chiangdm",
+      "license": "Public domain"
+    }
+  ],
+  "latitude": 23.11721389,
+  "longitude": 113.32138611,
+  "grade": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "gansu_museum",
+  "name": "甘肃省博物馆",
+  "englishName": "",
+  "city": "兰州",
+  "province": "甘肃",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "甘肃省博物馆（简称甘博），是位于中国甘肃省兰州市的一座综合性地志博物馆，2012年11月被国家文物局核定为国家一级博物馆。\n该馆历史可追溯到1939年组建的甘肃省科学教育馆，是中国西部地区最早成立的综合性地志博物馆之一。\n甘博拥有18个展厅，常设“甘肃彩陶”等5个常设主题展览，馆藏珍贵历史文物、自然标本共计35万余件，其中国宝级文物16件(组)，国家一级文物721件(组)，二级文物2637件(组)，三级文物48241件(组)，汇集了甘肃从远古时期到近现代的大量文化珍宝。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "​中华苏维埃共和国国家银行所发行的纸币，拍摄于甘肃省博物馆",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​铜奔马，中国国宝级文物，1969年出土于甘肃省武威雷台墓，现藏甘肃省博物馆。",
+      "credit": "Baomi",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "​蓝田库班猪头骨化石",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​甘肃省博物馆新展览大楼，2006年12月26日正式对外开放",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​铲齿象下颌",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "​四棱齿象下颌",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Photograph of specimen GPM ZR001141 a skull of an indeterminate species of Zygolophodon from the lat",
+      "credit": "幽灵巴尼",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "grade": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "shanghai_natural",
+  "name": "上海自然博物馆",
+  "englishName": "",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "上海自然博物馆新馆位于上海市静安区北京西路510号，于2015年4月18日开馆，4月19日对公众开放。上海自然博物馆21世紀初行政上併入上海科技馆，改稱上海自然博物馆-上海科技馆分馆。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "02.jpg",
+      "caption": "23120-Shanghai",
+      "credit": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Shanghai, China (December 5, 2015)",
+      "credit": "Another Believer",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "Shanghai Natural History Museum, China (2015)",
+      "credit": "Another Believer",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Shanghai Natural History Museum, China (2015)",
+      "credit": "Another Believer",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "Shanghai Natural History Museum, China (2015)",
+      "credit": "Another Believer",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Shanghai Natural History Museum, China (2015)",
+      "credit": "Another Believer",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 31.23679444,
+  "longitude": 121.45812778,
+  "grade": null
+}

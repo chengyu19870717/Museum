@@ -1,0 +1,71 @@
+{
+  "id": "liaoning_museum",
+  "name": "辽宁省博物馆",
+  "englishName": "",
+  "city": "沈阳",
+  "province": "辽宁",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "辽宁省博物馆，是位于中华人民共和国辽宁省沈阳市的一座大型综合性博物馆。该馆建成于1933年，前身为满洲国立中央博物馆分馆，是中国最早的博物馆之一，后经多次扩建与整改，成为现今全国最大的博物馆之一。辽宁省博物馆占地约10万平方米，建筑面积约12万平方米，馆藏文物逾11万件，特色鲜明，尤以中国古代书画、辽代文物、红山文化玉器最具代表性。馆内珍藏有周昉、张旭、王蒙、李成、宋徽宗等人国宝级书画作品，被认为是中国古代书画收藏的重镇之一。同时，其亦收藏了大量辽代契丹文物和东北地区考古出土品。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "辽宁省博物馆",
+      "credit": "Dong Yuan",
+      "license": "Public domain"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "​藏于辽宁省博物馆",
+      "credit": "WAN233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "Epitaph in Khitan small script for Empress Xuanyi 宣懿皇后 (1040–1075), consort to Emperor Daozong of Li",
+      "credit": "Tonyxy1992",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "​藏于辽宁省博物馆",
+      "credit": "WAN233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "​藏于辽宁省博物馆",
+      "credit": "WAN233",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "辽宁省博物馆",
+      "credit": "Emperor Huizong of Song",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "​窑变红釉石榴尊藏于辽宁省博物馆",
+      "credit": "Tonyxy1992",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "Duck-shaped glass water dropper",
+      "credit": "Augusthaiho",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "latitude": 41.69277778,
+  "longitude": 123.45916667,
+  "grade": null
+}

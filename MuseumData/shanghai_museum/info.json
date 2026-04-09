@@ -1,0 +1,83 @@
+{
+  "id": "shanghai_museum",
+  "name": "上海博物馆",
+  "englishName": "",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": null,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "",
+  "website": null,
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "上海博物馆位于位于上海市黄浦区人民大道201号，是上海最大的一所综合性古代艺术博物馆。馆内藏品数量达102余万件（包括珍贵文物14.5余万件），涵盖三十多个门类，其中青铜器、陶瓷和书画是最为突出的。",
+  "highlights": [],
+  "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "20694-Shanghai",
+      "credit": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "363_20100912_bt_shanghai_museum",
+      "credit": "Bill Taroli",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "381_20100912_bt_shanghai_museum",
+      "credit": "Bill Taroli",
+      "license": "CC BY 2.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "Carved Wooden Table at the Shanghai Museum",
+      "credit": "FlyingToaster",
+      "license": "CC BY 3.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "上海博物馆",
+      "credit": null,
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "Snow Mountains by Guo Xi, located in the Shanghai Museum.  Guo Xi, a representative painter of lands",
+      "credit": "Guo Xi",
+      "license": "Public domain"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "上海博物馆",
+      "credit": "Mountain",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "08.jpg",
+      "caption": "The round fan is the indigenous type of fan of China. In the distant past, artist draw paintings on",
+      "credit": "Zhao Ji, Emperor Huizong of Song",
+      "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "Shanghai East Museum. Sculpture Gallery.",
+      "credit": "viatorimperi",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "Pan (recipiente para agua) de Zi Zhong Jiang. Época de Primavera y Otoño.",
+      "credit": "viatorimperi",
+      "license": "CC BY-SA 2.0"
+    }
+  ],
+  "latitude": 31.230278,
+  "longitude": 121.470556,
+  "grade": null
+}
