@@ -32,3 +32,5 @@ Package.resolved
 
 # MuseumData images (too large, should be managed separately)
 MuseumData/*/images/*.jpg
+MuseumData/aviation_museum/images/Thumbs.db
+Thumbs.db
