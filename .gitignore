@@ -1,5 +1,7 @@
 # Xcode
 build/
+.derivedData/
+.derivedData-device/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -32,5 +34,18 @@ Package.resolved
 
 # MuseumData images (too large, should be managed separately)
 MuseumData/*/images/*.jpg
+MuseumData/*/images/*.jpeg
+MuseumData/*/images/*.png
 MuseumData/aviation_museum/images/Thumbs.db
 Thumbs.db
+
+# Museum scraper outputs
+tools/museum_scraper/.cache/
+tools/museum_scraper/output/
+tools/museum_scraper/.pytest_cache/
+tools/museum_scraper/**/__pycache__/
+tools/museum_scraper/**/*.pyc
+
+# Local script cache
+Scripts/**/__pycache__/
+Scripts/**/*.pyc

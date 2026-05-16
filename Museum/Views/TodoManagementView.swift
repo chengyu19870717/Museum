@@ -3,13 +3,31 @@ import SwiftUI
 // MARK: - 数据模型
 
 struct TodoItem: Identifiable, Codable, Equatable {
-    var id: UUID = UUID()
+    var id: UUID
     var title: String
-    var note: String = ""
-    var priority: Priority = .medium
-    var isDone: Bool = false
-    var createdAt: Date = Date()
-    var dueDate: Date? = nil
+    var note: String
+    var priority: Priority
+    var isDone: Bool
+    var createdAt: Date
+    var dueDate: Date?
+
+    init(
+        id: UUID = UUID(),
+        title: String,
+        note: String = "",
+        priority: Priority = .medium,
+        isDone: Bool = false,
+        createdAt: Date = Date(),
+        dueDate: Date? = nil
+    ) {
+        self.id        = id
+        self.title     = title
+        self.note      = note
+        self.priority  = priority
+        self.isDone    = isDone
+        self.createdAt = createdAt
+        self.dueDate   = dueDate
+    }
 
     enum Priority: String, Codable, CaseIterable {
         case high   = "高"
@@ -31,6 +49,14 @@ struct TodoItem: Identifiable, Codable, Equatable {
             case .low:    return "exclamationmark"
             }
         }
+
+        var sortOrder: Int {
+            switch self {
+            case .high:   return 0
+            case .medium: return 1
+            case .low:    return 2
+            }
+        }
     }
 }
 
@@ -44,27 +70,26 @@ struct TodoManagementView: View {
     @State private var editingItem: TodoItem? = nil
     @State private var filterDone = false
 
-    var filtered: [TodoItem] {
+    // #1: cached as @State so delete IndexSet stays aligned with displayed List rows
+    @State private var filtered: [TodoItem] = []
+
+    private func rebuildFiltered() {
         let sorted = todos.sorted {
-            // 未完成在前，按优先级排序，再按创建时间
             if $0.isDone != $1.isDone { return !$0.isDone }
-            if $0.priority != $1.priority {
-                let order: [TodoItem.Priority] = [.high, .medium, .low]
-                let i0 = order.firstIndex(of: $0.priority) ?? 1
-                let i1 = order.firstIndex(of: $1.priority) ?? 1
-                return i0 < i1
-            }
+            if $0.priority != $1.priority { return $0.priority.sortOrder < $1.priority.sortOrder }
             return $0.createdAt > $1.createdAt
         }
-        return filterDone ? sorted.filter { $0.isDone } : sorted.filter { !$0.isDone }
+        filtered = filterDone ? sorted.filter(\.isDone) : sorted.filter { !$0.isDone }
     }
 
     var body: some View {
-        VStack(spacing: 0) {
-            // 筛选切换
+        // Single pass for both counts
+        let doneCount    = todos.reduce(0) { $0 + ($1.isDone ? 1 : 0) }
+        let pendingCount = todos.count - doneCount
+        return VStack(spacing: 0) {
             Picker("", selection: $filterDone) {
-                Text("待完成 (\(todos.filter { !$0.isDone }.count))").tag(false)
-                Text("已完成 (\(todos.filter { $0.isDone }.count))").tag(true)
+                Text("待完成 (\(pendingCount))").tag(false)
+                Text("已完成 (\(doneCount))").tag(true)
             }
             .pickerStyle(.segmented)
             .padding(.horizontal, 16)
@@ -102,12 +127,15 @@ struct TodoManagementView: View {
             TodoEditSheet(item: item, onSave: update)
         }
         .onAppear(perform: load)
+        .onChange(of: todos)      { rebuildFiltered() }
+        .onChange(of: filterDone) { rebuildFiltered() }
     }
 
     // MARK: - 数据操作
 
     private func load() {
         todos = (try? JSONDecoder().decode([TodoItem].self, from: todosData)) ?? []
+        rebuildFiltered()
     }
 
     private func save() {
@@ -133,8 +161,9 @@ struct TodoManagementView: View {
         }
     }
 
+    // #1: delete uses snapshot `filtered` that was stable at render time
     private func delete(at offsets: IndexSet) {
-        let idsToRemove = offsets.map { filtered[$0].id }
+        let idsToRemove = Set(offsets.map { filtered[$0].id })
         todos.removeAll { idsToRemove.contains($0.id) }
         save()
     }

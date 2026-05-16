@@ -3,19 +3,16 @@ import Foundation
 struct MuseumDataLoader {
     /// 从 MuseumData 目录加载所有博物馆 JSON
     static func loadAll() -> [Museum] {
-        // 优先从 Bundle 加载
         if let dataURL = Bundle.main.url(forResource: "MuseumData", withExtension: nil) {
             let museums = loadFrom(directory: dataURL)
             if !museums.isEmpty { return museums }
         }
-        // Fallback：从 Documents 目录加载（支持远程更新场景）
         return loadFromDocuments()
     }
 
     private static func loadFromDocuments() -> [Museum] {
         let docs = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
-        let dataDir = docs.appendingPathComponent("MuseumData")
-        return loadFrom(directory: dataDir)
+        return loadFrom(directory: docs.appendingPathComponent("MuseumData"))
     }
 
     private static func loadFrom(directory: URL) -> [Museum] {
@@ -24,6 +21,8 @@ struct MuseumDataLoader {
         ) else { return [] }
 
         return subdirs.compactMap { dir in
+            guard (try? dir.resourceValues(forKeys: [.isDirectoryKey]))?.isDirectory == true
+            else { return nil }
             let infoURL = dir.appendingPathComponent("info.json")
             guard let data = try? Data(contentsOf: infoURL),
                   let museum = try? JSONDecoder().decode(Museum.self, from: data)
@@ -32,25 +31,55 @@ struct MuseumDataLoader {
         }
     }
 
-    /// 获取某博物馆的图片本地 URL
+    // MARK: - #7: Pre-built URL map — populated once after load, read on MainActor
+
+    // Accessed only on MainActor (SwiftUI body is always on main thread), so no queue needed.
+    @MainActor private static var _imageURLMap: [String: URL] = [:]
+
+    /// Build the complete image URL map synchronously (call from a background task).
+    static func buildURLMap(for museums: [Museum]) -> [String: URL] {
+        let fm   = FileManager.default
+        let docs = fm.urls(for: .documentDirectory, in: .userDomainMask).first!
+        var map  = [String: URL]()
+        map.reserveCapacity(museums.reduce(0) { $0 + $1.images.count })
+
+        for museum in museums {
+            let bundleDir: URL? =
+                Bundle.main.url(forResource: museum.id, withExtension: nil, subdirectory: "MuseumData")
+                ?? Bundle.main.url(forResource: "MuseumData", withExtension: nil)
+                        .map { $0.appendingPathComponent(museum.id) }
+
+            // List directory contents once per museum instead of one fileExists per image.
+            // 63 contentsOfDirectory calls vs up to 864 fileExists calls — ~10x fewer syscalls.
+            let bundleImagesDir = bundleDir?.appendingPathComponent("images")
+            let bundleFiles: Set<String> = bundleImagesDir.flatMap {
+                try? fm.contentsOfDirectory(atPath: $0.path)
+            }.map(Set.init) ?? []
+
+            let docImagesDir = docs.appendingPathComponent("MuseumData/\(museum.id)/images")
+            let docFiles: Set<String> = (try? fm.contentsOfDirectory(atPath: docImagesDir.path))
+                .map(Set.init) ?? []
+
+            for img in museum.images {
+                let key = "\(museum.id)/\(img.filename)"
+                if bundleFiles.contains(img.filename), let dir = bundleImagesDir {
+                    map[key] = dir.appendingPathComponent(img.filename)
+                } else if docFiles.contains(img.filename) {
+                    map[key] = docImagesDir.appendingPathComponent(img.filename)
+                }
+            }
+        }
+        return map
+    }
+
+    /// Apply a pre-built map; must be called on MainActor.
+    @MainActor
+    static func applyURLMap(_ map: [String: URL]) {
+        _imageURLMap = map
+    }
+
+    @MainActor
     static func imageURL(museumID: String, filename: String) -> URL? {
-        // 1. 尝试从 Bundle 的 MuseumData 子目录查找
-        if let baseURL = Bundle.main.url(forResource: museumID, withExtension: nil, subdirectory: "MuseumData") {
-            let imgURL = baseURL.appendingPathComponent("images/\(filename)")
-            if FileManager.default.fileExists(atPath: imgURL.path) { return imgURL }
-        }
-
-        // 2. 尝试直接从 Bundle 根目录查找（某些打包方式可能将资源放在根目录）
-        if let baseURL = Bundle.main.url(forResource: "MuseumData", withExtension: nil) {
-            let imgURL = baseURL.appendingPathComponent("\(museumID)/images/\(filename)")
-            if FileManager.default.fileExists(atPath: imgURL.path) { return imgURL }
-        }
-
-        // 3. Fallback：从 Documents 目录查找
-        let docs = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
-        let docURL = docs.appendingPathComponent("MuseumData/\(museumID)/images/\(filename)")
-        if FileManager.default.fileExists(atPath: docURL.path) { return docURL }
-
-        return nil
+        _imageURLMap["\(museumID)/\(filename)"]
     }
 }

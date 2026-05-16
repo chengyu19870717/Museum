@@ -1,47 +1,36 @@
 import SwiftUI
 
-// MARK: - 功能入口定义
+// MARK: - Feature tabs
 
-struct FeatureEntry: Identifiable {
-    let id = UUID()
-    let name: String       // 用于去重的唯一标识（名称相同视为重复）
-    let icon: String
-    let content: AnyView
+private enum FeatureTab: String, CaseIterable, Identifiable {
+    case journey  = "我的旅程"
+    case todo     = "待办管理"
+    case about    = "关于"
 
-    init(name: String, icon: String, @ViewBuilder content: () -> some View) {
-        self.name    = name
-        self.icon    = icon
-        self.content = AnyView(content())
+    var id: String { rawValue }
+
+    var icon: String {
+        switch self {
+        case .journey: return "mappin.circle.fill"
+        case .todo:    return "checklist"
+        case .about:   return "info.circle"
+        }
     }
 }
 
 // MARK: - 百宝箱主视图
 
 struct TreasureBoxView: View {
-
-    /// 所有注册的功能入口（名称相同的条目只保留第一个）
-    private var features: [FeatureEntry] {
-        [
-            FeatureEntry(name: "待办管理", icon: "checklist") { TodoManagementView() },
-            FeatureEntry(name: "关于", icon: "info.circle")   { AboutView() },
-        ]
-    }
-
-    @State private var selectedName: String = "待办管理"
+    @State private var selected: FeatureTab = .journey
 
     var body: some View {
         NavigationStack {
             VStack(spacing: 0) {
-                // 水平页签栏（仅显示去重后的功能）
                 ScrollView(.horizontal, showsIndicators: false) {
                     HStack(spacing: 8) {
-                        ForEach(features) { feature in
-                            TabPill(
-                                title: feature.name,
-                                icon:  feature.icon,
-                                isSelected: selectedName == feature.name
-                            )
-                            .onTapGesture { selectedName = feature.name }
+                        ForEach(FeatureTab.allCases) { tab in
+                            TabPill(title: tab.rawValue, icon: tab.icon, isSelected: selected == tab)
+                                .onTapGesture { selected = tab }
                         }
                     }
                     .padding(.horizontal, 16)
@@ -50,13 +39,19 @@ struct TreasureBoxView: View {
 
                 Divider()
 
-                // 当前选中功能的内容
-                if let current = features.first(where: { $0.name == selectedName }) {
-                    current.content
-                }
+                featureContent
             }
-            .navigationTitle("程钰的百宝箱")
+            .navigationTitle("我的空间")
             .navigationBarTitleDisplayMode(.inline)
+        }
+    }
+
+    @ViewBuilder
+    private var featureContent: some View {
+        switch selected {
+        case .journey: JourneyStatsView()
+        case .todo:    TodoManagementView()
+        case .about:   AboutView()
         }
     }
 }
@@ -81,4 +76,3 @@ private struct TabPill: View {
         .animation(.easeInOut(duration: 0.18), value: isSelected)
     }
 }
-

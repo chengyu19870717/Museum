@@ -23,6 +23,31 @@ struct Museum: Identifiable, Codable, Hashable {
     let grade: MuseumGrade?     // 国家等级
 
     var localDirectory: String { id }
+
+    var formattedVisitors: String? {
+        guard let n = annualVisitors else { return nil }
+        if n >= 10_000 { return "\(n / 10_000)万" }
+        return "\(n)"
+    }
+
+    var formattedArea: String? {
+        guard let a = area else { return nil }
+        if a >= 10_000 {
+            let wan = a / 10_000
+            // Show decimal only when meaningful: 3.6万㎡ vs 5万㎡
+            return wan.truncatingRemainder(dividingBy: 1) == 0
+                ? "\(Int(wan))万㎡"
+                : String(format: "%.1f万㎡", wan)
+        }
+        return "\(Int(a))㎡"
+    }
+
+    /// Returns nil when openingHours is a meaningless placeholder
+    var meaningfulOpeningHours: String? {
+        let trimmed = openingHours.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !trimmed.isEmpty, trimmed != "请查看官网" else { return nil }
+        return trimmed
+    }
 }
 
 struct MuseumImage: Codable, Hashable {

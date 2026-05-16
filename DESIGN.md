@@ -247,17 +247,15 @@ done
 
 | 优先级 | 任务 | 说明 |
 |--------|------|------|
-| P0 | 生成 Xcode 项目 | 安装 `xcodegen`，在项目根目录运行 `xcodegen`，将 `MuseumData` 以 Folder Reference 方式加入 |
-| P0 | 修复本地图片加载 | 验证 `MuseumDataLoader.imageURL()` 在真机/模拟器上正确返回路径 |
-| P0 | 完善 `MuseumStore.load()` | 实现后台异步加载，加载期间显示 ProgressView |
-| P1 | 图片批量压缩 | 将所有图片压缩至 ≤500KB，降低包体积 |
-| P1 | 补全 TOP 20 博物馆数据 | 人工补全 `address`、`website`、`founded`、`highlights`、`englishName`、`grade` 字段 |
-| P1 | 新增"关于"页面 | 包含：App 简介、图片版权声明（Wikimedia Commons CC BY-SA）、数据来源 |
-| P2 | App Icon 设计 | 提供 1024×1024 图标，填充 `AppIcon.appiconset` |
-| P2 | 收藏心形按钮 | 在详情页 NavigationBar 添加收藏/取消收藏按钮，与 FavoritesView 联动 |
-| P2 | 暗黑模式适配 | 检查所有颜色使用 semantic color，避免硬编码 |
-| P3 | 真机性能测试 | 重点测试列表滚动帧率、图片加载内存占用 |
-| P3 | 本地化 | 考虑添加英文版本（英文名、英文简介字段已预留） |
+| P0 | 发布构建验证 | 使用正式 Bundle ID、Apple Developer Team 与 Xcode 26 / iOS 26 SDK 完成 Archive 验证 |
+| P0 | iPad 基础适配 | 当前已支持 iPhone + iPad 设备族，iPad 支持四方向；后续需在真机或模拟器验证 Split View / Stage Manager |
+| P0 | 启动屏与隐私清单 | 已补 `LaunchScreen.storyboard` 与 `PrivacyInfo.xcprivacy`，发布前需随 Archive 一起确认 |
+| P1 | 图片批量压缩 | 将超过 500KB 的图片压缩，降低包体积和图库内存压力 |
+| P1 | 图片授权复核 | 补齐缺失的 license / credit，确保 About 页逐图授权说明可落地 |
+| P1 | 数据继续精修 | `category` 与 `highlights` 已补齐；继续补 `area`、`annualVisitors` 与剩余 `grade` |
+| P2 | iPad 大屏布局 | 评估将列表 / 地图 / 详情改为 `NavigationSplitView`，减少“放大 iPhone 版”的感觉 |
+| P2 | App 侧测试 | 增加 `MuseumDataLoader`、搜索筛选、收藏和图片路径测试 |
+| P3 | 本地化 | 考虑添加英文版本（英文名字段已预留） |
 
 ---
 

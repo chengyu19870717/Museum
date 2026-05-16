@@ -2,21 +2,33 @@ import SwiftUI
 
 struct FavoritesView: View {
     @EnvironmentObject var store: MuseumStore
+    @State private var searchText = ""
+
+    // #5: delegate to MuseumStore — reuses pre-built searchBlob covering all fields
+    var displayedMuseums: [Museum] {
+        store.searchFavoriteMuseums(searchText)
+    }
 
     var body: some View {
+        // Compute once per render; avoids double O(n) compactMap
+        let displayed = displayedMuseums
         NavigationStack {
             Group {
-                if store.favoriteMuseums.isEmpty {
+                if store.favoriteIDsCount == 0 {
                     ContentUnavailableView(
                         "暂无收藏",
                         systemImage: "heart",
                         description: Text("浏览博物馆时点击心形图标即可收藏")
                     )
+                } else if displayed.isEmpty && !searchText.isEmpty {
+                    ContentUnavailableView.search(text: searchText)
                 } else {
                     List {
-                        ForEach(store.favoriteMuseums) { museum in
-                            NavigationLink(value: museum) {
-                                MuseumRowView(museum: museum)
+                        ForEach(displayed) { museum in
+                            NavigationLink {
+                                MuseumDetailView(museum: museum)
+                            } label: {
+                                MuseumRowView(museum: museum, isVisited: store.isVisited(museum.id))
                             }
                             .swipeActions(edge: .trailing, allowsFullSwipe: true) {
                                 Button(role: .destructive) {
@@ -31,9 +43,7 @@ struct FavoritesView: View {
                 }
             }
             .navigationTitle("我的收藏")
-            .navigationDestination(for: Museum.self) { museum in
-                MuseumDetailView(museum: museum)
-            }
+            .searchable(text: $searchText, prompt: "搜索收藏")
         }
     }
 }

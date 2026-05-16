@@ -36,8 +36,19 @@ struct AboutView: View {
                     Text("\(store.provinces.count) 个")
                 }
                 LabeledContent("图片总数") {
-                    Text("\(store.museums.reduce(0) { $0 + $1.images.count }) 张")
+                    Text("\(store.statsTotalImages) 张")
                 }
+            }
+
+            // #4: progress bar + fraction for data completeness
+            Section("数据完整度") {
+                CompletenessRow(label: "英文名",   value: store.statsMuseumsWithEnglishName, total: store.museums.count)
+                CompletenessRow(label: "地图坐标", value: store.statsMuseumsWithLocation,   total: store.museums.count)
+                CompletenessRow(label: "官方网站", value: store.statsMuseumsWithWebsite,    total: store.museums.count)
+                CompletenessRow(label: "馆址地址", value: store.statsMuseumsWithAddress,    total: store.museums.count)
+                CompletenessRow(label: "建馆年份", value: store.statsMuseumsWithFounded,    total: store.museums.count)
+                CompletenessRow(label: "图片授权", value: store.statsImagesWithLicense,     total: store.statsTotalImages)
+                CompletenessRow(label: "图片署名", value: store.statsImagesWithCredit,      total: store.statsTotalImages)
             }
 
             // 图片版权声明
@@ -45,7 +56,7 @@ struct AboutView: View {
                 VStack(alignment: .leading, spacing: 12) {
                     Label("图片来源", systemImage: "photo.on.rectangle")
                         .font(.subheadline.bold())
-                    Text("本应用中所有博物馆图片均来自 Wikimedia Commons，遵循 CC BY-SA 授权协议。")
+                    Text("本应用中的博物馆图片主要来自 Wikimedia Commons。不同图片可能采用 CC BY、CC BY-SA、CC0、Public Domain 等不同授权，具体以每张图片的授权信息为准。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
 
@@ -53,7 +64,7 @@ struct AboutView: View {
 
                     Label("授权协议", systemImage: "doc.text")
                         .font(.subheadline.bold())
-                    Text("图片采用 Creative Commons Attribution-ShareAlike (CC BY-SA) 许可协议，允许自由使用、修改和分发，但需注明原作者并以相同协议共享。")
+                    Text("使用或再分发图片时，请分别遵守对应图片的授权条款；需要署名的图片应保留作者、来源与协议说明，ShareAlike 图片需以兼容协议共享。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
 
@@ -61,7 +72,7 @@ struct AboutView: View {
 
                     Label("署名要求", systemImage: "person.text.rectangle")
                         .font(.subheadline.bold())
-                    Text("每张图片的摄影师和具体授权信息可在全屏查看模式下查看。使用图片时请遵守对应授权协议的署名要求。")
+                    Text("每张图片的摄影师和具体授权信息可在全屏查看模式下查看。授权或署名为空的图片，需要在发布前继续补齐或替换。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
@@ -82,7 +93,16 @@ struct AboutView: View {
                 VStack(alignment: .leading, spacing: 8) {
                     Label("地理坐标", systemImage: "mappin.and.ellipse")
                         .font(.subheadline.bold())
-                    Text("博物馆地理坐标数据来自维基百科，用于地图标注展示。")
+                    Text("博物馆地理坐标主要来自维基百科与 Wikidata，用于地图标注展示。")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+                .padding(.vertical, 4)
+
+                VStack(alignment: .leading, spacing: 8) {
+                    Label("结构化字段", systemImage: "square.text.square")
+                        .font(.subheadline.bold())
+                    Text("英文名、官网、建馆年份等字段来自 Wikidata 与馆方公开信息整理。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
@@ -115,20 +135,67 @@ struct AboutView: View {
     }
 }
 
+// MARK: - #4: Data completeness row with progress bar
+
+private struct CompletenessRow: View {
+    let label: String
+    let value: Int
+    let total: Int
+
+    var body: some View {
+        LabeledContent(label) {
+            HStack(spacing: 8) {
+                ProgressView(value: total > 0 ? Double(value) / Double(total) : 0)
+                    .frame(width: 80)
+                    .tint(tint)
+                Text("\(value)/\(total)")
+                    .font(.subheadline.monospacedDigit())
+                    .foregroundStyle(.secondary)
+            }
+        }
+        .accessibilityLabel("\(label)：\(value) 家，共 \(total) 家")
+    }
+
+    private var tint: Color {
+        guard total > 0 else { return .gray }
+        let ratio = Double(value) / Double(total)
+        if ratio >= 0.8 { return .green }
+        if ratio >= 0.5 { return .orange }
+        return .red
+    }
+}
+
 // MARK: - 开源许可列表
 
 struct LicenseListView: View {
     var body: some View {
         List {
-            Section("Wikimedia Commons") {
+            Section("Wikimedia Commons 图片授权") {
                 VStack(alignment: .leading, spacing: 6) {
-                    Text("CC BY-SA 4.0")
+                    Text("逐图授权")
                         .font(.subheadline.bold())
-                    Text("本作品可在署名相同许可协议下自由使用、修改和分发。")
+                    Text("图片元数据中可能包含 CC BY、CC BY-SA、CC0、Public Domain 等授权类型；请以单张图片的 license 字段为准。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
-                    Link("查看完整协议", destination: URL(string: "https://creativecommons.org/licenses/by-sa/4.0/deed.zh")!)
+                    if let url = URL(string: "https://commons.wikimedia.org/wiki/Commons:Licensing") {
+                        Link("查看 Wikimedia Commons 授权说明", destination: url)
+                            .font(.caption)
+                    }
+                }
+                .padding(.vertical, 4)
+            }
+
+            Section("Creative Commons") {
+                VStack(alignment: .leading, spacing: 6) {
+                    Text("常见 CC 协议")
+                        .font(.subheadline.bold())
+                    Text("CC BY 需要署名；CC BY-SA 还要求相同方式共享；CC0 通常表示权利人放弃可放弃的版权权益。")
                         .font(.caption)
+                        .foregroundStyle(.secondary)
+                    if let url = URL(string: "https://creativecommons.org/licenses/") {
+                        Link("查看 Creative Commons 协议说明", destination: url)
+                            .font(.caption)
+                    }
                 }
                 .padding(.vertical, 4)
             }
@@ -140,8 +207,10 @@ struct LicenseListView: View {
                     Text("维基百科内容在署名相同许可协议下可自由使用和分发。")
                         .font(.caption)
                         .foregroundStyle(.secondary)
-                    Link("查看完整协议", destination: URL(string: "https://creativecommons.org/licenses/by-sa/3.0/deed.zh")!)
-                        .font(.caption)
+                    if let url = URL(string: "https://creativecommons.org/licenses/by-sa/3.0/deed.zh") {
+                        Link("查看完整协议", destination: url)
+                            .font(.caption)
+                    }
                 }
                 .padding(.vertical, 4)
             }
