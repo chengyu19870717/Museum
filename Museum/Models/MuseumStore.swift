@@ -149,13 +149,10 @@ class MuseumStore: ObservableObject {
         isLoading = true
 
         Task.detached(priority: .userInitiated) {
-            let loaded = MuseumDataLoader.loadAll()
+            // Pure-value work — no actor-isolated state accessed here
+            let loaded       = MuseumDataLoader.loadAll()
             let sortedByName = loaded.sorted { $0.name < $1.name }
-            // #7: build URL map synchronously in this background task
-            let urlMap = MuseumDataLoader.buildURLMap(for: sortedByName)
-            let index  = Dictionary(uniqueKeysWithValues: sortedByName.map {
-                ($0.id, IndexEntry(museum: $0, searchBlob: Self.searchBlob(for: $0)))
-            })
+            let urlMap       = MuseumDataLoader.buildURLMap(for: sortedByName)
 
             await MainActor.run { [weak self] in
                 guard let self else { return }
@@ -163,7 +160,10 @@ class MuseumStore: ObservableObject {
                     self.loadError = true
                 } else {
                     self.museums = sortedByName
-                    self.museumIndex = index
+                    // IndexEntry init and searchBlob are @MainActor — safe here
+                    self.museumIndex = Dictionary(uniqueKeysWithValues: sortedByName.map {
+                        ($0.id, IndexEntry(museum: $0, searchBlob: Self.searchBlob(for: $0)))
+                    })
                     MuseumDataLoader.applyURLMap(urlMap)
                     self.precomputeStats(for: sortedByName)
                 }
