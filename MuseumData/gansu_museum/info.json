@@ -1,20 +1,24 @@
 {
   "id": "gansu_museum",
   "name": "甘肃省博物馆",
-  "englishName": "",
+  "englishName": "Gansu Provincial Museum",
   "city": "兰州",
   "province": "甘肃",
   "category": "综合",
-  "founded": null,
+  "founded": 1939,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "甘肃省兰州市七里河区西津西路3号",
+  "website": "http://www.gansumuseum.com/",
+  "phone": "0931-2339131",
   "openingHours": "请查看官网",
   "summary": "甘肃省博物馆（简称甘博），是位于中国甘肃省兰州市的一座综合性地志博物馆，2012年11月被国家文物局核定为国家一级博物馆。\n该馆历史可追溯到1939年组建的甘肃省科学教育馆，是中国西部地区最早成立的综合性地志博物馆之一。\n甘博拥有18个展厅，常设“甘肃彩陶”等5个常设主题展览，馆藏珍贵历史文物、自然标本共计35万余件，其中国宝级文物16件(组)，国家一级文物721件(组)，二级文物2637件(组)，三级文物48241件(组)，汇集了甘肃从远古时期到近现代的大量文化珍宝。",
-  "highlights": [],
+  "highlights": [
+    "铜奔马",
+    "驿使图画像砖",
+    "丝绸之路文明陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -59,7 +63,7 @@
       "license": "CC BY-SA 3.0"
     }
   ],
-  "latitude": null,
-  "longitude": null,
-  "grade": null
+  "latitude": 36.06694444,
+  "longitude": 103.77194444,
+  "grade": "国家一级博物馆"
 }

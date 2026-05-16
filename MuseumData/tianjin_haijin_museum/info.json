@@ -1,0 +1,26 @@
+{
+  "id": "tianjin_haijin_museum",
+  "name": "天津海河博物馆",
+  "englishName": "Tianjin Haihe Museum",
+  "city": "天津",
+  "province": "天津",
+  "category": "专题",
+  "founded": 2010,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "天津市河北区海河东路旁",
+  "website": "http://www.tjhhmuseum.cn/",
+  "phone": "022-26261388",
+  "openingHours": "请查看官网",
+  "summary": "天津海河博物馆是以海河为主题的专题博物馆，展示海河的水系历史、漕运文化及近代天津的兴起与发展，海河是天津的母亲河，对天津的历史发展至关重要。",
+  "highlights": [
+    "海河漕运历史展",
+    "天津近代城市史",
+    "海河水系文化"
+  ],
+  "images": [],
+  "latitude": 39.1336,
+  "longitude": 117.2099,
+  "grade": "国家三级博物馆"
+}

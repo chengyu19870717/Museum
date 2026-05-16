@@ -1,0 +1,26 @@
+{
+  "id": "shanghai_expo_museum",
+  "name": "上海世博会博物馆",
+  "englishName": "World Expo Museum",
+  "city": "上海",
+  "province": "上海",
+  "category": "专题",
+  "founded": 2017,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "上海市黄浦区蒙自路818号",
+  "website": "http://www.worldexpomuseum.com/",
+  "phone": "021-63340888",
+  "openingHours": "请查看官网",
+  "summary": "上海世博会博物馆是全球唯一一座以世博会为主题的国际博物馆，全面呈现世博会170年历史演进，并重点再现2010年上海世博会的盛况，是城市发展与文明交流的见证。",
+  "highlights": [
+    "世博会170年历史",
+    "2010上海世博再现",
+    "世界文明交流展"
+  ],
+  "images": [],
+  "latitude": 31.2161,
+  "longitude": 121.4924,
+  "grade": "国家一级博物馆"
+}

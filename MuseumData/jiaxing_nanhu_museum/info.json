@@ -1,0 +1,26 @@
+{
+  "id": "jiaxing_nanhu_museum",
+  "name": "嘉兴南湖革命纪念馆",
+  "englishName": "Nanhu Revolutionary Memorial Museum",
+  "city": "嘉兴",
+  "province": "浙江",
+  "category": "革命纪念",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省嘉兴市南湖区东大街98号",
+  "website": "https://www.jxnanhu.com/",
+  "phone": "0573-82229005",
+  "openingHours": "请查看官网",
+  "summary": "嘉兴南湖革命纪念馆是为纪念中国共产党第一次全国代表大会在南湖游船上完成历史使命而建立的，是中国共产党诞生地的标志性纪念场所。",
+  "highlights": [
+    "一大南湖会议史料",
+    "红船精神专题展",
+    "革命文物珍品"
+  ],
+  "images": [],
+  "latitude": 30.7323,
+  "longitude": 120.7603,
+  "grade": "国家一级博物馆"
+}

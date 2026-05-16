@@ -1,0 +1,26 @@
+{
+  "id": "beijing_capital_museum",
+  "name": "北京天文馆",
+  "englishName": "Beijing Planetarium",
+  "city": "北京",
+  "province": "北京",
+  "category": "科技",
+  "founded": 1957,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京市西城区西直门外大街138号",
+  "website": "http://www.bjp.org.cn/",
+  "phone": "010-51583311",
+  "openingHours": "请查看官网",
+  "summary": "北京天文馆是中国第一座大型天文馆，也是亚洲规模最大的天文馆之一，通过大型天象仪、展厅和科普活动，为公众提供天文科普教育和宇宙探索体验。",
+  "highlights": [
+    "大型数字天象演示",
+    "天文科普展览",
+    "太阳系探索体验"
+  ],
+  "images": [],
+  "latitude": 39.9373,
+  "longitude": 116.3433,
+  "grade": "国家二级博物馆"
+}

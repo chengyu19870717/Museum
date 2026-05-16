@@ -1,0 +1,26 @@
+{
+  "id": "taizhou_jiangsu_museum",
+  "name": "泰州市博物馆",
+  "englishName": "Taizhou Jiangsu Museum",
+  "city": "泰州",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省泰州市海陵区迎春东路9号",
+  "website": "http://www.tzjsmuseum.cn/",
+  "phone": "0523-86282686",
+  "openingHours": "请查看官网",
+  "summary": "泰州市博物馆展示泰州历史文化，以明代刁家庄出土纺织品、梅兰芳故里文化及泰州近代盐业历史为特色，出土明代纺织品保存完好，在国内属于罕见。",
+  "highlights": [
+    "明代精品纺织品",
+    "梅兰芳文化专题",
+    "泰州盐业历史"
+  ],
+  "images": [],
+  "latitude": 32.4563,
+  "longitude": 119.9229,
+  "grade": "国家二级博物馆"
+}

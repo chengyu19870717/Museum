@@ -1,0 +1,26 @@
+{
+  "id": "kaifeng_museum",
+  "name": "开封博物馆",
+  "englishName": "Kaifeng Museum",
+  "city": "开封",
+  "province": "河南",
+  "category": "综合",
+  "founded": 1962,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河南省开封市顺河区迎宾路6号",
+  "website": "http://www.kfmuseum.cn/",
+  "phone": "0378-2283958",
+  "openingHours": "请查看官网",
+  "summary": "开封博物馆是展示北宋东京历史文化的综合性博物馆，馆藏宋代文物最具特色，以汴绣、官窑瓷器、北宋历史陈列为重点，再现千年前汴京繁华盛景。",
+  "highlights": [
+    "北宋官窑瓷器",
+    "汴绣精品",
+    "北宋东京历史"
+  ],
+  "images": [],
+  "latitude": 34.7979,
+  "longitude": 114.3522,
+  "grade": "国家二级博物馆"
+}

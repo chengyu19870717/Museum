@@ -1,0 +1,26 @@
+{
+  "id": "yulin_museum",
+  "name": "榆林市博物馆",
+  "englishName": "Yulin Museum",
+  "city": "榆林",
+  "province": "陕西",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "陕西省榆林市榆阳区文化路98号",
+  "website": "http://www.ylmuseum.cn/",
+  "phone": "0912-3388888",
+  "openingHours": "请查看官网",
+  "summary": "榆林市博物馆是展示塞上历史的综合性博物馆，以统万城遗址文物（大夏国都）、陕北民俗及长城遗址文物为特色，统万城是中国唯一保存下来的匈奴国都遗址。",
+  "highlights": [
+    "统万城大夏国都文物",
+    "陕北民俗文化展",
+    "长城遗址历史陈列"
+  ],
+  "images": [],
+  "latitude": 38.2853,
+  "longitude": 109.7347,
+  "grade": "国家二级博物馆"
+}

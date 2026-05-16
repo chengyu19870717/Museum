@@ -1,0 +1,26 @@
+{
+  "id": "jinggang_mountain_museum",
+  "name": "井冈山革命博物馆",
+  "englishName": "Jinggang Mountains Revolutionary Museum",
+  "city": "吉安",
+  "province": "江西",
+  "category": "革命纪念",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江西省吉安市井冈山市茨坪镇红军路",
+  "website": "http://www.jgsmuseum.cn/",
+  "phone": "0796-6552193",
+  "openingHours": "请查看官网",
+  "summary": "井冈山革命博物馆展示毛泽东、朱德等革命家在井冈山创建第一个农村革命根据地的艰苦历程，是重要的爱国主义教育基地。",
+  "highlights": [
+    "井冈山斗争史陈列",
+    "革命文物精品",
+    "农村革命根据地史料"
+  ],
+  "images": [],
+  "latitude": 26.7511,
+  "longitude": 114.2889,
+  "grade": "国家一级博物馆"
+}

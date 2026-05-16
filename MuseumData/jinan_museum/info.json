@@ -1,0 +1,26 @@
+{
+  "id": "jinan_museum",
+  "name": "济南市博物馆",
+  "englishName": "Jinan Museum",
+  "city": "济南",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省济南市历下区经十一路26号",
+  "website": "http://www.jnmuseum.com/",
+  "phone": "0531-86919660",
+  "openingHours": "请查看官网",
+  "summary": "济南市博物馆是齐鲁文化的重要展示平台，以龙山文化遗存、商周青铜器、历代陶瓷及名人书画收藏见长，系统呈现泉城济南的千年历史文脉。",
+  "highlights": [
+    "龙山文化蛋壳陶",
+    "商周青铜器精品",
+    "历代书画收藏"
+  ],
+  "images": [],
+  "latitude": 36.6557,
+  "longitude": 117.0476,
+  "grade": "国家二级博物馆"
+}

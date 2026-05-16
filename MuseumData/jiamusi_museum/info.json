@@ -1,0 +1,26 @@
+{
+  "id": "jiamusi_museum",
+  "name": "佳木斯博物馆",
+  "englishName": "Jiamusi Museum",
+  "city": "佳木斯",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省佳木斯市前进区光复路134号",
+  "website": "http://www.jmsmuseum.cn/",
+  "phone": "0454-8222780",
+  "openingHours": "请查看官网",
+  "summary": "佳木斯博物馆展示三江平原历史文化，以赫哲族渔猎文化、抗联历史和黑龙江流域自然生态为特色，馆藏赫哲族鱼皮服饰等珍稀民俗文物。",
+  "highlights": [
+    "赫哲族鱼皮文物",
+    "三江平原历史",
+    "东北抗联史料"
+  ],
+  "images": [],
+  "latitude": 46.8015,
+  "longitude": 130.3604,
+  "grade": "国家三级博物馆"
+}

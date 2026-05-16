@@ -1,0 +1,26 @@
+{
+  "id": "shijiazhuang_museum",
+  "name": "石家庄博物馆",
+  "englishName": "Shijiazhuang Museum",
+  "city": "石家庄",
+  "province": "河北",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河北省石家庄市长安区裕华路206号",
+  "website": "http://www.sjzmuseum.cn/",
+  "phone": "0311-89285555",
+  "openingHours": "请查看官网",
+  "summary": "石家庄博物馆是石家庄地区综合性历史博物馆，展示石家庄从史前到近现代的历史，馆内中山国文物和汉代文物收藏尤为珍贵，是了解冀中历史文化的重要窗口。",
+  "highlights": [
+    "中山国历史文物",
+    "汉代精品文物",
+    "石家庄近现代史"
+  ],
+  "images": [],
+  "latitude": 38.046,
+  "longitude": 114.5098,
+  "grade": "国家二级博物馆"
+}

@@ -1,20 +1,24 @@
 {
   "id": "suzhou_museum",
   "name": "苏州博物馆",
-  "englishName": "",
+  "englishName": "Suzhou Museum",
   "city": "苏州",
   "province": "江苏",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 1960,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "江苏省苏州市姑苏区东北街204号",
+  "website": "http://www.szmuseum.com",
+  "phone": "0512-67575666",
   "openingHours": "请查看官网",
   "summary": "苏州博物馆，简称苏博，位于江苏省苏州市姑苏区东北街，成立于1960年元旦。馆址分两部分，东部旧馆是太平天国忠王府旧址，西部新馆由建筑师贝聿铭设计，于2006年建成开放。",
-  "highlights": [],
+  "highlights": [
+    "秘色瓷莲花碗",
+    "真珠舍利宝幢",
+    "贝聿铭建筑空间"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -67,5 +71,5 @@
   ],
   "latitude": 31.32472222,
   "longitude": 120.62055556,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

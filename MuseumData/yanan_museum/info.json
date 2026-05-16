@@ -1,0 +1,26 @@
+{
+  "id": "yanan_museum",
+  "name": "延安革命纪念馆",
+  "englishName": "Yan'an Revolutionary Memorial Hall",
+  "city": "延安",
+  "province": "陕西",
+  "category": "革命纪念",
+  "founded": 1950,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "陕西省延安市宝塔区王家坪",
+  "website": "http://www.yarm.com.cn/",
+  "phone": "0911-2111566",
+  "openingHours": "请查看官网",
+  "summary": "延安革命纪念馆全面展示中共中央在延安十三年光辉历程，馆藏文物三万余件，再现延安整风、大生产运动、抗日战争等重大历史事件。",
+  "highlights": [
+    "延安时期历史陈列",
+    "革命文物精品",
+    "延安精神专题展"
+  ],
+  "images": [],
+  "latitude": 36.5953,
+  "longitude": 109.4886,
+  "grade": "国家一级博物馆"
+}

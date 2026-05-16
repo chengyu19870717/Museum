@@ -1,0 +1,26 @@
+{
+  "id": "zigong_dinosaur_museum",
+  "name": "自贡恐龙博物馆",
+  "englishName": "Zigong Dinosaur Museum",
+  "city": "自贡",
+  "province": "四川",
+  "category": "自然",
+  "founded": 1987,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "四川自贡（坐标定位，详细地址请查看官网）",
+  "website": "http://www.zdm.cn/",
+  "phone": "0813-5801235",
+  "openingHours": "请查看官网",
+  "summary": "自贡恐龙博物馆位于四川自贡，是一座以自然标本、生态环境与地质演化为主要内容的自然类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "自然标本陈列",
+    "生态与地质展示",
+    "科普教育活动"
+  ],
+  "images": [],
+  "latitude": 29.398889,
+  "longitude": 104.826111,
+  "grade": null
+}

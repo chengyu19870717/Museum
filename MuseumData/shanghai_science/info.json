@@ -1,29 +1,57 @@
 {
   "id": "shanghai_science",
   "name": "上海科技馆",
-  "englishName": "",
+  "englishName": "Shanghai Science and Technology Museum",
   "city": "上海",
   "province": "上海",
-  "category": "综合",
-  "founded": null,
+  "category": "科技",
+  "founded": 2001,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "上海市浦东新区世纪大道2000号",
+  "website": "http://www.sstm.org.cn/",
+  "phone": "021-68622000",
   "openingHours": "请查看官网",
   "summary": "上海科技館位於中國上海市浦东新区花木行政文化中心區的世纪大道2000號，是以科普教育為主的展覽館，以「自然·人·科技」為主題。",
-  "highlights": [],
+  "highlights": [
+    "智慧之光",
+    "机器人世界",
+    "地壳探秘"
+  ],
   "images": [
     {
       "filename": "01.jpg",
       "caption": "Damuzhi plaza",
       "credit": "Yhz1221",
       "license": "CC BY-SA 3.0"
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "上海科技馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "上海科技馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "上海科技馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "上海科技馆",
+      "credit": null,
+      "license": null
     }
   ],
   "latitude": 31.22014722,
   "longitude": 121.53723333,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

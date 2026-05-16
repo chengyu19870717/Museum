@@ -1,0 +1,26 @@
+{
+  "id": "chongqing_natural_history_bkg",
+  "name": "北碚自然博物馆",
+  "englishName": "Beibei Natural History Museum",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "自然",
+  "founded": 1930,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "重庆市北碚区金华路398号",
+  "website": "http://www.cqnhm.com/",
+  "phone": "023-68861239",
+  "openingHours": "请查看官网",
+  "summary": "北碚自然博物馆创建于1930年，是中国历史最悠久的自然博物馆之一，展示地球科学、生命演化及西南地区自然资源，以恐龙化石和地质矿物标本著称。",
+  "highlights": [
+    "西南恐龙化石",
+    "地质矿物精品",
+    "生命演化历史展"
+  ],
+  "images": [],
+  "latitude": 29.8369,
+  "longitude": 106.4199,
+  "grade": "国家二级博物馆"
+}

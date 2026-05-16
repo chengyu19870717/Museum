@@ -1,0 +1,26 @@
+{
+  "id": "beilin_museum",
+  "name": "西安碑林博物馆",
+  "englishName": "Forest of Stone Steles Museum",
+  "city": "西安",
+  "province": "陕西",
+  "category": "艺术",
+  "founded": 1087,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "陕西省西安市碑林区三学街15号",
+  "website": "https://www.beilin-museum.com/",
+  "phone": "029-87253012",
+  "openingHours": "请查看官网",
+  "summary": "西安碑林博物馆创立于北宋元祐二年（1087年），收藏历代碑石、墓志三千余件，包括开成石经、昭陵六骏等国宝级珍品，是中国书法艺术的宝库。",
+  "highlights": [
+    "开成石经",
+    "昭陵六骏石刻",
+    "历代书法名碑"
+  ],
+  "images": [],
+  "latitude": 34.2571,
+  "longitude": 108.9476,
+  "grade": "国家一级博物馆"
+}

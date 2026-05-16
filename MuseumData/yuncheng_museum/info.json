@@ -1,0 +1,26 @@
+{
+  "id": "yuncheng_museum",
+  "name": "运城博物馆",
+  "englishName": "Yuncheng Museum",
+  "city": "运城",
+  "province": "山西",
+  "category": "综合",
+  "founded": 2016,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山西省运城市盐湖区解放南路68号",
+  "website": "http://www.ycmuseum.gov.cn/",
+  "phone": "0359-2025678",
+  "openingHours": "请查看官网",
+  "summary": "运城博物馆展示河东文化与盐湖文明，运城拥有全国最大的内陆盐湖，馆内西侯度遗址文物（180万年前）是中国已知最早的人类活动遗存，极具历史价值。",
+  "highlights": [
+    "西侯度遗址远古文物",
+    "河东文化历史",
+    "解州关帝庙文物"
+  ],
+  "images": [],
+  "latitude": 35.022,
+  "longitude": 111.0003,
+  "grade": "国家二级博物馆"
+}

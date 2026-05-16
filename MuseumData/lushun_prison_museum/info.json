@@ -1,0 +1,26 @@
+{
+  "id": "lushun_prison_museum",
+  "name": "旅顺日俄监狱旧址博物馆",
+  "englishName": "Lushun Prison Site Museum",
+  "city": "大连",
+  "province": "辽宁",
+  "category": "革命纪念",
+  "founded": 1971,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "辽宁省大连市旅顺口区元宝街139号",
+  "website": "http://www.lsjy.cn/",
+  "phone": "0411-86253065",
+  "openingHours": "请查看官网",
+  "summary": "旅顺日俄监狱旧址博物馆原为日俄占领时期的监狱，是近代中国遭受帝国主义侵略的历史见证，陈展揭露了日俄侵略者对中国人民犯下的滔天罪行。",
+  "highlights": [
+    "日俄监狱历史遗址",
+    "帝国主义侵华罪证",
+    "近代史爱国教育"
+  ],
+  "images": [],
+  "latitude": 38.8571,
+  "longitude": 121.2527,
+  "grade": "国家二级博物馆"
+}

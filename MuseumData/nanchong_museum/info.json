@@ -1,0 +1,26 @@
+{
+  "id": "nanchong_museum",
+  "name": "南充市博物馆",
+  "englishName": "Nanchong Museum",
+  "city": "南充",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省南充市顺庆区人民中路86号",
+  "website": "http://www.ncmuseum.cn/",
+  "phone": "0817-3226969",
+  "openingHours": "请查看官网",
+  "summary": "南充市博物馆展示丝绸之都南充的历史文化，以蚕桑丝绸文化、三国文化（顺庆是蜀汉重镇）及川北民俗文化为特色收藏。",
+  "highlights": [
+    "蚕桑丝绸文化史",
+    "三国蜀汉历史",
+    "川北民俗文物"
+  ],
+  "images": [],
+  "latitude": 30.7952,
+  "longitude": 106.0826,
+  "grade": "国家三级博物馆"
+}

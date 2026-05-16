@@ -1,21 +1,31 @@
 {
   "id": "yunnan_ethnic",
   "name": "云南民族博物馆",
-  "englishName": "",
+  "englishName": "Yunnan Nationalities Museum",
   "city": "昆明",
   "province": "云南",
-  "category": "综合",
-  "founded": null,
+  "category": "民俗",
+  "founded": 1995,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "云南省昆明市西山区滇池路1503号",
+  "website": "https://www.ynnmuseum.com/",
+  "phone": "0871-64311385",
   "openingHours": "请查看官网",
   "summary": "云南民族博物馆，位于云南省昆明市西山区滇池路1503号，是中国规模最大的民族类博物馆，是隶属云南省民族宗教事务委员会的正处级公益性文化事业单位。",
-  "highlights": [],
+  "highlights": [
+    "云南少数民族服饰",
+    "民族节庆与生活器物",
+    "民族建筑与工艺展示"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "云南民族博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "02.jpg",
       "caption": "Zhuang embroidered baby-carrying quilt. Fabric exhibited in the Yunnan Nationalities Museum, Kunming",

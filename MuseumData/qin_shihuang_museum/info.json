@@ -1,0 +1,26 @@
+{
+  "id": "qin_shihuang_museum",
+  "name": "秦始皇陵博物院",
+  "englishName": "Emperor Qinshihuang's Mausoleum Site Museum",
+  "city": "西安",
+  "province": "陕西",
+  "category": "历史",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "陕西省西安市临潼区秦陵北路",
+  "website": "https://www.bmy.com.cn/",
+  "phone": "029-81399127",
+  "openingHours": "请查看官网",
+  "summary": "秦始皇陵博物院是世界文化遗产，兵马俑坑面积达2万平方米，出土陶俑、陶马逾8000件，被誉为世界第八大奇迹，完整呈现了秦始皇统一天下的恢弘气势。",
+  "highlights": [
+    "世界第八大奇迹兵马俑",
+    "铜车马国宝级文物",
+    "秦代军事文化展"
+  ],
+  "images": [],
+  "latitude": 34.3847,
+  "longitude": 109.2785,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "guilin_minority_museum",
+  "name": "广西民族博物馆",
+  "englishName": "Guangxi Ethnic Museum",
+  "city": "南宁",
+  "province": "广西",
+  "category": "专题",
+  "founded": 2009,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区南宁市青秀区青环路11号",
+  "website": "http://www.gxmzmuseum.com/",
+  "phone": "0771-3365581",
+  "openingHours": "请查看官网",
+  "summary": "广西民族博物馆是专门展示广西12个世居民族文化的专题博物馆，馆内壮族铜鼓、民族服饰、干栏式建筑等文物，全面展示广西多姿多彩的民族文化风情。",
+  "highlights": [
+    "壮族铜鼓国宝",
+    "12个世居民族文化展",
+    "干栏式建筑展示"
+  ],
+  "images": [],
+  "latitude": 22.8299,
+  "longitude": 108.3833,
+  "grade": "国家一级博物馆"
+}

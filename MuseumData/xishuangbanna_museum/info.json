@@ -1,0 +1,26 @@
+{
+  "id": "xishuangbanna_museum",
+  "name": "西双版纳州博物馆",
+  "englishName": "Xishuangbanna Prefecture Museum",
+  "city": "景洪",
+  "province": "云南",
+  "category": "综合",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省西双版纳傣族自治州景洪市云南民族园路3号",
+  "website": "http://www.xsbnnmuseum.cn/",
+  "phone": "0691-2161001",
+  "openingHours": "请查看官网",
+  "summary": "西双版纳州博物馆展示傣族文化及热带雨林文明，馆内傣族传统服饰、贝叶经文献、竹楼建筑模型等文物，生动展现西双版纳多元民族文化的独特魅力。",
+  "highlights": [
+    "傣族贝叶经文献",
+    "傣族传统服饰精品",
+    "热带民族文化展"
+  ],
+  "images": [],
+  "latitude": 22.0094,
+  "longitude": 100.7975,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shaoxing_museum",
+  "name": "绍兴博物馆",
+  "englishName": "Shaoxing Museum",
+  "city": "绍兴",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1990,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省绍兴市越城区延安路236号",
+  "website": "http://www.sxmuseum.cn/",
+  "phone": "0575-88031666",
+  "openingHours": "请查看官网",
+  "summary": "绍兴博物馆是展示越文化的综合性博物馆，绍兴是书圣王羲之、民族英雄岳飞、文豪鲁迅的故乡，馆内越国青铜器、越窑青瓷及名人史迹文物极为丰富。",
+  "highlights": [
+    "越国青铜器精品",
+    "越窑青瓷收藏",
+    "绍兴名人史迹"
+  ],
+  "images": [],
+  "latitude": 30.0002,
+  "longitude": 120.5803,
+  "grade": "国家二级博物馆"
+}

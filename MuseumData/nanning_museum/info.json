@@ -1,0 +1,26 @@
+{
+  "id": "nanning_museum",
+  "name": "南宁博物馆",
+  "englishName": "Nanning Museum",
+  "city": "南宁",
+  "province": "广西",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区南宁市兴宁区民生路8号",
+  "website": "http://www.nnmuseum.com/",
+  "phone": "0771-5862328",
+  "openingHours": "请查看官网",
+  "summary": "南宁博物馆是展示南宁及广西历史文化的综合性博物馆，以壮族文化、骆越文化及铜鼓收藏为特色，是了解广西少数民族历史文化的重要窗口。",
+  "highlights": [
+    "壮族文化专题展",
+    "骆越铜鼓精品",
+    "广西历史陈列"
+  ],
+  "images": [],
+  "latitude": 22.8178,
+  "longitude": 108.3655,
+  "grade": "国家二级博物馆"
+}

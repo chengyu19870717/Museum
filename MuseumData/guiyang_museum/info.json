@@ -1,0 +1,26 @@
+{
+  "id": "guiyang_museum",
+  "name": "贵阳市博物馆",
+  "englishName": "Guiyang Museum",
+  "city": "贵阳",
+  "province": "贵州",
+  "category": "综合",
+  "founded": 1953,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省贵阳市南明区陕西路93号",
+  "website": "http://www.gybwg.com/",
+  "phone": "0851-85855086",
+  "openingHours": "请查看官网",
+  "summary": "贵阳市博物馆是贵阳市综合性历史博物馆，系统展示贵阳及贵州地区的历史、民族文化和自然资源，藏有苗族、布依族、侗族等少数民族文物精品。",
+  "highlights": [
+    "苗族银饰精品",
+    "布依族文物",
+    "贵州历史陈列"
+  ],
+  "images": [],
+  "latitude": 26.5617,
+  "longitude": 106.7175,
+  "grade": "国家二级博物馆"
+}

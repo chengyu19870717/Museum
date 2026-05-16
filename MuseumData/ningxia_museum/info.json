@@ -1,20 +1,24 @@
 {
   "id": "ningxia_museum",
   "name": "宁夏回族自治区博物馆",
-  "englishName": "",
+  "englishName": "Ningxia Museum",
   "city": "银川",
   "province": "宁夏",
   "category": "综合",
-  "founded": null,
+  "founded": 1973,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "宁夏回族自治区银川市金凤区人民广场东街6号",
+  "website": "http://www.nxbwg.com/en/index.asp",
+  "phone": "0951-5085093",
   "openingHours": "请查看官网",
   "summary": "宁夏回族自治区博物馆，简称宁夏博物馆，位于宁夏回族自治区银川市金凤区人民广场东街6号，是宁夏回族自治区属综合性博物馆，宁夏回族自治区文化厅直属事业单位。",
-  "highlights": [],
+  "highlights": [
+    "西夏文物",
+    "宁夏历史文化陈列",
+    "回族民俗文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -59,7 +63,7 @@
       "license": "CC BY-SA 4.0"
     }
   ],
-  "latitude": null,
-  "longitude": null,
-  "grade": null
+  "latitude": 38.4845,
+  "longitude": 106.2307,
+  "grade": "国家一级博物馆"
 }

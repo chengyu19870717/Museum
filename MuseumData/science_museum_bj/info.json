@@ -1,20 +1,24 @@
 {
   "id": "science_museum_bj",
   "name": "中国科学技术馆",
-  "englishName": "",
+  "englishName": "China Science and Technology Museum",
   "city": "北京",
   "province": "北京",
-  "category": "综合",
-  "founded": null,
+  "category": "科技",
+  "founded": 1988,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "北京市朝阳区北辰东路5号",
+  "website": "http://www.cstm.org.cn",
+  "phone": "010-59041000",
   "openingHours": "请查看官网",
   "summary": "中国科学技术馆（英語：China Science and Technology Museum，缩写“CSTM”），位于北京市朝阳区奥运村街道北辰东路5号，隶属于中国科学技术协会，是中华人民共和国惟一的国家级综合性科技馆。该馆主要功能是展览、培训和实验的教育。",
-  "highlights": [],
+  "highlights": [
+    "科学乐园",
+    "华夏之光",
+    "探索与发现展厅"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -27,9 +31,15 @@
       "caption": "Best angle?",
       "credit": "N509FZ",
       "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "中国科学技术馆",
+      "credit": null,
+      "license": null
     }
   ],
   "latitude": 40.00471944,
   "longitude": 116.39250833,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

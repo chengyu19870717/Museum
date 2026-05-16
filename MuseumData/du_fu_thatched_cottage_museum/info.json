@@ -1,0 +1,26 @@
+{
+  "id": "du_fu_thatched_cottage_museum",
+  "name": "杜甫草堂",
+  "englishName": "Du Fu Thatched Cottage",
+  "city": "成都",
+  "province": "四川",
+  "category": "历史",
+  "founded": 1955,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "四川成都（坐标定位，详细地址请查看官网）",
+  "website": "http://www.cddfct.com/index.php",
+  "phone": "028-87262310",
+  "openingHours": "请查看官网",
+  "summary": "杜甫草堂位于四川成都，是一座以地方历史、考古发现与文物收藏为主要内容的历史类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "地方历史文化陈列",
+    "馆藏文物精品",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 30.66217,
+  "longitude": 104.02633,
+  "grade": null
+}

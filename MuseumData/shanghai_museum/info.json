@@ -1,20 +1,24 @@
 {
   "id": "shanghai_museum",
   "name": "上海博物馆",
-  "englishName": "",
+  "englishName": "Shanghai Museum",
   "city": "上海",
   "province": "上海",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 1952,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "上海市黄浦区人民大道201号",
+  "website": "https://www.shanghaimuseum.net/mu/frontend/pg/en/index",
+  "phone": "021-63723500",
   "openingHours": "请查看官网",
   "summary": "上海博物馆位于位于上海市黄浦区人民大道201号，是上海最大的一所综合性古代艺术博物馆。馆内藏品数量达102余万件（包括珍贵文物14.5余万件），涵盖三十多个门类，其中青铜器、陶瓷和书画是最为突出的。",
-  "highlights": [],
+  "highlights": [
+    "大克鼎",
+    "晋侯稣钟",
+    "青铜器与书画收藏"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 31.230278,
   "longitude": 121.470556,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

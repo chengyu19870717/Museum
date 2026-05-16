@@ -1,0 +1,26 @@
+{
+  "id": "stephen_hui_geological_museum_university_of_hong_kong_museum",
+  "name": "香港大学许士芬地质博物馆",
+  "englishName": "Stephen Hui Geological Museum, University of Hong Kong",
+  "city": "香港",
+  "province": "香港",
+  "category": "自然",
+  "founded": 2009,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "香港（坐标定位，详细地址请查看官网）",
+  "website": "http://www.hku.hk/shmuseum/",
+  "phone": "+852 2241 5490",
+  "openingHours": "请查看官网",
+  "summary": "香港大学许士芬地质博物馆位于香港，是一座以自然标本、生态环境与地质演化为主要内容的自然类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "自然标本陈列",
+    "生态与地质展示",
+    "科普教育活动"
+  ],
+  "images": [],
+  "latitude": 22.2826,
+  "longitude": 114.137,
+  "grade": null
+}

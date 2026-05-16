@@ -1,0 +1,26 @@
+{
+  "id": "lianyungang_museum",
+  "name": "连云港市博物馆",
+  "englishName": "Lianyungang Museum",
+  "city": "连云港",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省连云港市新浦区朝阳中路18号",
+  "website": "http://www.lygmuseum.cn/",
+  "phone": "0518-85811999",
+  "openingHours": "请查看官网",
+  "summary": "连云港市博物馆展示海州历史文化，以将军崖岩画、藤花落遗址文物及海上丝路文物为特色，将军崖岩画是中国沿海地区发现的最重要岩画群之一。",
+  "highlights": [
+    "将军崖岩画史迹",
+    "藤花落史前遗址",
+    "海上丝路文物"
+  ],
+  "images": [],
+  "latitude": 34.5996,
+  "longitude": 119.221,
+  "grade": "国家二级博物馆"
+}

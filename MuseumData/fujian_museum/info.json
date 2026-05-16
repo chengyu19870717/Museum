@@ -1,20 +1,24 @@
 {
   "id": "fujian_museum",
   "name": "福建博物院",
-  "englishName": "",
+  "englishName": "Fujian Museum",
   "city": "福州",
   "province": "福建",
   "category": "综合",
-  "founded": null,
+  "founded": 1933,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "福建省福州市鼓楼区湖头街96号",
+  "website": "https://museum.fjsen.com/",
+  "phone": "0591-83757670",
   "openingHours": "请查看官网",
   "summary": "福建博物院，簡稱閩博，是一座位于福建省福州市的省级综合性博物馆，现有馆藏文物和自然标本近17万余件，其中珍贵文物3万余件。",
-  "highlights": [],
+  "highlights": [
+    "福建古代文明陈列",
+    "闽台历史文化",
+    "馆藏陶瓷与书画"
+  ],
   "images": [
     {
       "filename": "01.png",
@@ -43,5 +47,5 @@
   ],
   "latitude": 26.09722222,
   "longitude": 119.2825,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

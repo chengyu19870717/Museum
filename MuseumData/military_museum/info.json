@@ -1,20 +1,24 @@
 {
   "id": "military_museum",
   "name": "中国人民革命军事博物馆",
-  "englishName": "",
+  "englishName": "Military Museum of the Chinese People's Revolution",
   "city": "北京",
   "province": "北京",
-  "category": "综合",
-  "founded": null,
+  "category": "军事",
+  "founded": 1960,
   "area": null,
   "annualVisitors": null,
-  "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "freeEntry": true,
+  "address": "北京市海淀区复兴路9号",
+  "website": "http://www.junbo.mil.cn",
+  "phone": "010-66866244",
   "openingHours": "请查看官网",
   "summary": "中国人民革命军事博物馆，又称中央军委政治工作部军事博物馆，简称军事博物馆、军博，位于中國北京市海淀区羊坊店街道复兴路9号，地处长安街西延长线上，隶属中央军委政治工作部，为副军级单位。",
-  "highlights": [],
+  "highlights": [
+    "人民军队武器装备",
+    "革命战争史陈列",
+    "功勋武器与军史文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 39.90766944,
   "longitude": 116.31772222,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

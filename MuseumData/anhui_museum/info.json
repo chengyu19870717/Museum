@@ -1,20 +1,24 @@
 {
   "id": "anhui_museum",
   "name": "安徽博物院",
-  "englishName": "",
+  "englishName": "Anhui Museum",
   "city": "合肥",
   "province": "安徽",
   "category": "综合",
-  "founded": null,
+  "founded": 1956,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "安徽省合肥市怀宁路87号",
+  "website": "https://www.ahm.cn",
+  "phone": "0551-63736658",
   "openingHours": "请查看官网",
   "summary": "安徽博物院又名安徽省博物馆，是中华人民共和国安徽省唯一一家集自然、历史、社教为一体的省级综合类博物馆，廬陽館（旧馆，1956年建，全國重點文物保護單位名稱“安徽省博物館陳列展覽大樓”）位于合肥市安庆路268号，占地面积约70亩，蜀山館（新馆）位于合肥市怀宁路268号，建筑面积4.1万平方米。",
-  "highlights": [],
+  "highlights": [
+    "楚大鼎",
+    "鄂君启金节",
+    "吴王光剑"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -43,5 +47,5 @@
   ],
   "latitude": 31.804,
   "longitude": 117.2149,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

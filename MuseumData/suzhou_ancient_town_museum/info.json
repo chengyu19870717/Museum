@@ -1,0 +1,26 @@
+{
+  "id": "suzhou_ancient_town_museum",
+  "name": "苏州博物馆西馆",
+  "englishName": "Suzhou Museum West Branch",
+  "city": "苏州",
+  "province": "江苏",
+  "category": "艺术",
+  "founded": 2021,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省苏州市姑苏区金筑街1号",
+  "website": "http://www.szmuseum.com/",
+  "phone": "0512-68757575",
+  "openingHours": "请查看官网",
+  "summary": "苏州博物馆西馆是苏州博物馆的扩建新馆，以吴文化与江南文化为核心，设有苏工苏作、探索发现等特色展厅，进一步丰富了苏州博物馆的展览体系与文化内涵。",
+  "highlights": [
+    "苏工苏作精品展",
+    "吴文化历史陈列",
+    "江南文化专题展"
+  ],
+  "images": [],
+  "latitude": 31.3106,
+  "longitude": 120.5679,
+  "grade": "国家一级博物馆"
+}

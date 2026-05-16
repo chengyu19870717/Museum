@@ -1,20 +1,24 @@
 {
   "id": "national_museum_cn",
   "name": "中国国家博物馆",
-  "englishName": "",
+  "englishName": "National Museum of China",
   "city": "北京",
   "province": "北京",
   "category": "综合",
-  "founded": null,
+  "founded": 2003,
   "area": null,
   "annualVisitors": null,
-  "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "freeEntry": true,
+  "address": "东长安街16号",
+  "website": "http://www.chnmuseum.cn",
+  "phone": "010-65116400",
   "openingHours": "请查看官网",
   "summary": "中国国家博物馆，简称国家博物馆或国博，位于中华人民共和国北京市东城区东长安街16号、天安门广场东侧。总建筑面积近20万平方米，藏品数量140余万件，展厅数量48个，是世界上单体建筑面积最大的博物馆，是中华文物收藏量最丰富的博物馆之一。\n中国国家博物馆现有藏品数量140万余件，涵盖古代文物、近现代文物、图书古籍善本、艺术品等多种门类。其中，古代文物藏品81.5万件（套），近现代文物藏品34万件（套），图书古籍善本24万余件（册），共有一级文物近6000件（套）。其展览包括基本陈列、专题展览、临时展览三大系列，构成涵盖主题展览、基本陈列、专题展览、临时展览的立体化展览体系。其中，“古代中国”、“复兴之路”和“复兴之路新时代部分”为国家博物馆的基本陈列。2012年国家博物馆观众接待量高达537万人次，2016年达到755万人次。",
-  "highlights": [],
+  "highlights": [
+    "后母戊鼎",
+    "四羊方尊",
+    "复兴之路基本陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -47,6 +51,12 @@
       "license": "CC BY-SA 3.0"
     },
     {
+      "filename": "06.jpg",
+      "caption": "中国国家博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
       "filename": "07.jpg",
       "caption": "Exhibition of Achievements in China's Manned Spaceflight Program of 30 Years at the Nation Museum of",
       "credit": "Shujianyang",
@@ -73,5 +83,5 @@
   ],
   "latitude": 39.9036,
   "longitude": 116.395,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

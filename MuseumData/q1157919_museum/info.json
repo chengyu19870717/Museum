@@ -1,0 +1,26 @@
+{
+  "id": "q1157919_museum",
+  "name": "大连贝壳博物馆",
+  "englishName": "大连贝壳博物馆",
+  "city": "大连",
+  "province": "辽宁",
+  "category": "自然",
+  "founded": 2007,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "辽宁大连（坐标定位，详细地址请查看官网）",
+  "website": "http://shellmuseum.cn",
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "大连贝壳博物馆位于辽宁大连，是一座以自然标本、生态环境与地质演化为主要内容的自然类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "自然标本陈列",
+    "生态与地质展示",
+    "科普教育活动"
+  ],
+  "images": [],
+  "latitude": 38.878272,
+  "longitude": 121.589727,
+  "grade": null
+}

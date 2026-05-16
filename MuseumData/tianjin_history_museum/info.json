@@ -1,0 +1,26 @@
+{
+  "id": "tianjin_history_museum",
+  "name": "天津历史博物馆",
+  "englishName": "Tianjin History Museum",
+  "city": "天津",
+  "province": "天津",
+  "category": "历史",
+  "founded": 1918,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "天津市河西区平江道94号",
+  "website": "http://www.tjbwg.com/history/",
+  "phone": "022-28372600",
+  "openingHours": "请查看官网",
+  "summary": "天津历史博物馆是天津地区重要的历史博物馆，展示天津从史前到近现代的历史，以近代开埠史、洋务运动文物及海河文化见长，是了解天津百年历史的重要窗口。",
+  "highlights": [
+    "天津开埠历史展",
+    "洋务运动文物",
+    "近代工商业史料"
+  ],
+  "images": [],
+  "latitude": 39.103,
+  "longitude": 117.2099,
+  "grade": "国家二级博物馆"
+}

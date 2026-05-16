@@ -1,0 +1,26 @@
+{
+  "id": "china_aerospace_museum",
+  "name": "中华航天博物馆",
+  "englishName": "China Aerospace Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "科技",
+  "founded": 1992,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://www.casc-spacemuseum.com/",
+  "phone": "010-68383040",
+  "openingHours": "请查看官网",
+  "summary": "中华航天博物馆位于北京，是一座以科学技术、互动体验与科普教育为主要内容的科技类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "科学互动展项",
+    "科普教育活动",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 39.799,
+  "longitude": 116.4087,
+  "grade": null
+}

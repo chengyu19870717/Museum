@@ -1,0 +1,26 @@
+{
+  "id": "haihouhou_museum",
+  "name": "南昌汉代海昏侯国遗址博物馆",
+  "englishName": "Haihunhou State Relics Museum",
+  "city": "南昌",
+  "province": "江西",
+  "category": "历史",
+  "founded": 2020,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "江西省南昌市新建区大塘坪乡观西村",
+  "website": "https://www.hhhmuseum.cn/",
+  "phone": "0791-82196999",
+  "openingHours": "请查看官网",
+  "summary": "南昌汉代海昏侯国遗址博物馆在西汉海昏侯刘贺墓遗址上建立，出土金饼、马蹄金、铜钱、漆器等文物近万件，被誉为21世纪中国最重要的考古发现之一。",
+  "highlights": [
+    "金饼与马蹄金",
+    "海昏侯墓考古遗址",
+    "西汉文物精品"
+  ],
+  "images": [],
+  "latitude": 28.7611,
+  "longitude": 115.8236,
+  "grade": "国家一级博物馆"
+}

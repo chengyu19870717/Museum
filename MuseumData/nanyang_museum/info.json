@@ -1,0 +1,26 @@
+{
+  "id": "nanyang_museum",
+  "name": "南阳市博物馆",
+  "englishName": "Nanyang Museum",
+  "city": "南阳",
+  "province": "河南",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河南省南阳市卧龙区建设路248号",
+  "website": "http://www.nymuseum.cn/",
+  "phone": "0377-63171299",
+  "openingHours": "请查看官网",
+  "summary": "南阳市博物馆是展示南阳历史文化的综合性博物馆，南阳是汉代画像石的重要产地，馆内汉代画像石、南阳独山玉器及医圣张仲景文化展览独具地域特色。",
+  "highlights": [
+    "汉代画像石精品",
+    "南阳独山玉器",
+    "医圣张仲景文化"
+  ],
+  "images": [],
+  "latitude": 33.0027,
+  "longitude": 112.5165,
+  "grade": "国家二级博物馆"
+}

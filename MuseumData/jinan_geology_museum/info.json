@@ -1,0 +1,26 @@
+{
+  "id": "jinan_geology_museum",
+  "name": "山东省地质博物馆",
+  "englishName": "Shandong Geological Museum",
+  "city": "济南",
+  "province": "山东",
+  "category": "自然",
+  "founded": 2010,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省济南市历城区航天路27号",
+  "website": "http://www.sdgm.com.cn/",
+  "phone": "0531-88014899",
+  "openingHours": "请查看官网",
+  "summary": "山东省地质博物馆是山东最大的地球科学类博物馆，展示山东独特的地质构造与古生物演化，以恐龙化石群、矿物晶体和海洋古生物标本为特色收藏。",
+  "highlights": [
+    "山东恐龙化石群",
+    "矿物晶体精品",
+    "海洋古生物标本"
+  ],
+  "images": [],
+  "latitude": 36.7108,
+  "longitude": 117.1201,
+  "grade": "国家二级博物馆"
+}

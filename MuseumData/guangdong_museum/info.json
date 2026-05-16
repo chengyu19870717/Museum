@@ -1,20 +1,24 @@
 {
   "id": "guangdong_museum",
   "name": "广东省博物馆",
-  "englishName": "",
+  "englishName": "Guangdong Museum",
   "city": "广州",
   "province": "广东",
   "category": "综合",
-  "founded": null,
+  "founded": 1959,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "珠江东路2号",
+  "website": "http://www.gdmuseum.com/",
+  "phone": "020-38046886",
   "openingHours": "请查看官网",
   "summary": "广东省博物馆（英語：Guangdong Museum，简称：省博、粤博），是广东省目前规模最大的综合性博物馆。分为珠江新城馆区和文明路馆区。珠江新城馆区位于广州市天河区珠江新城猎德街道珠江东路2号。文明路馆区位于越秀区大塘街道龙腾社区文明路215号，包括广州鲁迅纪念馆和广东贡院明远楼。\n该馆在2008年5月18日被公布为首批国家一级博物馆，2024年4月入选中央地方共建国家级重点博物馆名单。",
-  "highlights": [],
+  "highlights": [
+    "端砚",
+    "潮州木雕",
+    "广东历史文化陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 23.11721389,
   "longitude": 113.32138611,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

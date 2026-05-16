@@ -1,0 +1,26 @@
+{
+  "id": "canton_custom_house_museum",
+  "name": "粤海关",
+  "englishName": "Canton Custom House",
+  "city": "广州",
+  "province": "广东",
+  "category": "专题",
+  "founded": 1916,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "沿江西路29号",
+  "website": "http://www.customsmuseum.cn/",
+  "phone": "020-81814862",
+  "openingHours": "请查看官网",
+  "summary": "粤海关位于广东广州，是一座以专题收藏、主题研究与公共展示为主要内容的专题类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "专题收藏陈列",
+    "主题文物展示",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 23.109989,
+  "longitude": 113.245861,
+  "grade": null
+}

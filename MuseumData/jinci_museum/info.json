@@ -1,0 +1,26 @@
+{
+  "id": "jinci_museum",
+  "name": "晋祠博物馆",
+  "englishName": "Jinci Museum",
+  "city": "太原",
+  "province": "山西",
+  "category": "历史",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "山西省太原市晋源区晋祠路101号",
+  "website": "http://www.jinci.cn/",
+  "phone": "0351-6020082",
+  "openingHours": "请查看官网",
+  "summary": "晋祠博物馆依托晋祠古建筑群而建，晋祠是中国现存最早的皇家祭祀园林，有千年古柏、宋代彩塑、圣母殿等稀世珍宝。",
+  "highlights": [
+    "圣母殿宋代彩塑",
+    "周柏唐槐古树",
+    "晋水文化历史"
+  ],
+  "images": [],
+  "latitude": 37.708,
+  "longitude": 112.4325,
+  "grade": "国家一级博物馆"
+}

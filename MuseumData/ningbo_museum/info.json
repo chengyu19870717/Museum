@@ -1,0 +1,26 @@
+{
+  "id": "ningbo_museum",
+  "name": "宁波博物馆",
+  "englishName": "Ningbo Museum",
+  "city": "宁波",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 2008,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省宁波市鄞州区首南中路1000号",
+  "website": "http://www.nbmuseum.cn/",
+  "phone": "0574-88228000",
+  "openingHours": "请查看官网",
+  "summary": "宁波博物馆由著名建筑师王澍设计，建筑本身即为艺术佳作，展示宁波七千年海洋文化、河姆渡文化及近代工商业历史，是宁波城市文化的重要地标。",
+  "highlights": [
+    "河姆渡文化文物",
+    "宁波海洋贸易史",
+    "获奖建筑本体"
+  ],
+  "images": [],
+  "latitude": 29.8163,
+  "longitude": 121.5789,
+  "grade": "国家一级博物馆"
+}

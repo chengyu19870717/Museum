@@ -1,0 +1,26 @@
+{
+  "id": "shanghai_glass_museum",
+  "name": "上海玻璃博物馆",
+  "englishName": "Shanghai Museum of Glass",
+  "city": "上海",
+  "province": "上海",
+  "category": "艺术",
+  "founded": 2011,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "上海市宝山区长江西路685号",
+  "website": "http://www.shmog.org/",
+  "phone": "021-66618000",
+  "openingHours": "请查看官网",
+  "summary": "上海玻璃博物馆是亚洲最具影响力的玻璃主题博物馆，在原上海玻璃厂旧址上改建而成，展示古今中外玻璃艺术精品及现代玻璃工艺，是工业遗存改造与艺术创新的典范。",
+  "highlights": [
+    "世界玻璃艺术精品",
+    "工业遗产改造展示",
+    "现代玻璃工艺体验"
+  ],
+  "images": [],
+  "latitude": 31.3899,
+  "longitude": 121.4799,
+  "grade": "国家二级博物馆"
+}

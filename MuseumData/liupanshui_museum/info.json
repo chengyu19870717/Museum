@@ -1,0 +1,26 @@
+{
+  "id": "liupanshui_museum",
+  "name": "六盘水市博物馆",
+  "englishName": "Liupanshui Museum",
+  "city": "六盘水",
+  "province": "贵州",
+  "category": "综合",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省六盘水市钟山区钟山大道8号",
+  "website": "http://www.lpsmuseum.cn/",
+  "phone": "0858-8222666",
+  "openingHours": "请查看官网",
+  "summary": "六盘水市博物馆展示六盘水地区历史文化，以苗族、彝族、布依族民俗文物及水城古人类遗址为特色，水城人化石是贵州发现的重要古人类遗存。",
+  "highlights": [
+    "水城古人类遗址",
+    "苗彝布依民俗展",
+    "贵州古生物化石"
+  ],
+  "images": [],
+  "latitude": 26.5857,
+  "longitude": 104.8308,
+  "grade": "国家三级博物馆"
+}

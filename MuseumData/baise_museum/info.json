@@ -1,0 +1,26 @@
+{
+  "id": "baise_museum",
+  "name": "百色起义纪念馆",
+  "englishName": "Baise Uprising Memorial Hall",
+  "city": "百色",
+  "province": "广西",
+  "category": "革命纪念",
+  "founded": 1961,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区百色市右江区百谷路10号",
+  "website": "http://www.bsqy.cn/",
+  "phone": "0776-2821012",
+  "openingHours": "请查看官网",
+  "summary": "百色起义纪念馆是为纪念邓小平领导的百色起义而建立的革命历史博物馆，1929年12月百色起义在此爆发，建立了右江革命根据地，是中国革命史上的重要里程碑。",
+  "highlights": [
+    "百色起义历史陈列",
+    "邓小平革命活动史料",
+    "右江革命根据地文物"
+  ],
+  "images": [],
+  "latitude": 23.8998,
+  "longitude": 106.6186,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "beijing_planning_exhibition_hall",
+  "name": "北京市规划展览馆",
+  "englishName": "Beijing Planning Exhibition Hall",
+  "city": "北京",
+  "province": "北京",
+  "category": "综合",
+  "founded": 2004,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://www.bjghzl.com.cn",
+  "phone": "010-67086688",
+  "openingHours": "请查看官网",
+  "summary": "北京市规划展览馆位于北京，是一座以地方文化、历史记忆与综合收藏为主要内容的综合类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "综合历史陈列",
+    "馆藏文物精品",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 39.898416,
+  "longitude": 116.39503,
+  "grade": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "huangshi_museum",
+  "name": "黄石市博物馆",
+  "englishName": "Huangshi Museum",
+  "city": "黄石",
+  "province": "湖北",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省黄石市下陆区铁山街道",
+  "website": "http://www.hsmuseum.cn/",
+  "phone": "0714-6351888",
+  "openingHours": "请查看官网",
+  "summary": "黄石市博物馆展示黄石地区历史文化，以铜绿山古铜矿遗址文物为核心，铜绿山是中国已知规模最大、保存最完整的古代铜矿遗址，距今已有三千多年历史。",
+  "highlights": [
+    "铜绿山古铜矿文物",
+    "三千年冶铜历史",
+    "矿冶文化专题展"
+  ],
+  "images": [],
+  "latitude": 30.2108,
+  "longitude": 115.0384,
+  "grade": "国家二级博物馆"
+}

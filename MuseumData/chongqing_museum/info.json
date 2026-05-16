@@ -1,20 +1,24 @@
 {
   "id": "chongqing_museum",
   "name": "重庆中国三峡博物馆",
-  "englishName": "",
+  "englishName": "Three Gorges Museum",
   "city": "重庆",
   "province": "重庆",
   "category": "综合",
-  "founded": null,
+  "founded": 2005,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "重庆市渝中区人民路236号",
+  "website": "https://www.3gmuseum.cn/",
+  "phone": "023-63679066",
   "openingHours": "请查看官网",
   "summary": "重庆中国三峡博物馆位于重庆市渝中区上清寺附近，与重庆市人民大礼堂隔人民广场相对而立，与重庆市人民政府驻地相邻。是国家文物局指定的国家一级博物馆。\n\n",
-  "highlights": [],
+  "highlights": [
+    "三峡文物",
+    "巴渝青铜器",
+    "抗战大后方历史陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -67,5 +71,5 @@
   ],
   "latitude": 29.565,
   "longitude": 106.54722222,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

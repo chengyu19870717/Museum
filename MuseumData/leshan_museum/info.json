@@ -1,0 +1,26 @@
+{
+  "id": "leshan_museum",
+  "name": "乐山市博物馆",
+  "englishName": "Leshan Museum",
+  "city": "乐山",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省乐山市市中区大佛寺街旁",
+  "website": "http://www.lsmuseum.cn/",
+  "phone": "0833-2102929",
+  "openingHours": "请查看官网",
+  "summary": "乐山市博物馆与世界文化遗产乐山大佛毗邻，展示乐山地区历史文化，包括嘉州汉代文物、宋代瓷器及大佛开凿历史。",
+  "highlights": [
+    "嘉州汉代文物",
+    "乐山大佛历史",
+    "宋代瓷器精品"
+  ],
+  "images": [],
+  "latitude": 29.5524,
+  "longitude": 103.7653,
+  "grade": "国家二级博物馆"
+}

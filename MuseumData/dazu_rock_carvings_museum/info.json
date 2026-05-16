@@ -1,0 +1,26 @@
+{
+  "id": "dazu_rock_carvings_museum",
+  "name": "大足石刻博物馆",
+  "englishName": "Dazu Rock Carvings Museum",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "艺术",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "重庆市大足区大足石刻景区内",
+  "website": "http://www.dzsz.com/",
+  "phone": "023-43730005",
+  "openingHours": "请查看官网",
+  "summary": "大足石刻博物馆依托世界文化遗产大足石刻而建，大足石刻是中国晚期石窟艺术的代表，以宝顶山、北山为核心，雕刻精美，题材丰富，被誉为东方艺术明珠。",
+  "highlights": [
+    "世界遗产石窟艺术",
+    "宝顶山摩崖造像",
+    "千手观音石刻"
+  ],
+  "images": [],
+  "latitude": 29.7016,
+  "longitude": 105.7127,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "luoyang_laozi_memorial_hall",
+  "name": "洛阳老子纪念馆",
+  "englishName": "Luoyang Laozi Memorial Hall",
+  "city": "洛阳",
+  "province": "河南",
+  "category": "历史",
+  "founded": 2012,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北大街1号",
+  "website": "https://www.lylaozi.com/",
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "洛阳老子纪念馆位于河南洛阳，是一座以地方历史、考古发现与文物收藏为主要内容的历史类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "地方历史文化陈列",
+    "馆藏文物精品",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 34.6913,
+  "longitude": 112.4721,
+  "grade": null
+}

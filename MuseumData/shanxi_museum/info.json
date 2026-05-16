@@ -1,20 +1,24 @@
 {
   "id": "shanxi_museum",
   "name": "山西博物院",
-  "englishName": "",
+  "englishName": "Shanxi Museum",
   "city": "太原",
   "province": "山西",
   "category": "综合",
-  "founded": null,
+  "founded": 2005,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "山西省太原市滨河西路北段13号",
+  "website": "http://www.shanximuseum.com.cn/",
+  "phone": "0351-8789188",
   "openingHours": "请查看官网",
   "summary": "山西博物院，位于山西省省会太原市滨河西路北段13号，是首批国家一级博物馆、中央地方共建国家级博物馆培育对象，山西最大的文物征集、收藏、保护、研究和展示中心。山西博物院前身为1919年创建的山西教育图书博物馆，此后几经周折，于1953年改称山西省博物馆，2004年新馆竣工之后，正式定名为山西博物院。\n山西博物院目前共收藏近66万件藏品，尤其是在青铜、瓷器、石刻、佛教造像、壁画方面颇具特色。山西博物院曾先后获得中国建设工程鲁班奖、全国博物馆十大陈列展览精品、全国文化遗产保护先进单位、第一批全国古籍重点保护单位、全国最具创新力博物馆、国家级青年文明号等荣誉。",
-  "highlights": [],
+  "highlights": [
+    "鸟尊",
+    "晋侯墓地文物",
+    "山西古代文明陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 37.86487222,
   "longitude": 112.52485278,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

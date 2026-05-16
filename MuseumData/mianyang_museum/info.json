@@ -1,0 +1,26 @@
+{
+  "id": "mianyang_museum",
+  "name": "绵阳市博物馆",
+  "englishName": "Mianyang Museum",
+  "city": "绵阳",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1951,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省绵阳市涪城区临园路西段62号",
+  "website": "http://www.mymuseum.cn/",
+  "phone": "0816-2301888",
+  "openingHours": "请查看官网",
+  "summary": "绵阳市博物馆展示绵阳地区历史文化，以三国时期文物、李白故里文化及绵阳科技城发展史为特色，馆内汉代文物和科技类文物收藏丰富。",
+  "highlights": [
+    "三国历史文物展",
+    "李白故里文化",
+    "汉代科技文物"
+  ],
+  "images": [],
+  "latitude": 31.4672,
+  "longitude": 104.6796,
+  "grade": "国家二级博物馆"
+}

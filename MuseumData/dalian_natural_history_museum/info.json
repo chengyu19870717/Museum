@@ -1,0 +1,26 @@
+{
+  "id": "dalian_natural_history_museum",
+  "name": "大连自然博物馆",
+  "englishName": "Dalian Natural History Museum",
+  "city": "大连",
+  "province": "辽宁",
+  "category": "自然",
+  "founded": 1907,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "辽宁省大连市沙河口区黑石礁西村40号",
+  "website": "http://www.dlnhm.com/",
+  "phone": "0411-84679250",
+  "openingHours": "请查看官网",
+  "summary": "大连自然博物馆是我国历史最悠久的自然博物馆之一，以辽西热河生物群化石标本最为著名，馆藏珍稀化石在国内外享有盛誉。",
+  "highlights": [
+    "辽西热河生物群化石",
+    "恐龙化石精品",
+    "海洋生物标本"
+  ],
+  "images": [],
+  "latitude": 38.9008,
+  "longitude": 121.5553,
+  "grade": "国家一级博物馆"
+}

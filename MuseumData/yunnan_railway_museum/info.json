@@ -1,0 +1,26 @@
+{
+  "id": "yunnan_railway_museum",
+  "name": "云南铁路博物馆",
+  "englishName": "Yunnan Railway Museum",
+  "city": "昆明",
+  "province": "云南",
+  "category": "科技",
+  "founded": 1990,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "昆明市盘龙区北京路913号",
+  "website": "http://www.ynrailwaymuseum.com/",
+  "phone": "0871-63622655",
+  "openingHours": "请查看官网",
+  "summary": "云南铁路博物馆位于云南昆明，是一座以科学技术、互动体验与科普教育为主要内容的科技类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "科学互动展项",
+    "科普教育活动",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 25.06,
+  "longitude": 102.719722,
+  "grade": null
+}

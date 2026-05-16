@@ -1,0 +1,26 @@
+{
+  "id": "benxi_museum",
+  "name": "本溪市博物馆",
+  "englishName": "Benxi Museum",
+  "city": "本溪",
+  "province": "辽宁",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "辽宁省本溪市明山区站前街道",
+  "website": "http://www.bxmuseum.cn/",
+  "phone": "0414-2711111",
+  "openingHours": "请查看官网",
+  "summary": "本溪市博物馆展示本溪地区历史文化与自然资源，以庙后山旧石器遗址文物、辽代文物及本溪地质地貌为特色，庙后山遗址是东北地区重要的旧石器时代文化遗存。",
+  "highlights": [
+    "庙后山旧石器遗址",
+    "辽代精品文物",
+    "本溪地质奇观"
+  ],
+  "images": [],
+  "latitude": 41.2953,
+  "longitude": 123.7685,
+  "grade": "国家三级博物馆"
+}

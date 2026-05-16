@@ -1,0 +1,26 @@
+{
+  "id": "china_national_museum_of_women_and_children_museum",
+  "name": "中国妇女儿童博物馆",
+  "englishName": "China National Museum of Women and Children",
+  "city": "北京",
+  "province": "北京",
+  "category": "专题",
+  "founded": 2010,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://ccwm.china.com.cn/",
+  "phone": "010-68020120",
+  "openingHours": "请查看官网",
+  "summary": "中国妇女儿童博物馆位于北京，是一座以专题收藏、主题研究与公共展示为主要内容的专题类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "专题收藏陈列",
+    "主题文物展示",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 39.90909,
+  "longitude": 116.41729,
+  "grade": null
+}

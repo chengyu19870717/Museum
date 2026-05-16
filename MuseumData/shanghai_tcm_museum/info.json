@@ -1,0 +1,26 @@
+{
+  "id": "shanghai_tcm_museum",
+  "name": "上海中医药博物馆",
+  "englishName": "Shanghai Museum of Traditional Chinese Medicine",
+  "city": "上海",
+  "province": "上海",
+  "category": "专题",
+  "founded": 2004,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "上海市浦东新区蔡伦路1200号",
+  "website": "http://museum.shutcm.edu.cn/",
+  "phone": "021-51322710",
+  "openingHours": "请查看官网",
+  "summary": "上海中医药博物馆是中国规模最大的中医药专题博物馆，馆藏中医药文物及标本6000余件，展示中医药5000年发展历程、中医典籍、针灸铜人等珍贵文物。",
+  "highlights": [
+    "针灸铜人复原",
+    "中医典籍珍本",
+    "中药标本馆"
+  ],
+  "images": [],
+  "latitude": 31.2013,
+  "longitude": 121.5868,
+  "grade": "国家一级博物馆"
+}

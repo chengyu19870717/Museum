@@ -1,21 +1,37 @@
 {
   "id": "palace_museum_bj",
   "name": "颐和园",
-  "englishName": "",
+  "englishName": "Summer Palace",
   "city": "北京",
   "province": "北京",
-  "category": "综合",
-  "founded": null,
+  "category": "历史",
+  "founded": 1750,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "北京市海淀区新建宫门路19号",
+  "website": "https://www.summerpalace-china.com",
+  "phone": "010-62881144",
   "openingHours": "请查看官网",
   "summary": "颐和园是清朝的皇家行宮和大型皇家園林，位于中国北京市海淀区西北，占地297公顷，主要由万寿山万寿山 (北京)和昆明湖组成。颐和园修建于清朝乾隆年间（原名清漪园）、重建于光绪年间，曾属于清朝北京西郊三山五园之一。颐和园素以人工建筑与自然山水巧妙结合的造园手法著称于世，是中国园林艺术顶峰时期的代表。1998年12月2日，颐和园被评为世界文化遺產。",
-  "highlights": [],
+  "highlights": [
+    "长廊",
+    "佛香阁",
+    "十七孔桥"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "颐和园",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "颐和园",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "03.jpg",
       "caption": "Palaces, avenues, buildings, parks, and scenery around China's Capital\nA small Pavilion on the Lake",
@@ -39,6 +55,12 @@
       "caption": "Hall of Benevolence and Longevity, Imperial Summer Palace, BeijingImperial Summer Palace",
       "credit": "Eunice winG from Malaysia",
       "license": "CC BY 2.0"
+    },
+    {
+      "filename": "07.jpg",
+      "caption": "颐和园",
+      "credit": null,
+      "license": null
     },
     {
       "filename": "08.jpg",

@@ -1,0 +1,26 @@
+{
+  "id": "beijing_ancient_architecture_museum",
+  "name": "北京古代建筑博物馆",
+  "englishName": "Beijing Ancient Architecture Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "专题",
+  "founded": 1991,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京市东城区先农坛街2号",
+  "website": "http://www.bjgjjzbwg.com.cn/",
+  "phone": "010-63172150",
+  "openingHours": "请查看官网",
+  "summary": "北京古代建筑博物馆是中国第一座以古代建筑为主题的专题博物馆，坐落于明清先农坛内，展示中国传统建筑的历史演变、营造技艺与建筑文化，是古建研究的重要基地。",
+  "highlights": [
+    "明清先农坛建筑",
+    "古建营造技艺展",
+    "历代建筑模型"
+  ],
+  "images": [],
+  "latitude": 39.8853,
+  "longitude": 116.3882,
+  "grade": "国家二级博物馆"
+}

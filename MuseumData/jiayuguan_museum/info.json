@@ -1,0 +1,26 @@
+{
+  "id": "jiayuguan_museum",
+  "name": "嘉峪关长城博物馆",
+  "englishName": "Jiayuguan Great Wall Museum",
+  "city": "嘉峪关",
+  "province": "甘肃",
+  "category": "历史",
+  "founded": 1989,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "甘肃省嘉峪关市嘉峪关关城",
+  "website": "http://www.jygmuseum.cn/",
+  "phone": "0937-6310117",
+  "openingHours": "请查看官网",
+  "summary": "嘉峪关长城博物馆是依托明代嘉峪关关城而建的长城专题博物馆，嘉峪关是万里长城西端第一雄关，馆内系统展示长城的历史变迁、军事防御体系及丝路文明。",
+  "highlights": [
+    "万里长城西端雄关",
+    "明代军事防御体系",
+    "丝路文明史料"
+  ],
+  "images": [],
+  "latitude": 39.773,
+  "longitude": 98.298,
+  "grade": "国家一级博物馆"
+}

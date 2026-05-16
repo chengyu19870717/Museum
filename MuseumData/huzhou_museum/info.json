@@ -1,0 +1,26 @@
+{
+  "id": "huzhou_museum",
+  "name": "湖州博物馆",
+  "englishName": "Huzhou Museum",
+  "city": "湖州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省湖州市吴兴区龙泉路1008号",
+  "website": "http://www.hzmuseum.cn/",
+  "phone": "0572-2302002",
+  "openingHours": "请查看官网",
+  "summary": "湖州博物馆展示湖州地区历史文化，以太湖文明、湖笔文化及桑蚕丝绸为特色，湖州善琏是湖笔的故乡，馆内湖笔制作工艺与历代书法文物相得益彰。",
+  "highlights": [
+    "湖笔文化历史展",
+    "太湖文明遗存",
+    "桑蚕丝绸文化"
+  ],
+  "images": [],
+  "latitude": 30.8939,
+  "longitude": 120.0875,
+  "grade": "国家三级博物馆"
+}

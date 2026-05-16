@@ -1,0 +1,26 @@
+{
+  "id": "yaozhoukiln_museum",
+  "name": "耀州窑博物馆",
+  "englishName": "Yaozhoukiln Museum",
+  "city": "铜川",
+  "province": "陕西",
+  "category": "专题",
+  "founded": 1994,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "陕西省铜川市王益区黄堡镇",
+  "website": "http://www.yzkmuseum.cn/",
+  "phone": "0919-3269060",
+  "openingHours": "请查看官网",
+  "summary": "耀州窑博物馆是以唐宋时期著名窑场耀州窑遗址为基础建立的陶瓷专题博物馆，耀州窑是宋代六大窑系之一，以精美的刻花青瓷著称，被誉为北方青瓷的代表。",
+  "highlights": [
+    "耀州窑刻花青瓷精品",
+    "唐宋窑址考古遗存",
+    "北方青瓷工艺史"
+  ],
+  "images": [],
+  "latitude": 34.903,
+  "longitude": 108.8921,
+  "grade": "国家二级博物馆"
+}

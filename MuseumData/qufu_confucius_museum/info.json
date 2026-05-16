@@ -1,0 +1,26 @@
+{
+  "id": "qufu_confucius_museum",
+  "name": "孔子博物馆",
+  "englishName": "Confucius Museum",
+  "city": "济宁",
+  "province": "山东",
+  "category": "历史",
+  "founded": 2019,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "山东省济宁市曲阜市孔子大道南段",
+  "website": "https://www.kongzibowuguan.cn/",
+  "phone": "0537-4498855",
+  "openingHours": "请查看官网",
+  "summary": "孔子博物馆是世界上规模最大的儒家文化专题博物馆，馆藏孔氏家族历代文物30余万件，系统展示孔子生平、儒家思想发展及对中华文明的深远影响。",
+  "highlights": [
+    "孔氏家族传世文物",
+    "儒家思想文化展",
+    "孔子生平陈列"
+  ],
+  "images": [],
+  "latitude": 35.5897,
+  "longitude": 116.9836,
+  "grade": "国家一级博物馆"
+}

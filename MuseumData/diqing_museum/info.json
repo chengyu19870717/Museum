@@ -1,0 +1,26 @@
+{
+  "id": "diqing_museum",
+  "name": "迪庆藏族自治州博物馆",
+  "englishName": "Diqing Tibetan Autonomous Prefecture Museum",
+  "city": "香格里拉",
+  "province": "云南",
+  "category": "综合",
+  "founded": 2004,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省迪庆藏族自治州香格里拉市建塘镇独克宗古城旁",
+  "website": "http://www.dqmuseum.cn/",
+  "phone": "0887-8232288",
+  "openingHours": "请查看官网",
+  "summary": "迪庆藏族自治州博物馆是展示香格里拉藏族文化的综合性博物馆，馆内收藏藏族唐卡、宗教法器、民族服饰等文物，呈现茶马古道沿线的藏彝走廊文化。",
+  "highlights": [
+    "藏族唐卡珍品",
+    "茶马古道文化",
+    "香格里拉民族文物"
+  ],
+  "images": [],
+  "latitude": 27.8243,
+  "longitude": 99.7061,
+  "grade": "国家三级博物馆"
+}

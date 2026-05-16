@@ -1,0 +1,26 @@
+{
+  "id": "liang_yi_museum",
+  "name": "两依藏博物馆",
+  "englishName": "Liang Yi Museum",
+  "city": "香港",
+  "province": "香港",
+  "category": "艺术",
+  "founded": 2012,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "香港（坐标定位，详细地址请查看官网）",
+  "website": "http://www.liangyimuseum.com",
+  "phone": "+852 2806 8280",
+  "openingHours": "请查看官网",
+  "summary": "两依藏博物馆位于香港，是一座以艺术收藏、展览策划与公共美育为主要内容的艺术类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "馆藏艺术作品",
+    "专题艺术展览",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 22.28471,
+  "longitude": 114.14972,
+  "grade": null
+}

@@ -1,20 +1,24 @@
 {
   "id": "neimenggu_museum",
   "name": "内蒙古博物院",
-  "englishName": "",
+  "englishName": "Inner Mongolia Museum",
   "city": "呼和浩特",
   "province": "内蒙古",
   "category": "综合",
-  "founded": null,
+  "founded": 1957,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "内蒙古呼和浩特市新城区新华东街27号",
+  "website": "http://www.nmgbwy.cn",
+  "phone": "+86-471-461-4000",
   "openingHours": "请查看官网",
   "summary": "内蒙古博物院（英語：Inner Mongolia Museum），旧名内蒙古博物馆，位于内蒙古自治区首府呼和浩特市，新馆位于赛罕区新华东街与万通路交叉口东南侧，与内蒙古乌兰恰特大剧院毗邻。馆舍主体建筑面积约14.7万平方米，其中展览面积约3.9万平方米，由陈列展厅区、文物库房区、观众服务区、业务科研区及多功能厅等各部分组成。\n博物院是内蒙古最大以及最重要的博物馆机构，兼具历史和自然博物馆的职能。院内收藏有古生物化石、历史文物、民族民俗文物15万余件组，其中珍贵文物5600余件套，国家一级文物650件套。展览按照草原主线而安排，突出地域与民族特色。展品涵盖了从化石到现存生物，从各个民族的起源到发展壮大的代表文物，揭示了中国北方生态变迁史与草原文明发展史的扼要进程。",
-  "highlights": [],
+  "highlights": [
+    "恐龙化石",
+    "草原民族文物",
+    "辽代与蒙古族历史陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -61,5 +65,5 @@
   ],
   "latitude": 40.84008056,
   "longitude": 111.75807222,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

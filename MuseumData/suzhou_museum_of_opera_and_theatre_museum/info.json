@@ -1,0 +1,26 @@
+{
+  "id": "suzhou_museum_of_opera_and_theatre_museum",
+  "name": "苏州戏曲博物馆",
+  "englishName": "Suzhou Museum of Opera and Theatre",
+  "city": "苏州",
+  "province": "江苏",
+  "category": "艺术",
+  "founded": 1986,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "江苏苏州（坐标定位，详细地址请查看官网）",
+  "website": "http://www.kunopera.com.cn/",
+  "phone": "0512-65226009",
+  "openingHours": "请查看官网",
+  "summary": "苏州戏曲博物馆位于江苏苏州，是一座以艺术收藏、展览策划与公共美育为主要内容的艺术类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "馆藏艺术作品",
+    "专题艺术展览",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 31.314904,
+  "longitude": 120.631618,
+  "grade": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "changsha_mawangdui_museum",
+  "name": "长沙马王堆汉墓陈列馆",
+  "englishName": "Changsha Mawangdui Han Tomb Exhibition Hall",
+  "city": "长沙",
+  "province": "湖南",
+  "category": "历史",
+  "founded": 1974,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "湖南省长沙市开福区清水塘路50号（含于湖南博物院）",
+  "website": "http://www.hnmuseum.com/mawangdui/",
+  "phone": "0731-84415833",
+  "openingHours": "请查看官网",
+  "summary": "马王堆汉墓是20世纪最重大的考古发现之一，出土的辛追夫人遗体保存完好，T形帛画、素纱禅衣等文物震惊世界，现陈列于湖南博物院内，是汉代文明的璀璨展示。",
+  "highlights": [
+    "辛追夫人千年遗体",
+    "T形帛画国宝",
+    "素纱禅衣极品"
+  ],
+  "images": [],
+  "latitude": 28.2028,
+  "longitude": 112.9859,
+  "grade": "国家一级博物馆"
+}

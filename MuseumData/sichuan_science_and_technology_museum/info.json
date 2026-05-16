@@ -1,0 +1,26 @@
+{
+  "id": "sichuan_science_and_technology_museum",
+  "name": "四川科技馆",
+  "englishName": "Sichuan Science and Technology Museum",
+  "city": "成都",
+  "province": "四川",
+  "category": "科技",
+  "founded": 2009,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "四川成都（坐标定位，详细地址请查看官网）",
+  "website": "http://www.scstm.com/",
+  "phone": "028-86742888",
+  "openingHours": "请查看官网",
+  "summary": "四川科技馆位于四川成都，是一座以科学技术、互动体验与科普教育为主要内容的科技类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "科学互动展项",
+    "科普教育活动",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 30.66231,
+  "longitude": 104.06331,
+  "grade": null
+}

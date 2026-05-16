@@ -1,0 +1,26 @@
+{
+  "id": "zhangye_museum",
+  "name": "张掖市博物馆",
+  "englishName": "Zhangye Museum",
+  "city": "张掖",
+  "province": "甘肃",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "甘肃省张掖市甘州区南大街45号",
+  "website": "http://www.zymuseum.cn/",
+  "phone": "0936-8215010",
+  "openingHours": "请查看官网",
+  "summary": "张掖市博物馆展示古丝绸之路重镇张掖的历史文化，以汉代简牍、黑水国遗址文物及西夏文物最具特色，是研究河西走廊历史文化的重要学术基地。",
+  "highlights": [
+    "汉代简牍文书",
+    "黑水国遗址文物",
+    "西夏文物精品"
+  ],
+  "images": [],
+  "latitude": 38.9254,
+  "longitude": 100.4446,
+  "grade": "国家二级博物馆"
+}

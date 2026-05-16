@@ -1,0 +1,26 @@
+{
+  "id": "kashgar_museum",
+  "name": "喀什地区博物馆",
+  "englishName": "Kashgar Regional Museum",
+  "city": "喀什",
+  "province": "新疆",
+  "category": "历史",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区喀什地区喀什市色满路146号",
+  "website": "http://www.ksmuseum.cn/",
+  "phone": "0998-2826888",
+  "openingHours": "请查看官网",
+  "summary": "喀什地区博物馆是展示古丝绸之路西端重镇喀什历史文化的综合性博物馆，馆内收藏维吾尔族传统服饰、丝路出土文物及伊斯兰艺术品，是中西文明交汇的历史见证。",
+  "highlights": [
+    "古丝路西端文物",
+    "维吾尔族传统文化",
+    "中西文明交汇史料"
+  ],
+  "images": [],
+  "latitude": 39.4701,
+  "longitude": 75.9897,
+  "grade": "国家二级博物馆"
+}

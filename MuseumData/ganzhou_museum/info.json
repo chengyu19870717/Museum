@@ -1,0 +1,26 @@
+{
+  "id": "ganzhou_museum",
+  "name": "赣州博物馆",
+  "englishName": "Ganzhou Museum",
+  "city": "赣州",
+  "province": "江西",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江西省赣州市章贡区文清路43号",
+  "website": "http://www.gzmuseum.cn/",
+  "phone": "0797-8227888",
+  "openingHours": "请查看官网",
+  "summary": "赣州博物馆展示赣南客家文化与宋代文明，赣州保存了中国面积最大的宋代城墙，馆内客家民俗文物、宋代陶瓷及赣南苏区革命历史文物是三大展览亮点。",
+  "highlights": [
+    "宋代古城墙历史",
+    "客家文化精品文物",
+    "赣南苏区革命史"
+  ],
+  "images": [],
+  "latitude": 25.8311,
+  "longitude": 114.9327,
+  "grade": "国家二级博物馆"
+}

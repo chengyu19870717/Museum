@@ -1,0 +1,26 @@
+{
+  "id": "shenyang_palace_museum",
+  "name": "沈阳故宫博物院",
+  "englishName": "Shenyang Palace Museum",
+  "city": "沈阳",
+  "province": "辽宁",
+  "category": "历史",
+  "founded": 1926,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "辽宁省沈阳市沈河区沈阳路171号",
+  "website": "https://www.sypm.org.cn/",
+  "phone": "024-24845606",
+  "openingHours": "请查看官网",
+  "summary": "沈阳故宫博物院原为清朝初期皇宫，始建于努尔哈赤时期，是中国现存仅次于北京故宫的最完整皇家宫殿建筑群，被列为世界文化遗产。",
+  "highlights": [
+    "世界文化遗产宫殿群",
+    "满族宫廷文物",
+    "清代御用器物"
+  ],
+  "images": [],
+  "latitude": 41.7946,
+  "longitude": 123.4524,
+  "grade": "国家一级博物馆"
+}

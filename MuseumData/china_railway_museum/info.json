@@ -1,0 +1,26 @@
+{
+  "id": "china_railway_museum",
+  "name": "中国铁道博物馆东郊展馆",
+  "englishName": "China Railway Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "科技",
+  "founded": 2002,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://www.zhtb.cn/",
+  "phone": "010-51843995",
+  "openingHours": "请查看官网",
+  "summary": "中国铁道博物馆东郊展馆位于北京，是一座以科学技术、互动体验与科普教育为主要内容的科技类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "科学互动展项",
+    "科普教育活动",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 39.9963,
+  "longitude": 116.5103,
+  "grade": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "turpan_museum",
+  "name": "吐鲁番博物馆",
+  "englishName": "Turpan Museum",
+  "city": "吐鲁番",
+  "province": "新疆",
+  "category": "历史",
+  "founded": 1989,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区吐鲁番市高昌区高昌路1号",
+  "website": "http://www.tlfmuseum.com/",
+  "phone": "0995-8522224",
+  "openingHours": "请查看官网",
+  "summary": "吐鲁番博物馆展示丝绸之路重要节点吐鲁番的历史文化，馆藏汉晋时期丝织品、古文书、古尸标本等，是研究吐鲁番盆地古代文明的重要基地。",
+  "highlights": [
+    "丝绸之路古文书",
+    "汉晋丝织品",
+    "高昌古城文物"
+  ],
+  "images": [],
+  "latitude": 42.9411,
+  "longitude": 89.1872,
+  "grade": "国家二级博物馆"
+}

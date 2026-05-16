@@ -1,0 +1,26 @@
+{
+  "id": "anshan_museum",
+  "name": "鞍山市博物馆",
+  "englishName": "Anshan Museum",
+  "city": "鞍山",
+  "province": "辽宁",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "辽宁省鞍山市铁东区二一九公园内",
+  "website": "http://www.asmuseum.cn/",
+  "phone": "0412-8552811",
+  "openingHours": "请查看官网",
+  "summary": "鞍山市博物馆展示鞍山地区历史文化，以岫玉文化、辽金时期文物及鞍钢工业历史为特色，岫玉展览在全国博物馆中独树一帜。",
+  "highlights": [
+    "岫玉文化专题展",
+    "辽金文物精品",
+    "鞍钢工业历史"
+  ],
+  "images": [],
+  "latitude": 41.114,
+  "longitude": 122.9955,
+  "grade": "国家三级博物馆"
+}

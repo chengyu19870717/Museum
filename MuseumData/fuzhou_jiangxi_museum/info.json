@@ -1,0 +1,26 @@
+{
+  "id": "fuzhou_jiangxi_museum",
+  "name": "抚州博物馆",
+  "englishName": "Fuzhou Jiangxi Museum",
+  "city": "抚州",
+  "province": "江西",
+  "category": "综合",
+  "founded": 1962,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江西省抚州市临川区文昌大道",
+  "website": "http://www.fzjxmuseum.cn/",
+  "phone": "0794-8288888",
+  "openingHours": "请查看官网",
+  "summary": "抚州博物馆展示赣东文化，以临川文化、王安石故里及汤显祖文化为特色，抚州是著名政治家王安石和戏剧家汤显祖的故乡，人文历史底蕴深厚。",
+  "highlights": [
+    "王安石历史文物",
+    "汤显祖文化专题",
+    "临川文化历史展"
+  ],
+  "images": [],
+  "latitude": 27.9481,
+  "longitude": 116.3584,
+  "grade": "国家三级博物馆"
+}

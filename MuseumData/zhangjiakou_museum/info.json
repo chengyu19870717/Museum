@@ -1,0 +1,26 @@
+{
+  "id": "zhangjiakou_museum",
+  "name": "张家口博物馆",
+  "englishName": "Zhangjiakou Museum",
+  "city": "张家口",
+  "province": "河北",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河北省张家口市桥西区明德南路9号",
+  "website": "http://www.zjkmuseum.cn/",
+  "phone": "0313-8028888",
+  "openingHours": "请查看官网",
+  "summary": "张家口博物馆展示张家口地区历史文化，以草原文化、塞外文明及察哈尔历史为特色，馆内泥河湾遗址相关文物展示了距今170万年前的人类活动踪迹。",
+  "highlights": [
+    "泥河湾旧石器文物",
+    "草原文化历史",
+    "察哈尔历史陈列"
+  ],
+  "images": [],
+  "latitude": 40.8242,
+  "longitude": 114.8841,
+  "grade": "国家二级博物馆"
+}

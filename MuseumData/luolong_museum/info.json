@@ -1,0 +1,26 @@
+{
+  "id": "luolong_museum",
+  "name": "洛阳龙门石窟研究院",
+  "englishName": "Longmen Grottoes Research Institute Museum",
+  "city": "洛阳",
+  "province": "河南",
+  "category": "艺术",
+  "founded": 1953,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "河南省洛阳市洛龙区龙门镇",
+  "website": "https://www.longmen.com.cn/",
+  "phone": "0379-65981122",
+  "openingHours": "请查看官网",
+  "summary": "龙门石窟是世界文化遗产，开凿于北魏时期，历经400余年营建，有窟龛2345个、造像10万余尊，奉先寺卢舍那大佛是龙门艺术的最高代表，展示了盛唐雕刻艺术的巅峰。",
+  "highlights": [
+    "卢舍那大佛",
+    "奉先寺北魏造像",
+    "世界文化遗产石窟"
+  ],
+  "images": [],
+  "latitude": 34.5568,
+  "longitude": 112.4723,
+  "grade": "国家一级博物馆"
+}

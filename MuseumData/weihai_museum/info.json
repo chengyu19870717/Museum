@@ -1,0 +1,26 @@
+{
+  "id": "weihai_museum",
+  "name": "威海市博物馆",
+  "englishName": "Weihai Museum",
+  "city": "威海",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1986,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省威海市环翠区文化中路46号",
+  "website": "http://www.whmuseum.cn/",
+  "phone": "0631-5266198",
+  "openingHours": "请查看官网",
+  "summary": "威海市博物馆展示威海地区历史文化，以甲午海战历史、刘公岛历史及威海卫租借地历史为特色，甲午战争是中国近代史上的重要转折点。",
+  "highlights": [
+    "甲午海战历史陈列",
+    "刘公岛文物",
+    "威海卫近代史展"
+  ],
+  "images": [],
+  "latitude": 37.5134,
+  "longitude": 122.1236,
+  "grade": "国家二级博物馆"
+}

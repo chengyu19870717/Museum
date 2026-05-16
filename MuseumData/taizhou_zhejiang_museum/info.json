@@ -1,0 +1,26 @@
+{
+  "id": "taizhou_zhejiang_museum",
+  "name": "台州博物馆",
+  "englishName": "Taizhou Zhejiang Museum",
+  "city": "台州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省台州市椒江区市府大道633号",
+  "website": "http://www.tzzjmuseum.cn/",
+  "phone": "0576-88698888",
+  "openingHours": "请查看官网",
+  "summary": "台州博物馆展示台州地区历史文化，以东海文化、台州府城历史及近代民营经济发展史为特色，台州是浙江民营经济的重要发源地。",
+  "highlights": [
+    "东海文化历史展",
+    "台州府城文物",
+    "民营经济发展史"
+  ],
+  "images": [],
+  "latitude": 28.6565,
+  "longitude": 121.4211,
+  "grade": "国家三级博物馆"
+}

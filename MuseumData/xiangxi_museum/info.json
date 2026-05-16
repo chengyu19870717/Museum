@@ -1,0 +1,26 @@
+{
+  "id": "xiangxi_museum",
+  "name": "湘西土家族苗族自治州博物馆",
+  "englishName": "Xiangxi Tujia and Miao Autonomous Prefecture Museum",
+  "city": "吉首",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省湘西土家族苗族自治州吉首市峒河街道",
+  "website": "http://www.xxmuseum.cn/",
+  "phone": "0743-8225566",
+  "openingHours": "请查看官网",
+  "summary": "湘西土家族苗族自治州博物馆展示湘西地区土家族苗族历史文化，馆内土家族古织品、苗族银饰头饰及湘西赶尸、凤凰古城相关文物，展现湘西神秘而独特的民族文化。",
+  "highlights": [
+    "苗族盛装银饰精品",
+    "土家族古织品",
+    "湘西民族历史展"
+  ],
+  "images": [],
+  "latitude": 28.3126,
+  "longitude": 109.7387,
+  "grade": "国家二级博物馆"
+}

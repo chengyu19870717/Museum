@@ -1,0 +1,26 @@
+{
+  "id": "qionghai_museum",
+  "name": "琼海市博物馆",
+  "englishName": "Qionghai Museum",
+  "city": "琼海",
+  "province": "海南",
+  "category": "综合",
+  "founded": 1992,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "海南省琼海市嘉积镇南海大道旁",
+  "website": "http://www.qhmuseum.cn/",
+  "phone": "0898-62226688",
+  "openingHours": "请查看官网",
+  "summary": "琼海市博物馆展示琼海地区历史文化，以潭门渔民文化、南海历史文物及华侨文化为特色，馆内潭门渔民更路簿等文物是中国南海主权的重要历史证据。",
+  "highlights": [
+    "南海主权历史证据",
+    "潭门渔民更路簿",
+    "华侨文化展"
+  ],
+  "images": [],
+  "latitude": 19.2587,
+  "longitude": 110.4747,
+  "grade": "国家三级博物馆"
+}

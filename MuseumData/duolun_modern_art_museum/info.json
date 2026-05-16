@@ -1,0 +1,26 @@
+{
+  "id": "duolun_modern_art_museum",
+  "name": "上海多伦现代美术馆",
+  "englishName": "Duolun Museum of Modern Art",
+  "city": "上海",
+  "province": "上海",
+  "category": "艺术",
+  "founded": 2003,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "上海市虹口区多伦路27号",
+  "website": "http://www.duolunmoma.org/",
+  "phone": "021-55039801",
+  "openingHours": "请查看官网",
+  "summary": "上海多伦现代美术馆位于历史文化名街多伦路，是上海重要的当代艺术展览机构，多伦路曾是鲁迅、矛盾等左翼文学大家聚集之所，馆内当代艺术展览与文化沙龙活动丰富。",
+  "highlights": [
+    "当代艺术精品展览",
+    "多伦路历史文化",
+    "左翼文化历史展"
+  ],
+  "images": [],
+  "latitude": 31.2618,
+  "longitude": 121.4862,
+  "grade": "国家三级博物馆"
+}

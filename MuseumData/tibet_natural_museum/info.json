@@ -1,0 +1,26 @@
+{
+  "id": "tibet_natural_museum",
+  "name": "西藏自然科学博物馆",
+  "englishName": "Tibet Museum of Natural Science",
+  "city": "拉萨",
+  "province": "西藏",
+  "category": "自然",
+  "founded": 2000,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "西藏自治区拉萨市城关区江苏路19号",
+  "website": "http://www.tibetscience.cn/",
+  "phone": "0891-6325200",
+  "openingHours": "请查看官网",
+  "summary": "西藏自然科学博物馆展示青藏高原独特的地质地貌、高原生态系统和特有动植物，是了解世界屋脊自然奥秘的重要窗口。",
+  "highlights": [
+    "青藏高原地质展",
+    "高原特有动植物",
+    "藏族传统科技"
+  ],
+  "images": [],
+  "latitude": 29.6517,
+  "longitude": 91.1412,
+  "grade": "国家二级博物馆"
+}

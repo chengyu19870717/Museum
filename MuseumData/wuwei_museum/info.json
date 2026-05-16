@@ -1,0 +1,26 @@
+{
+  "id": "wuwei_museum",
+  "name": "武威市博物馆",
+  "englishName": "Wuwei Museum",
+  "city": "武威",
+  "province": "甘肃",
+  "category": "历史",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "甘肃省武威市凉州区文化路8号",
+  "website": "http://www.wwmuseum.cn/",
+  "phone": "0935-2212001",
+  "openingHours": "请查看官网",
+  "summary": "武威市博物馆是展示河西走廊历史文化的重要博物馆，馆藏铜奔马（马踏飞燕）原件于此，汉代简牍、铜奔马及西夏文物是馆内三大镇馆之宝。",
+  "highlights": [
+    "铜奔马马踏飞燕",
+    "汉代简牍文书",
+    "西夏碑珍贵文物"
+  ],
+  "images": [],
+  "latitude": 37.9282,
+  "longitude": 102.6413,
+  "grade": "国家一级博物馆"
+}

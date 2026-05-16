@@ -1,0 +1,26 @@
+{
+  "id": "hohhot_museum",
+  "name": "呼和浩特博物馆",
+  "englishName": "Hohhot Museum",
+  "city": "呼和浩特",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": 1986,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区呼和浩特市玉泉区昭君路",
+  "website": "http://www.hhhtmuseum.org/",
+  "phone": "0471-6924585",
+  "openingHours": "请查看官网",
+  "summary": "呼和浩特博物馆展示呼和浩特历史演变，以游牧民族历史文物和召庙文化为特色，馆内还有王昭君文化专题展。",
+  "highlights": [
+    "王昭君历史文化",
+    "游牧民族文物",
+    "召庙建筑艺术"
+  ],
+  "images": [],
+  "latitude": 40.8383,
+  "longitude": 111.6478,
+  "grade": "国家二级博物馆"
+}

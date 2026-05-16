@@ -1,0 +1,26 @@
+{
+  "id": "wenzhou_museum",
+  "name": "温州博物馆",
+  "englishName": "Wenzhou Museum",
+  "city": "温州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省温州市鹿城区墨池坊35号",
+  "website": "http://www.wzmuseum.cn/",
+  "phone": "0577-88338199",
+  "openingHours": "请查看官网",
+  "summary": "温州博物馆是温州地区综合性历史博物馆，以瓯越文化为主题，展示温州地区从史前到近现代的历史变迁，馆内瓯窑瓷器与近代温商历史展览独具特色。",
+  "highlights": [
+    "瓯窑瓷器精品",
+    "瓯越文化专题",
+    "温商近代历史"
+  ],
+  "images": [],
+  "latitude": 28.0237,
+  "longitude": 120.6601,
+  "grade": "国家二级博物馆"
+}

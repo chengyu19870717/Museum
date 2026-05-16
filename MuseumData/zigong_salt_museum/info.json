@@ -1,0 +1,26 @@
+{
+  "id": "zigong_salt_museum",
+  "name": "自贡市盐业历史博物馆",
+  "englishName": "Zigong Salt Industry History Museum",
+  "city": "自贡",
+  "province": "四川",
+  "category": "专题",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "四川省自贡市自流井区解放路107号",
+  "website": "http://www.zgsybwg.com/",
+  "phone": "0813-2282539",
+  "openingHours": "请查看官网",
+  "summary": "自贡市盐业历史博物馆是中国唯一一座以盐业历史为主题的国家级专题博物馆，坐落在清代盐商宅邸西秦会馆，展示自贡两千年井盐开采历史及深井钻探技艺。",
+  "highlights": [
+    "两千年井盐开采史",
+    "深井钻探古代技艺",
+    "西秦会馆古建筑"
+  ],
+  "images": [],
+  "latitude": 29.3505,
+  "longitude": 104.7676,
+  "grade": "国家一级博物馆"
+}

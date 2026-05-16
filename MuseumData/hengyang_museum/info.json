@@ -1,0 +1,26 @@
+{
+  "id": "hengyang_museum",
+  "name": "衡阳市博物馆",
+  "englishName": "Hengyang Museum",
+  "city": "衡阳",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省衡阳市雁峰区岳屏公园",
+  "website": "http://www.hymuseum.cn/",
+  "phone": "0734-8885888",
+  "openingHours": "请查看官网",
+  "summary": "衡阳市博物馆展示衡阳地区历史文化，以南岳衡山文化、抗战历史及历代文物为特色，衡阳是抗日战争中著名的衡阳保卫战发生地。",
+  "highlights": [
+    "南岳衡山文化展",
+    "衡阳保卫战史料",
+    "历代精品文物"
+  ],
+  "images": [],
+  "latitude": 26.898,
+  "longitude": 112.5714,
+  "grade": "国家三级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cangzhou_museum",
+  "name": "沧州博物馆",
+  "englishName": "Cangzhou Museum",
+  "city": "沧州",
+  "province": "河北",
+  "category": "综合",
+  "founded": 1962,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河北省沧州市解放中路218号",
+  "website": "http://www.czbwg.cn/",
+  "phone": "0317-2021068",
+  "openingHours": "请查看官网",
+  "summary": "沧州博物馆是展示沧州历史文化的综合性博物馆，以沧州铁狮子文化、武术文化及渤海历史为特色，沧州作为中国武术之乡，馆内武术文物收藏独具特色。",
+  "highlights": [
+    "沧州铁狮子文化",
+    "中国武术文物展",
+    "渤海历史陈列"
+  ],
+  "images": [],
+  "latitude": 38.3037,
+  "longitude": 116.8388,
+  "grade": "国家二级博物馆"
+}

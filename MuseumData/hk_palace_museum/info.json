@@ -1,20 +1,24 @@
 {
   "id": "hk_palace_museum",
   "name": "香港故宫文化博物馆",
-  "englishName": "",
+  "englishName": "Hong Kong Palace Museum",
   "city": "香港",
   "province": "香港",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 2022,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "香港九龙西九文化区博物馆道8号",
+  "website": "https://www.hkpm.org.hk/",
+  "phone": "+852 2200 0217",
   "openingHours": "请查看官网",
-  "summary": "",
-  "highlights": [],
+  "summary": "香港故宮文化博物館（英語：Hong Kong Palace Museum，縮寫：HKPM），簡稱香港故宮，別稱「西九西大門」，是一座展示北京故宫博物院文物的博物館，位於香港西九文化區博物館道8號。博物館佔地一萬平方米，於2018年初動工，於2022年6月22日開館，於同年7月3日開放，造價達35億港元，由香港慈善信託基金捐贈。博物館的建築設計則由嚴迅奇負責，並由西九文化區管理局全資擁有的附屬公司籌建及營運。",
+  "highlights": [
+    "故宫博物院借展文物",
+    "清代宫廷艺术",
+    "中国书画与器物展览"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -47,7 +51,7 @@
       "license": "CC BY-SA 4.0"
     }
   ],
-  "latitude": null,
-  "longitude": null,
+  "latitude": 22.3021,
+  "longitude": 114.1556,
   "grade": null
 }

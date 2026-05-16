@@ -1,0 +1,26 @@
+{
+  "id": "wuhan_natural_history_museum",
+  "name": "武汉自然博物馆",
+  "englishName": "Wuhan Natural History Museum",
+  "city": "武汉",
+  "province": "湖北",
+  "category": "自然",
+  "founded": 2018,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省武汉市汉阳区琴台大道999号",
+  "website": "http://www.whnh.org.cn/",
+  "phone": "027-84797999",
+  "openingHours": "请查看官网",
+  "summary": "武汉自然博物馆是华中地区最大的自然博物馆，展示地球演化、生命起源和湖北地区的自然资源，以古生物化石、长江流域生态系统为特色展览。",
+  "highlights": [
+    "古生物化石精品",
+    "长江流域生态系统",
+    "地球演化历史展"
+  ],
+  "images": [],
+  "latitude": 30.5448,
+  "longitude": 114.2564,
+  "grade": "国家二级博物馆"
+}

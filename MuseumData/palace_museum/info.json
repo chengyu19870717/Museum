@@ -1,20 +1,24 @@
 {
   "id": "palace_museum",
   "name": "故宫博物院",
-  "englishName": "",
+  "englishName": "Palace Museum",
   "city": "北京",
   "province": "北京",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 1420,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "北京市东城区景山前街4号",
+  "website": "http://www.dpm.org.cn/",
+  "phone": "400-950-1925",
   "openingHours": "请查看官网",
   "summary": "故宮博物院，又稱北京故宮，是位于中华人民共和国北京紫禁城内的博物館。民國元年（1912年）清帝溥仪退位後仍居於宮內。至民國十三年（1924年）十一月五日，黃郛攝政內閣公布修正清室優待條件第五條，廢除皇帝尊號，並將溥儀驅逐出宮。政府代表李煜瀛、京師警衛司令鹿鍾麟、警察總監張璧，於六日接管皇宮，封存文物。後經攝政內閣核准，經一年之整理，故宮博物院於民國十四年國慶節（1925年10月10日）正式成立開幕。它位于北京中轴线的中心，佔地面积72万平方米，建筑面积约15万平方米；始建于明成祖朱棣永乐四年（1406年），永乐十八年（1420年）落成；藏品也主要是以明、清两代皇宫及其收藏为基础。2012年单日最高客流量突破18万人次，全年客流量突破1500万人次，可以说是世界上接待游客最繁忙的博物馆。",
-  "highlights": [],
+  "highlights": [
+    "清明上河图",
+    "千里江山图",
+    "明清宫廷建筑群"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 39.915556,
   "longitude": 116.390833,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

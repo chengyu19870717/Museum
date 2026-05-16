@@ -1,0 +1,26 @@
+{
+  "id": "daqing_museum",
+  "name": "大庆博物馆",
+  "englishName": "Daqing Museum",
+  "city": "大庆",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 2011,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省大庆市萨尔图区世纪大道9999号",
+  "website": "http://www.dqmuseum.cn/",
+  "phone": "0459-6832008",
+  "openingHours": "请查看官网",
+  "summary": "大庆博物馆是展示大庆历史自然与石油文化的综合性博物馆，馆内晒出猛犸象化石等古生物遗存，同时展示大庆油田开发历程与大庆精神。",
+  "highlights": [
+    "猛犸象化石精品",
+    "大庆油田开发史",
+    "大庆精神专题展"
+  ],
+  "images": [],
+  "latitude": 46.5894,
+  "longitude": 125.035,
+  "grade": "国家二级博物馆"
+}

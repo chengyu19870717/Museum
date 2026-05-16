@@ -1,0 +1,26 @@
+{
+  "id": "shantou_museum",
+  "name": "汕头市博物馆",
+  "englishName": "Shantou Museum",
+  "city": "汕头",
+  "province": "广东",
+  "category": "综合",
+  "founded": 1960,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广东省汕头市金平区中山路与中央路交汇处",
+  "website": "http://www.stmuseum.com/",
+  "phone": "0754-88131828",
+  "openingHours": "请查看官网",
+  "summary": "汕头市博物馆展示潮汕地区历史文化，以潮州木雕、潮绣、潮汕侨批文化及近代开埠历史为特色，是了解潮汕文明的重要窗口。",
+  "highlights": [
+    "潮州木雕精品",
+    "潮汕侨批文献",
+    "近代开埠历史"
+  ],
+  "images": [],
+  "latitude": 23.3556,
+  "longitude": 116.6683,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "linyi_confucian_temple_museum",
+  "name": "临沂孔庙",
+  "englishName": "Linyi Confucian Temple",
+  "city": "临沂",
+  "province": "山东",
+  "category": "历史",
+  "founded": 1997,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "兰山区兰山路109号",
+  "website": "http://www.lykm.cn/",
+  "phone": null,
+  "openingHours": "请查看官网",
+  "summary": "临沂孔庙位于山东临沂，是一座以地方历史、考古发现与文物收藏为主要内容的历史类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "地方历史文化陈列",
+    "馆藏文物精品",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 35.07241,
+  "longitude": 118.33275,
+  "grade": null
+}

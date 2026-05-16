@@ -1,0 +1,26 @@
+{
+  "id": "wuhan_museum",
+  "name": "武汉博物馆",
+  "englishName": "Wuhan Museum",
+  "city": "武汉",
+  "province": "湖北",
+  "category": "综合",
+  "founded": 1992,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省武汉市汉阳区莲花湖路16号",
+  "website": "http://www.whmuseum.com.cn/",
+  "phone": "027-84383997",
+  "openingHours": "请查看官网",
+  "summary": "武汉博物馆是武汉地区综合性博物馆，馆内收藏涵盖青铜器、陶瓷、玉器、书画等多个门类，以楚文化文物和武汉近代史文物最具特色。",
+  "highlights": [
+    "楚文化文物",
+    "青铜器精品",
+    "武汉近代史陈列"
+  ],
+  "images": [],
+  "latitude": 30.5487,
+  "longitude": 114.2721,
+  "grade": "国家二级博物馆"
+}

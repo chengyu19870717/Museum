@@ -1,0 +1,26 @@
+{
+  "id": "yibin_museum",
+  "name": "宜宾市博物馆",
+  "englishName": "Yibin Museum",
+  "city": "宜宾",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省宜宾市翠屏区大东街66号",
+  "website": "http://www.ybmuseum.cn/",
+  "phone": "0831-8223906",
+  "openingHours": "请查看官网",
+  "summary": "宜宾市博物馆展示万里长江第一城宜宾的历史文化，以僰人文化、盐茶文化及酒文化为特色，僰族悬棺葬是中国考古之谜，吸引众多学者研究。",
+  "highlights": [
+    "僰人悬棺文化",
+    "盐茶历史文物",
+    "五粮液酒文化"
+  ],
+  "images": [],
+  "latitude": 28.7524,
+  "longitude": 104.6428,
+  "grade": "国家二级博物馆"
+}

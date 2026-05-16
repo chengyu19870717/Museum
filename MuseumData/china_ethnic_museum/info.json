@@ -1,0 +1,26 @@
+{
+  "id": "china_ethnic_museum",
+  "name": "中华民族园",
+  "englishName": "China Ethnic Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "民俗",
+  "founded": 1994,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://emuseum.org.cn",
+  "phone": "010-62067185",
+  "openingHours": "请查看官网",
+  "summary": "中华民族园位于北京，是一座以民俗生活、非遗传承与地方文化为主要内容的民俗类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "民俗文化陈列",
+    "非遗与生活器物",
+    "地方文化展览"
+  ],
+  "images": [],
+  "latitude": 39.983889,
+  "longitude": 116.390278,
+  "grade": null
+}

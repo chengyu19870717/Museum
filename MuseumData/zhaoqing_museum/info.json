@@ -1,0 +1,26 @@
+{
+  "id": "zhaoqing_museum",
+  "name": "肇庆市博物馆",
+  "englishName": "Zhaoqing Museum",
+  "city": "肇庆",
+  "province": "广东",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广东省肇庆市端州区天宁北路8号",
+  "website": "http://www.zqmuseum.cn/",
+  "phone": "0758-2888808",
+  "openingHours": "请查看官网",
+  "summary": "肇庆市博物馆是展示端砚文化和肇庆历史的综合性博物馆，肇庆是端砚的故乡，端砚是中国四大名砚之首，馆内端砚历代精品与古代名人使用文房四宝令人叹为观止。",
+  "highlights": [
+    "端砚历代精品",
+    "端砚文化历史展",
+    "肇庆古代历史文物"
+  ],
+  "images": [],
+  "latitude": 23.0472,
+  "longitude": 112.465,
+  "grade": "国家二级博物馆"
+}

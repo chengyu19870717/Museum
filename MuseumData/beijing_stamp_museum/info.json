@@ -1,0 +1,26 @@
+{
+  "id": "beijing_stamp_museum",
+  "name": "中国邮政邮票博物馆",
+  "englishName": "China Postal Stamp Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "专题",
+  "founded": 1999,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "北京市西城区月坛北街甲5号",
+  "website": "http://www.stampmuseum.cn/",
+  "phone": "010-68025688",
+  "openingHours": "请查看官网",
+  "summary": "中国邮政邮票博物馆是国家级邮政文化博物馆，收藏中国历代邮票、邮政文物及世界各国邮票，展示中国邮政事业从古代驿站到现代邮政的发展历程。",
+  "highlights": [
+    "珍稀邮票珍藏",
+    "中国邮政历史展",
+    "古代驿站文化"
+  ],
+  "images": [],
+  "latitude": 39.9244,
+  "longitude": 116.3551,
+  "grade": "国家二级博物馆"
+}

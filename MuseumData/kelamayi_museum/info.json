@@ -1,0 +1,26 @@
+{
+  "id": "kelamayi_museum",
+  "name": "克拉玛依博物馆",
+  "englishName": "Karamay Museum",
+  "city": "克拉玛依",
+  "province": "新疆",
+  "category": "综合",
+  "founded": 2011,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区克拉玛依市克拉玛依区中央路19号",
+  "website": "http://www.klmymuseum.cn/",
+  "phone": "0990-6961111",
+  "openingHours": "请查看官网",
+  "summary": "克拉玛依博物馆是展示石油城克拉玛依历史文化与自然资源的综合性博物馆，馆内系统展示准噶尔盆地地质历史、恐龙化石及克拉玛依石油开发历程。",
+  "highlights": [
+    "准噶尔盆地恐龙化石",
+    "石油开发历史展",
+    "新疆地质奇观"
+  ],
+  "images": [],
+  "latitude": 45.5798,
+  "longitude": 84.8899,
+  "grade": "国家三级博物馆"
+}

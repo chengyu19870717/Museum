@@ -1,20 +1,24 @@
 {
   "id": "guangxi_museum",
   "name": "广西壮族自治区博物馆",
-  "englishName": "",
+  "englishName": "Guangxi Zhuang Autonomous Region Museum",
   "city": "南宁",
   "province": "广西",
   "category": "综合",
-  "founded": null,
+  "founded": 1978,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "广西壮族自治区南宁市青秀区民族大道34号",
+  "website": "http://www.chinamuseums.com/gx.htm",
+  "phone": "0771-2707027",
   "openingHours": "请查看官网",
   "summary": "广西壮族自治区博物馆（壯語：Gvangjsih Bouxcuengh Swcigih Bozvuzgvanj、英語：The Museum of Guangxi Zhuang Autonomous Region），简称广西博物馆或桂博，是位于广西壮族自治区南宁市民族广场东侧的综合性历史和艺术博物馆。博物馆现有总建筑面积约3.7万平方米，展陈面积约1万平方米。馆藏文物近十万件（套），涵盖青铜器、陶瓷器、书画、古籍、民族文物等门类。其前身为1934年设立的广西省立博物馆，1956年在南宁建立首座馆舍，2023年新馆建成并正式开放。广西博物馆是广西最大的博物馆，第一批国家一级博物馆和国家4A级旅游景区。\n其藏品围绕壮族乡土历史，兼顾艺术价值，以地方特色文物为核心，也包括了历代名人书画、明清官窑瓷器、文莱龙辇等通过文化交流中进入广西的珍贵文物。",
-  "highlights": [],
+  "highlights": [
+    "铜鼓文化",
+    "广西民族文物",
+    "岭南历史文化陈列"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -43,5 +47,5 @@
   ],
   "latitude": 22.81508,
   "longitude": 108.33106,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

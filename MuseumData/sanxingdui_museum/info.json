@@ -1,20 +1,24 @@
 {
   "id": "sanxingdui_museum",
   "name": "三星堆博物馆",
-  "englishName": "",
+  "englishName": "Sanxingdui Museum",
   "city": "广汉",
   "province": "四川",
-  "category": "综合",
-  "founded": null,
+  "category": "历史",
+  "founded": 1997,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "四川省广汉市三星堆镇西安路133号",
+  "website": "http://www.sxd.cn/page/default.asp",
+  "phone": "0838-5533333",
   "openingHours": "请查看官网",
   "summary": "四川广汉三星堆博物馆位于中華人民共和國四川省德阳市廣漢市三星堆镇三星堆遗址的东北部，是国家一级博物馆、国家AAAA级旅游景区，博物馆于1997年10月建成开放，并于2023年7月建成新馆。三星堆博物馆常设展包括“世纪逐梦”、“巍然王都”和“天地人神”三个部分。",
-  "highlights": [],
+  "highlights": [
+    "青铜大立人像",
+    "青铜神树",
+    "黄金面具"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -31,5 +35,5 @@
   ],
   "latitude": 31.00308,
   "longitude": 104.21814,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

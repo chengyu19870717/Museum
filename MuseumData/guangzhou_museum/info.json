@@ -1,20 +1,24 @@
 {
   "id": "guangzhou_museum",
   "name": "广州博物馆",
-  "englishName": "",
+  "englishName": "Guangzhou Museum",
   "city": "广州",
   "province": "广东",
-  "category": "综合",
-  "founded": null,
+  "category": "历史",
+  "founded": 1929,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "广东省广州市越秀区越秀公园内镇海楼",
+  "website": "https://www.guangzhoumuseum.cn/",
+  "phone": "020-83550627",
   "openingHours": "请查看官网",
   "summary": "广州博物馆，位于广东省广州市，是广州市级博物馆。",
-  "highlights": [],
+  "highlights": [
+    "镇海楼",
+    "广州城市历史陈列",
+    "海上丝绸之路相关文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -41,7 +45,7 @@
       "license": "CC BY-SA 4.0"
     }
   ],
-  "latitude": null,
-  "longitude": null,
+  "latitude": 23.14064562,
+  "longitude": 113.26030433,
   "grade": null
 }

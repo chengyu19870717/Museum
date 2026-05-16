@@ -1,0 +1,26 @@
+{
+  "id": "grand_canal_museum",
+  "name": "扬州中国大运河博物馆",
+  "englishName": "China Grand Canal Museum",
+  "city": "扬州",
+  "province": "江苏",
+  "category": "专题",
+  "founded": 2021,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省扬州市广陵区运河东路496号",
+  "website": "https://www.grandcanalmuseum.com/",
+  "phone": "0514-87987001",
+  "openingHours": "请查看官网",
+  "summary": "扬州中国大运河博物馆是全面展示中国大运河历史文化的综合性博物馆，通过沉浸式展览全景呈现大运河两千余年的开凿历史、漕运文化与沿线风土人情。",
+  "highlights": [
+    "大运河历史全景展",
+    "漕运文化文物",
+    "运河城市风貌复原"
+  ],
+  "images": [],
+  "latitude": 32.3622,
+  "longitude": 119.4453,
+  "grade": "国家一级博物馆"
+}

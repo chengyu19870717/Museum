@@ -1,0 +1,26 @@
+{
+  "id": "changzhou_museum",
+  "name": "常州博物馆",
+  "englishName": "Changzhou Museum",
+  "city": "常州",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省常州市新北区龙城大道1288号",
+  "website": "http://www.czmuseum.com/",
+  "phone": "0519-85682350",
+  "openingHours": "请查看官网",
+  "summary": "常州博物馆是常州地区综合性历史博物馆，重点展示吴越文化及常州地方历史，馆藏恐龙化石、历代青铜器、瓷器等文物，自然与历史展览并重。",
+  "highlights": [
+    "常州恐龙化石",
+    "吴越文化文物",
+    "历代青铜器精品"
+  ],
+  "images": [],
+  "latitude": 31.8159,
+  "longitude": 119.9741,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "qiqihar_museum",
+  "name": "齐齐哈尔市博物馆",
+  "englishName": "Qiqihar Museum",
+  "city": "齐齐哈尔",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 1952,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省齐齐哈尔市建华区浏园路9号",
+  "website": "http://www.qqhrmuseum.cn/",
+  "phone": "0452-2746261",
+  "openingHours": "请查看官网",
+  "summary": "齐齐哈尔市博物馆展示齐齐哈尔地区历史文化，以达斡尔族、鄂温克族民俗文物和北方游猎民族文物为特色，是了解黑龙江少数民族文化的重要窗口。",
+  "highlights": [
+    "达斡尔族民俗文物",
+    "北方游猎民族文化",
+    "黑龙江历史陈列"
+  ],
+  "images": [],
+  "latitude": 47.354,
+  "longitude": 123.918,
+  "grade": "国家二级博物馆"
+}

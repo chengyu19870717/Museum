@@ -1,0 +1,26 @@
+{
+  "id": "shenzhen_museum",
+  "name": "深圳博物馆",
+  "englishName": "Shenzhen Museum",
+  "city": "深圳",
+  "province": "广东",
+  "category": "综合",
+  "founded": 1981,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "广东省深圳市福田区福中路市民中心A区",
+  "website": "http://www.shenzhenmuseum.com/",
+  "phone": "+86-755-8210-5550",
+  "openingHours": "请查看官网",
+  "summary": "深圳博物馆位于广东深圳，是一座以地方文化、历史记忆与综合收藏为主要内容的综合类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "综合历史陈列",
+    "馆藏文物精品",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 22.54645,
+  "longitude": 114.05681,
+  "grade": null
+}

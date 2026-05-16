@@ -1,0 +1,26 @@
+{
+  "id": "shigatse_museum",
+  "name": "日喀则市博物馆",
+  "englishName": "Shigatse Museum",
+  "city": "日喀则",
+  "province": "西藏",
+  "category": "历史",
+  "founded": 2019,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "西藏自治区日喀则市桑珠孜区扎基路",
+  "website": "http://www.rkzmuseum.cn/",
+  "phone": "0892-8820088",
+  "openingHours": "请查看官网",
+  "summary": "日喀则市博物馆是展示后藏地区历史文化的综合性博物馆，日喀则是历代班禅喇嘛驻锡地，馆内展示扎什伦布寺历史、后藏佛教艺术及藏族农耕文化。",
+  "highlights": [
+    "扎什伦布寺历史",
+    "后藏佛教艺术品",
+    "藏族农耕文化展"
+  ],
+  "images": [],
+  "latitude": 29.2675,
+  "longitude": 88.8803,
+  "grade": "国家三级博物馆"
+}

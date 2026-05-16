@@ -1,0 +1,26 @@
+{
+  "id": "madame_tussauds_beijing_museum",
+  "name": "北京杜莎夫人蜡像馆",
+  "englishName": "Madame Tussauds Beijing",
+  "city": "北京",
+  "province": "北京",
+  "category": "专题",
+  "founded": 2014,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "https://www1.madametussauds.com/beijing/about-us/",
+  "phone": "010-63180099",
+  "openingHours": "请查看官网",
+  "summary": "北京杜莎夫人蜡像馆位于北京，是一座以专题收藏、主题研究与公共展示为主要内容的专题类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "专题收藏陈列",
+    "主题文物展示",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 39.895876,
+  "longitude": 116.391968,
+  "grade": null
+}

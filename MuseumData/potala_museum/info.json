@@ -1,0 +1,26 @@
+{
+  "id": "potala_museum",
+  "name": "布达拉宫文物陈列馆",
+  "englishName": "Potala Palace Museum",
+  "city": "拉萨",
+  "province": "西藏",
+  "category": "艺术",
+  "founded": 1994,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "西藏自治区拉萨市城关区北京中路35号",
+  "website": "http://www.potalacemuseum.cn/",
+  "phone": "0891-6834179",
+  "openingHours": "请查看官网",
+  "summary": "布达拉宫是世界上海拔最高的宫殿式建筑群，始建于公元7世纪，为历代达赖喇嘛的冬宫，内藏唐卡、佛像、经书等藏传佛教珍品，列入世界文化遗产。",
+  "highlights": [
+    "世界文化遗产宫殿",
+    "藏传佛教珍贵唐卡",
+    "历代达赖宝物"
+  ],
+  "images": [],
+  "latitude": 29.6579,
+  "longitude": 91.1175,
+  "grade": "国家一级博物馆"
+}

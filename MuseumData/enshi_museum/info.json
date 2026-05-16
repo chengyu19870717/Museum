@@ -1,0 +1,26 @@
+{
+  "id": "enshi_museum",
+  "name": "恩施土家族苗族自治州博物馆",
+  "englishName": "Enshi Tujia and Miao Autonomous Prefecture Museum",
+  "city": "恩施",
+  "province": "湖北",
+  "category": "综合",
+  "founded": 1978,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省恩施土家族苗族自治州恩施市学院路35号",
+  "website": "http://www.esmuseum.cn/",
+  "phone": "0718-8220888",
+  "openingHours": "请查看官网",
+  "summary": "恩施土家族苗族自治州博物馆是展示武陵山区土家族苗族文化的综合性博物馆，馆内土家族吊脚楼建筑、织锦、银饰等文物，展现了恩施地区少数民族文化的独特风貌。",
+  "highlights": [
+    "土家族织锦工艺",
+    "苗族银饰精品",
+    "武陵山区民族文化"
+  ],
+  "images": [],
+  "latitude": 30.2955,
+  "longitude": 109.48,
+  "grade": "国家二级博物馆"
+}

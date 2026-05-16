@@ -1,0 +1,26 @@
+{
+  "id": "unit731_museum",
+  "name": "侵华日军第七三一部队罪证陈列馆",
+  "englishName": "The Exhibition Hall of Evidence of Crime by Unit 731 of the Japanese Invading Army",
+  "city": "哈尔滨",
+  "province": "黑龙江",
+  "category": "革命纪念",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省哈尔滨市平房区新疆大街47号",
+  "website": "https://www.731museum.org.cn/",
+  "phone": "0451-87064628",
+  "openingHours": "请查看官网",
+  "summary": "侵华日军第七三一部队罪证陈列馆建在日军731部队遗址之上，以大量文物史料揭露了日本军国主义在华实施细菌战、人体实验等反人类罪行，是重要的历史警示教育基地。",
+  "highlights": [
+    "731部队遗址",
+    "细菌战罪证史料",
+    "反人类暴行证据"
+  ],
+  "images": [],
+  "latitude": 45.5983,
+  "longitude": 126.6425,
+  "grade": "国家一级博物馆"
+}

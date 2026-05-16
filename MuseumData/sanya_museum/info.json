@@ -1,0 +1,26 @@
+{
+  "id": "sanya_museum",
+  "name": "三亚市博物馆",
+  "englishName": "Sanya Museum",
+  "city": "三亚",
+  "province": "海南",
+  "category": "综合",
+  "founded": 2007,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "海南省三亚市河西区金鸡岭路14号",
+  "website": "http://www.sanyamuseum.cn/",
+  "phone": "0898-88271172",
+  "openingHours": "请查看官网",
+  "summary": "三亚市博物馆展示三亚及海南南部的历史文化、海洋文化与黎族风情，是了解南海文明和海上丝绸之路南端历史的重要窗口。",
+  "highlights": [
+    "黎族文化展",
+    "南海历史文物",
+    "热带自然资源"
+  ],
+  "images": [],
+  "latitude": 18.2528,
+  "longitude": 109.5119,
+  "grade": "国家二级博物馆"
+}

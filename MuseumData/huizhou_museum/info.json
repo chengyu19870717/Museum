@@ -1,0 +1,26 @@
+{
+  "id": "huizhou_museum",
+  "name": "徽州博物馆",
+  "englishName": "Huizhou Museum",
+  "city": "黄山",
+  "province": "安徽",
+  "category": "历史",
+  "founded": 2007,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "安徽省黄山市屯溪区昱中路",
+  "website": "http://www.hzbwg.com/",
+  "phone": "0559-2518888",
+  "openingHours": "请查看官网",
+  "summary": "徽州博物馆是全面展示徽州历史文化的综合性博物馆，馆藏徽州文书、徽派建筑构件、徽州三雕（木雕、石雕、砖雕）等特色文物，生动呈现了徽文化的深厚底蕴。",
+  "highlights": [
+    "徽州文书",
+    "徽派木雕精品",
+    "徽商历史陈列"
+  ],
+  "images": [],
+  "latitude": 29.7172,
+  "longitude": 118.3172,
+  "grade": "国家二级博物馆"
+}

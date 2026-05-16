@@ -1,0 +1,26 @@
+{
+  "id": "handan_museum",
+  "name": "邯郸市博物馆",
+  "englishName": "Handan Museum",
+  "city": "邯郸",
+  "province": "河北",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河北省邯郸市丛台区联纺路与中华大街交叉口",
+  "website": "http://www.hdmuseum.com/",
+  "phone": "0310-8095788",
+  "openingHours": "请查看官网",
+  "summary": "邯郸市博物馆是展示邯郸历史文化的综合性博物馆，邯郸是成语之都，馆内展示了赵文化、磁州窑、边区历史等专题，藏品丰富独特。",
+  "highlights": [
+    "赵文化专题",
+    "磁州窑精品",
+    "邯郸成语文化"
+  ],
+  "images": [],
+  "latitude": 36.6063,
+  "longitude": 114.4948,
+  "grade": "国家二级博物馆"
+}

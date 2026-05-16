@@ -1,0 +1,26 @@
+{
+  "id": "tianshui_museum",
+  "name": "天水市博物馆",
+  "englishName": "Tianshui Museum",
+  "city": "天水",
+  "province": "甘肃",
+  "category": "综合",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "甘肃省天水市秦州区育生巷10号",
+  "website": "http://www.tsmuseum.cn/",
+  "phone": "0938-8212533",
+  "openingHours": "请查看官网",
+  "summary": "天水市博物馆是展示羲皇故里天水历史文化的综合性博物馆，天水是中华文明发祥地之一，传说伏羲和女娲诞生于此，馆内大地湾文化遗存和秦文化文物极为珍贵。",
+  "highlights": [
+    "大地湾史前文化",
+    "秦文化精品文物",
+    "伏羲文化专题"
+  ],
+  "images": [],
+  "latitude": 34.5784,
+  "longitude": 105.7241,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "xuzhou_museum",
+  "name": "徐州博物馆",
+  "englishName": "Xuzhou Museum",
+  "city": "徐州",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1960,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省徐州市泉山区和平路118号",
+  "website": "http://www.xzmuseum.com/",
+  "phone": "0516-83886020",
+  "openingHours": "请查看官网",
+  "summary": "徐州博物馆是以汉文化为特色的综合性博物馆，馆内珍藏汉代金缕玉衣、玉器、铜器等大批珍贵文物，是研究汉代历史文化的重要学术机构。",
+  "highlights": [
+    "金缕玉衣",
+    "汉代玉器精品",
+    "汉画像石"
+  ],
+  "images": [],
+  "latitude": 34.2041,
+  "longitude": 117.1628,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hulunbuir_museum",
+  "name": "呼伦贝尔市博物馆",
+  "englishName": "Hulunbuir Museum",
+  "city": "海拉尔",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区呼伦贝尔市海拉尔区胜利大街旁",
+  "website": "http://www.hlbrmuseum.cn/",
+  "phone": "0470-8223388",
+  "openingHours": "请查看官网",
+  "summary": "呼伦贝尔市博物馆展示呼伦贝尔草原历史文化，以蒙古族游牧文化、鲜卑族历史（鲜卑族是北魏的建立者）及额尔古纳湿地自然资源为特色。",
+  "highlights": [
+    "鲜卑族历史文物",
+    "蒙古族游牧文化展",
+    "呼伦贝尔草原自然史"
+  ],
+  "images": [],
+  "latitude": 49.2138,
+  "longitude": 119.7571,
+  "grade": "国家二级博物馆"
+}

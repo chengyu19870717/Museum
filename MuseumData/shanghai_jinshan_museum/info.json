@@ -1,0 +1,26 @@
+{
+  "id": "shanghai_jinshan_museum",
+  "name": "上海金山区博物馆",
+  "englishName": "Shanghai Jinshan District Museum",
+  "city": "上海",
+  "province": "上海",
+  "category": "综合",
+  "founded": 1986,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "上海市金山区金山大道3000号",
+  "website": "http://www.jsbwg.cn/",
+  "phone": "021-57388033",
+  "openingHours": "请查看官网",
+  "summary": "上海金山区博物馆展示金山地区历史文化，以金山卫抗战历史、金山农民画文化及沿海文物为特色，金山农民画是全国知名的民间艺术形式。",
+  "highlights": [
+    "金山卫抗战历史",
+    "金山农民画精品",
+    "沿海历史文化展"
+  ],
+  "images": [],
+  "latitude": 30.7413,
+  "longitude": 121.3413,
+  "grade": "国家三级博物馆"
+}

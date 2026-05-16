@@ -1,0 +1,26 @@
+{
+  "id": "taian_museum",
+  "name": "泰安市博物馆",
+  "englishName": "Taian Museum",
+  "city": "泰安",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省泰安市泰山区岱宗大街旁",
+  "website": "http://www.taanmuseum.cn/",
+  "phone": "0538-8218888",
+  "openingHours": "请查看官网",
+  "summary": "泰安市博物馆紧邻世界文化与自然遗产泰山，展示泰山文化与泰安历史，以历代帝王封禅泰山文物、岱庙历史及汉代画像石为特色收藏。",
+  "highlights": [
+    "历代封禅泰山文物",
+    "岱庙历史陈列",
+    "汉代画像石精品"
+  ],
+  "images": [],
+  "latitude": 36.1868,
+  "longitude": 117.1199,
+  "grade": "国家二级博物馆"
+}

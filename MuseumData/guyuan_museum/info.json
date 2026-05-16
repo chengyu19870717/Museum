@@ -1,0 +1,26 @@
+{
+  "id": "guyuan_museum",
+  "name": "固原博物馆",
+  "englishName": "Guyuan Museum",
+  "city": "固原",
+  "province": "宁夏",
+  "category": "历史",
+  "founded": 1983,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "宁夏回族自治区固原市原州区文化街9号",
+  "website": "http://www.gymuseum.cn/",
+  "phone": "0954-2028009",
+  "openingHours": "请查看官网",
+  "summary": "固原博物馆是宁夏最重要的历史博物馆之一，馆藏北魏至隋唐时期丝绸之路文物精品，鎏金银壶、波斯银币等出土文物展示了固原作为古丝绸之路重镇的辉煌历史。",
+  "highlights": [
+    "鎏金银壶国宝",
+    "波斯萨珊银币",
+    "丝路文明珍品"
+  ],
+  "images": [],
+  "latitude": 36.0165,
+  "longitude": 106.242,
+  "grade": "国家一级博物馆"
+}

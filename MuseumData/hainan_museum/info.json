@@ -1,20 +1,24 @@
 {
   "id": "hainan_museum",
   "name": "海南省博物馆",
-  "englishName": "",
+  "englishName": "Hainan Museum",
   "city": "海口",
   "province": "海南",
   "category": "综合",
-  "founded": null,
+  "founded": 1984,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "海南省海口市琼山区国兴大道76号",
+  "website": "http://www.hainanmuseum.org/",
+  "phone": "0898-65238891",
   "openingHours": "请查看官网",
   "summary": "海南省博物馆位于海南省海口市琼山区国兴大道68号。",
-  "highlights": [],
+  "highlights": [
+    "海南历史陈列",
+    "南海海洋文化",
+    "黎族苗族民俗文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",

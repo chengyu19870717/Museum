@@ -1,21 +1,31 @@
 {
   "id": "jiangxi_museum",
   "name": "江西省博物馆",
-  "englishName": "",
+  "englishName": "Jiangxi Sheng bo wu guan",
   "city": "南昌",
   "province": "江西",
   "category": "综合",
-  "founded": null,
+  "founded": 1953,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "江西省南昌市红谷滩区赣江北大道698号",
+  "website": "https://www.jxmuseum.cn/",
+  "phone": "0791-88233369",
   "openingHours": "请查看官网",
   "summary": "江西省博物馆是中华人民共和国江西省的大型综合性博物馆，位于南昌市红谷滩区，现为中国国家一级博物馆、江西省第一批古籍重点保护单位。",
-  "highlights": [],
+  "highlights": [
+    "商代伏鸟双尾青铜虎",
+    "洪州窑瓷器",
+    "江西革命文物"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "江西省博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "02.jpg",
       "caption": "​江西省博物馆（位于中国江西省南昌市）藏品——黑陶云雷纹兽首鼎，东周，1979年龙虎山仙水岩出土。",
@@ -37,5 +47,5 @@
   ],
   "latitude": 28.70926,
   "longitude": 115.87698,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

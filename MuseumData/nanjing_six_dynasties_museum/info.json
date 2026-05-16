@@ -1,0 +1,26 @@
+{
+  "id": "nanjing_six_dynasties_museum",
+  "name": "南京六朝博物馆",
+  "englishName": "Nanjing Museum of the Six Dynasties",
+  "city": "南京",
+  "province": "江苏",
+  "category": "历史",
+  "founded": 2014,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "江苏省南京市玄武区汉府街1号",
+  "website": "http://www.njlcbwg.cn/",
+  "phone": "025-84776927",
+  "openingHours": "请查看官网",
+  "summary": "南京六朝博物馆是中国第一座六朝历史文化专题博物馆，馆内保存有大量六朝建康城宫城遗址，通过遗址和文物展示，再现了南京作为六朝古都的历史风貌。",
+  "highlights": [
+    "六朝建康城遗址",
+    "六朝青瓷精品",
+    "南朝石刻艺术"
+  ],
+  "images": [],
+  "latitude": 32.0518,
+  "longitude": 118.7945,
+  "grade": "国家二级博物馆"
+}

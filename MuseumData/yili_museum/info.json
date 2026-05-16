@@ -1,0 +1,26 @@
+{
+  "id": "yili_museum",
+  "name": "伊犁哈萨克自治州博物馆",
+  "englishName": "Ili Kazakh Autonomous Prefecture Museum",
+  "city": "伊宁",
+  "province": "新疆",
+  "category": "综合",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区伊犁哈萨克自治州伊宁市斯大林街66号",
+  "website": "http://www.ylmuseum.cn/",
+  "phone": "0999-8022886",
+  "openingHours": "请查看官网",
+  "summary": "伊犁哈萨克自治州博物馆展示伊犁河谷历史文化，以哈萨克族民俗文物、乌孙文化遗存及清代伊犁将军府历史为特色，展示了天山南北多民族交融的历史画卷。",
+  "highlights": [
+    "哈萨克族民俗文物",
+    "乌孙古国文化遗存",
+    "伊犁将军府历史"
+  ],
+  "images": [],
+  "latitude": 43.9118,
+  "longitude": 81.3241,
+  "grade": "国家二级博物馆"
+}

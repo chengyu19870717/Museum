@@ -1,21 +1,49 @@
 {
   "id": "xinjiang_museum",
   "name": "新疆维吾尔自治区博物馆",
-  "englishName": "",
+  "englishName": "Xinjiang Museum",
   "city": "乌鲁木齐",
   "province": "新疆",
   "category": "综合",
-  "founded": null,
+  "founded": 1953,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "新疆乌鲁木齐市沙依巴克区西北路581号",
+  "website": "http://www.xjmuseum.com.cn",
+  "phone": "0991-4533451",
   "openingHours": "请查看官网",
   "summary": "新疆维吾尔自治区博物馆（维吾尔老文字：شىنجاڭ ئۇيغۇر ئاپتونوم رايونلۇق مۇزېي，拉丁维吾尔文：Shinjang Uyghur Aptonom Rayonluq Muzëy），简称新疆博物馆，新疆博物馆位于中华人民共和国新疆维吾尔自治区乌鲁木齐市沙依巴克区，是新疆唯一的自治区级综合性地志博物馆，是国家一级博物馆、国家AAAA级旅游景区、全国爱国主义教育示范基地、全国中小学生研学实践教育基地、营地。新疆博物馆于1959年正式成立，最初办公地点设在新疆印刷厂内，1962年迁移到今址。2005年，新疆博物馆新馆建成并对外开放。2022年，新馆二期建设完成并开放，博物馆建筑整体平面呈“合”字，建筑面积达到49608平方米。\n新疆博物馆常设《新疆历史文物展》《逝者越千年——古代干尸陈列馆》《瀚海珍衣——新疆古代服饰精品展》《中华史册——新疆出土文献展》等展览。新疆博物馆馆藏包括服饰、彩绘泥俑、纺织品、纸张、皮革、木器、陶器、玉器、金属器、石器、瓷器、干尸等24593件（套），其中珍贵文物2581件（套）。其中包括禁止出国（境）展览文物“五星出东方利中国”护膊等。\n新疆博物馆拥有国家文物局“可移动文物修复一级资质”和“可移动文物技术保护设计乙级资质”，并建立有“纺织品文物保护国家文物局重点科研基地新疆工作站”和“纸质文物保护国家文物局重点科研基地新疆工作站”。",
-  "highlights": [],
+  "highlights": [
+    "五星出东方利中国护膊",
+    "古代干尸陈列",
+    "新疆历史文物展"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "05.jpg",
       "caption": "​中华史册——新疆出土文献展",
@@ -39,9 +67,21 @@
       "caption": "​新疆博物馆《丝绸之路乐器展》",
       "credit": "HaziiDozen",
       "license": "CC BY-SA 4.0"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "新疆维吾尔自治区博物馆",
+      "credit": null,
+      "license": null
     }
   ],
   "latitude": 43.81833333,
   "longitude": 87.58111111,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

@@ -1,20 +1,24 @@
 {
   "id": "nanjing_museum",
   "name": "南京博物院",
-  "englishName": "",
+  "englishName": "Nanjing Museum",
   "city": "南京",
   "province": "江苏",
   "category": "综合",
-  "founded": null,
+  "founded": 1950,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "江苏省南京市玄武区中山东路321号",
+  "website": "http://www.njmuseum.com/",
+  "phone": "025-84807923",
   "openingHours": "请查看官网",
   "summary": "南京博物院（英語：Nanjing Museum），简称南博，是一座位於中華人民共和國南京市的历史艺术博物馆。南京博物院為中國国家一级博物馆，與北京故宮博物院及臺北國立故宮博物院齊名。行政上，为隶属于江苏省文化和旅游厅的副厅级公益性文化事业单位。\n南京博物院位于江苏省南京市紫金山南麓、中山门內半山园，占地7万多平方米，馆藏文物43万余件（套）。1933年，南京国民政府教育部为筹备国立中央博物院，设立筹备处，1949年迁台。其筹备的国立中央博物院是中国第一所由政府兴建的现代综合性大型博物馆。南京博物院历史馆所在的原国立中央博物院旧址列为第四批江苏省文物保护单位。",
-  "highlights": [],
+  "highlights": [
+    "金兽",
+    "银缕玉衣",
+    "明清瓷器与书画"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -63,9 +67,21 @@
       "caption": "Giant Bamboos and Stones, Li Kan, Yuan Dynasty, China, Nanjing Museum.",
       "credit": "李衎 Li Kan",
       "license": "Public domain"
+    },
+    {
+      "filename": "09.jpg",
+      "caption": "南京博物院",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "10.jpg",
+      "caption": "南京博物院",
+      "credit": null,
+      "license": null
     }
   ],
   "latitude": 32.04264444,
   "longitude": 118.82017222,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "shangqiu_museum",
+  "name": "商丘博物馆",
+  "englishName": "Shangqiu Museum",
+  "city": "商丘",
+  "province": "河南",
+  "category": "历史",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河南省商丘市睢阳区文化路1号",
+  "website": "http://www.sqmuseum.cn/",
+  "phone": "0370-2616001",
+  "openingHours": "请查看官网",
+  "summary": "商丘博物馆是展示商文化发源地历史的综合性博物馆，商丘是商族发祥地和商朝故都，馆内商代早期文物、汉代梁国历史文物及归德府历史是三大展览亮点。",
+  "highlights": [
+    "商族发祥地历史",
+    "汉梁国文物精品",
+    "商丘古城历史"
+  ],
+  "images": [],
+  "latitude": 34.414,
+  "longitude": 115.6503,
+  "grade": "国家二级博物馆"
+}

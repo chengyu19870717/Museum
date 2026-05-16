@@ -1,0 +1,26 @@
+{
+  "id": "yanbian_museum",
+  "name": "延边博物馆",
+  "englishName": "Yanbian Museum",
+  "city": "延吉",
+  "province": "吉林",
+  "category": "综合",
+  "founded": 1960,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "吉林省延吉市光明街2号",
+  "website": "http://www.ybbwg.com/",
+  "phone": "0433-2516499",
+  "openingHours": "请查看官网",
+  "summary": "延边博物馆是展示朝鲜族历史文化及延边地区历史的综合性博物馆，馆内系统展示了渤海国历史遗存、朝鲜族民俗风情和边疆地区的开发历程。",
+  "highlights": [
+    "朝鲜族民俗文物",
+    "渤海国文化遗存",
+    "边疆历史陈列"
+  ],
+  "images": [],
+  "latitude": 42.8912,
+  "longitude": 129.5094,
+  "grade": "国家二级博物馆"
+}

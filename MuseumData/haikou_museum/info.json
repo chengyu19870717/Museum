@@ -1,0 +1,26 @@
+{
+  "id": "haikou_museum",
+  "name": "海口市博物馆",
+  "englishName": "Haikou Museum",
+  "city": "海口",
+  "province": "海南",
+  "category": "综合",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "海南省海口市琼山区文庄路6号",
+  "website": "http://www.hkmuseum.cn/",
+  "phone": "0898-65272668",
+  "openingHours": "请查看官网",
+  "summary": "海口市博物馆展示海南省会海口及北部地区历史文化，以汉代移民文化、琼州历史及海瑞文化为特色，馆内琼州史迹与海上丝路文物揭示海南岛的独特历史地位。",
+  "highlights": [
+    "琼州历史陈列",
+    "海瑞文化专题",
+    "汉代南迁移民史"
+  ],
+  "images": [],
+  "latitude": 20.0197,
+  "longitude": 110.321,
+  "grade": "国家三级博物馆"
+}

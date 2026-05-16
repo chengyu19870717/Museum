@@ -1,0 +1,26 @@
+{
+  "id": "yuelu_academy_museum",
+  "name": "岳麓书院博物馆",
+  "englishName": "Yuelu Academy Museum",
+  "city": "长沙",
+  "province": "湖南",
+  "category": "历史",
+  "founded": 976,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "湖南省长沙市岳麓区麓山南路",
+  "website": "http://www.ylsy.edu.cn/",
+  "phone": "0731-88821107",
+  "openingHours": "请查看官网",
+  "summary": "岳麓书院创建于北宋开宝九年（976年），是中国古代著名的四大书院之首，历经千年发展，现为湖南大学内的重要文化遗址，展示中国古代书院教育文化。",
+  "highlights": [
+    "千年书院建筑群",
+    "朱张会讲历史",
+    "古代教育文物"
+  ],
+  "images": [],
+  "latitude": 28.1847,
+  "longitude": 112.9306,
+  "grade": "国家一级博物馆"
+}

@@ -1,21 +1,37 @@
 {
   "id": "shaanxi_history",
   "name": "陕西历史博物馆",
-  "englishName": "",
+  "englishName": "Shaanxi History Museum",
   "city": "西安",
   "province": "陕西",
   "category": "综合",
-  "founded": null,
+  "founded": 1991,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "陕西省西安市雁塔区小寨东路91号",
+  "website": "https://www.sxhm.com/",
+  "phone": "029-85253806",
   "openingHours": "请查看官网",
   "summary": "陕西历史博物馆是位于陕西省西安市雁塔区的一座博物馆，坐落于小寨东路与翠华路路口、大雁塔的西北侧。陕西历史博物馆从1983年开始筹建，1991年6月20日建成开放，是中国第一座拥有现代化设施的大型国家级博物馆。",
-  "highlights": [],
+  "highlights": [
+    "镶金兽首玛瑙杯",
+    "唐代壁画",
+    "何家村窖藏文物"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "陕西历史博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "陕西历史博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "03.jpg",
       "caption": "The facade/tiled roof of the Shaanxi History Museum, located in Yanta District, Xi'an, China.",
@@ -27,6 +43,12 @@
       "caption": "zh:陕西历史博物馆 Jamguo 摄于2004年5月6日 版权所有（见下）\n\n== 版权信息 ==",
       "credit": "User Jamguo on zh.wikipedia",
       "license": "CC BY-SA 1.0"
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "陕西历史博物馆",
+      "credit": null,
+      "license": null
     },
     {
       "filename": "06.png",
@@ -49,5 +71,5 @@
   ],
   "latitude": 34.22527778,
   "longitude": 108.95138889,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

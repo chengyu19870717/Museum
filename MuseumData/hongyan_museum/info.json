@@ -1,0 +1,26 @@
+{
+  "id": "hongyan_museum",
+  "name": "重庆红岩革命历史博物馆",
+  "englishName": "Chongqing Hongyan Revolutionary History Museum",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "革命纪念",
+  "founded": 1955,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "重庆市渝中区红岩村52号",
+  "website": "http://www.hongyanmuseum.com/",
+  "phone": "023-65360050",
+  "openingHours": "请查看官网",
+  "summary": "重庆红岩革命历史博物馆依托中共中央南方局和八路军重庆办事处旧址建立，展示中国共产党在国统区领导抗日战争和民主运动的历史，红岩精神享誉全国。",
+  "highlights": [
+    "红岩革命旧址群",
+    "南方局历史陈列",
+    "抗战统一战线史料"
+  ],
+  "images": [],
+  "latitude": 29.5744,
+  "longitude": 106.5013,
+  "grade": "国家一级博物馆"
+}

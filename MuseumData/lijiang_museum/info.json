@@ -1,0 +1,26 @@
+{
+  "id": "lijiang_museum",
+  "name": "丽江市博物馆",
+  "englishName": "Lijiang Museum",
+  "city": "丽江",
+  "province": "云南",
+  "category": "综合",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省丽江市古城区五一街新义段44号",
+  "website": "http://www.ljmuseum.cn/",
+  "phone": "0888-5127033",
+  "openingHours": "请查看官网",
+  "summary": "丽江市博物馆是展示纳西族历史文化的综合性博物馆，收藏纳西族东巴文字文献、东巴文化艺术品等珍贵文物，呈现丽江古城的千年历史与多元民族文化。",
+  "highlights": [
+    "纳西东巴文字",
+    "东巴文化艺术品",
+    "丽江古城历史"
+  ],
+  "images": [],
+  "latitude": 26.8777,
+  "longitude": 100.2271,
+  "grade": "国家二级博物馆"
+}

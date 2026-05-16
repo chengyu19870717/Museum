@@ -1,0 +1,26 @@
+{
+  "id": "zunyi_conference_museum",
+  "name": "遵义会议纪念馆",
+  "englishName": "Zunyi Conference Memorial Hall",
+  "city": "遵义",
+  "province": "贵州",
+  "category": "革命纪念",
+  "founded": 1955,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省遵义市红花岗区子尹路96号",
+  "website": "http://www.zynyjng.com/",
+  "phone": "0852-8213119",
+  "openingHours": "请查看官网",
+  "summary": "遵义会议纪念馆是为纪念1935年遵义会议而建立的革命历史博物馆。遵义会议是中国共产党历史上生死攸关的转折点，纪念馆原址为遵义会议旧址，被列为全国重点文物保护单位。",
+  "highlights": [
+    "遵义会议旧址",
+    "长征历史陈列",
+    "革命文物精品"
+  ],
+  "images": [],
+  "latitude": 27.7256,
+  "longitude": 106.9276,
+  "grade": "国家一级博物馆"
+}

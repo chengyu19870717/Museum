@@ -1,0 +1,26 @@
+{
+  "id": "xixia_tombs_museum",
+  "name": "西夏陵遗址博物馆",
+  "englishName": "Western Xia Mausoleum Museum",
+  "city": "银川",
+  "province": "宁夏",
+  "category": "历史",
+  "founded": 1998,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "宁夏回族自治区银川市西夏区贺兰山东麓",
+  "website": "http://www.xixialing.cn/",
+  "phone": "0951-8620977",
+  "openingHours": "请查看官网",
+  "summary": "西夏陵遗址博物馆建于西夏王朝皇家陵寝区内，西夏是公元10-13世纪在中国西北地区建立的封建王朝，其神秘的文字与独特的文化至今仍有许多未解之谜。",
+  "highlights": [
+    "西夏王朝皇陵遗址",
+    "西夏文字珍贵史料",
+    "神秘西夏文明探秘"
+  ],
+  "images": [],
+  "latitude": 38.4922,
+  "longitude": 106.0897,
+  "grade": "国家一级博物馆"
+}

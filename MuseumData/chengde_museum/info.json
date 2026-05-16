@@ -1,0 +1,26 @@
+{
+  "id": "chengde_museum",
+  "name": "承德市博物馆",
+  "englishName": "Chengde Museum",
+  "city": "承德",
+  "province": "河北",
+  "category": "历史",
+  "founded": 2019,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河北省承德市双桥区武烈河西路",
+  "website": "http://www.cdmuseum.net/",
+  "phone": "0314-2028988",
+  "openingHours": "请查看官网",
+  "summary": "承德市博物馆是依托世界文化遗产避暑山庄而建的博物馆，展示清代皇家文化、藏传佛教艺术以及承德地区的历史变迁，馆藏清代文物尤为精彩。",
+  "highlights": [
+    "避暑山庄文物",
+    "清代皇家器物",
+    "藏传佛教艺术"
+  ],
+  "images": [],
+  "latitude": 40.9742,
+  "longitude": 117.9629,
+  "grade": "国家二级博物馆"
+}

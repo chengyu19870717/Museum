@@ -1,0 +1,26 @@
+{
+  "id": "linyi_museum",
+  "name": "临沂市博物馆",
+  "englishName": "Linyi Museum",
+  "city": "临沂",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省临沂市兰山区银雀山路10号",
+  "website": "http://www.lymuseum.gov.cn/",
+  "phone": "0539-8106399",
+  "openingHours": "请查看官网",
+  "summary": "临沂市博物馆是展示沂蒙历史文化的综合性博物馆，以银雀山汉墓竹简（出土孙子兵法）、沂蒙革命历史及汉代画像石为特色，银雀山竹简是极其珍贵的历史文献。",
+  "highlights": [
+    "银雀山孙子兵法竹简",
+    "沂蒙革命历史陈列",
+    "汉代画像石精品"
+  ],
+  "images": [],
+  "latitude": 35.105,
+  "longitude": 118.3564,
+  "grade": "国家一级博物馆"
+}

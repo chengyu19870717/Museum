@@ -1,0 +1,26 @@
+{
+  "id": "jinhua_museum",
+  "name": "金华博物馆",
+  "englishName": "Jinhua Museum",
+  "city": "金华",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1951,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省金华市婺城区宾虹西路685号",
+  "website": "http://www.jhmuseum.cn/",
+  "phone": "0579-82833901",
+  "openingHours": "请查看官网",
+  "summary": "金华博物馆展示婺州文化，以宋代婺窑瓷器、金华火腿文化及抗战金华历史为特色，婺窑是浙江重要的古代窑场，馆内婺窑瓷器是重要藏品。",
+  "highlights": [
+    "婺窑瓷器精品",
+    "婺州文化历史展",
+    "金华抗战历史"
+  ],
+  "images": [],
+  "latitude": 29.0786,
+  "longitude": 119.6472,
+  "grade": "国家二级博物馆"
+}

@@ -1,20 +1,24 @@
 {
   "id": "china_art_museum",
   "name": "中华艺术宫",
-  "englishName": "",
+  "englishName": "China Art Museum, Shanghai",
   "city": "上海",
   "province": "上海",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 1956,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "上海市浦东新区上南路205号",
+  "website": "https://www.artmuseumonline.org/",
+  "phone": "400-921-9021",
   "openingHours": "请查看官网",
   "summary": "中华艺术宫（上海美术馆），是位于中华人民共和国上海市浦东新区的一座艺术博物馆，坐落于原2010年上海世博会中国馆，其前身是创建于1956年的上海美术馆，於2012年10月1日迁至现址，及挂牌为中华艺术宫。博物馆以收藏中国近现代美术作品为主，藏品超过1.4万件，总建筑面积达16万平米，展示面积达6.4万平方米，拥有27个展厅。",
-  "highlights": [],
+  "highlights": [
+    "近现代美术作品",
+    "上海美术收藏与展览",
+    "清明上河图数字艺术展示"
+  ],
   "images": [
     {
       "filename": "01.jpg",

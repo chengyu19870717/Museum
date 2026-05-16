@@ -1,0 +1,26 @@
+{
+  "id": "weifang_museum",
+  "name": "潍坊博物馆",
+  "englishName": "Weifang Museum",
+  "city": "潍坊",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省潍坊市奎文区东风东街6292号",
+  "website": "http://www.wfmuseum.cn/",
+  "phone": "0536-8101888",
+  "openingHours": "请查看官网",
+  "summary": "潍坊博物馆展示齐文化与潍坊历史，以潍坊风筝文化、杨家埠木版年画及郑燮（郑板桥）书画收藏为特色，潍坊是国际风筝之都，馆内风筝文物独树一帜。",
+  "highlights": [
+    "潍坊风筝文化历史",
+    "杨家埠年画珍品",
+    "郑板桥书画精品"
+  ],
+  "images": [],
+  "latitude": 36.7096,
+  "longitude": 119.1611,
+  "grade": "国家二级博物馆"
+}

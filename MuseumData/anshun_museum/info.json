@@ -1,0 +1,26 @@
+{
+  "id": "anshun_museum",
+  "name": "安顺市博物馆",
+  "englishName": "Anshun Museum",
+  "city": "安顺",
+  "province": "贵州",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省安顺市西秀区儒林路68号",
+  "website": "http://www.asmuseum.cn/",
+  "phone": "0853-3222888",
+  "openingHours": "请查看官网",
+  "summary": "安顺市博物馆展示安顺地区历史文化，以安顺地戏文化（傩戏）、屯堡文化及黄果树瀑布相关自然历史为特色，安顺屯堡文化是明代军屯历史的活化石。",
+  "highlights": [
+    "安顺地戏傩文化",
+    "明代屯堡历史展",
+    "黄果树自然文化"
+  ],
+  "images": [],
+  "latitude": 26.2455,
+  "longitude": 105.9331,
+  "grade": "国家三级博物馆"
+}

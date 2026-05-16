@@ -1,0 +1,26 @@
+{
+  "id": "chongqing_natural_history_museum",
+  "name": "重庆自然博物馆",
+  "englishName": "Chongqing Natural History Museum",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "自然",
+  "founded": 1944,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "重庆（坐标定位，详细地址请查看官网）",
+  "website": "https://www.cmnh.org.cn/",
+  "phone": "023-88271000",
+  "openingHours": "请查看官网",
+  "summary": "重庆自然博物馆位于重庆，是一座以自然标本、生态环境与地质演化为主要内容的自然类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "自然标本陈列",
+    "生态与地质展示",
+    "科普教育活动"
+  ],
+  "images": [],
+  "latitude": 29.82353,
+  "longitude": 106.41475,
+  "grade": null
+}

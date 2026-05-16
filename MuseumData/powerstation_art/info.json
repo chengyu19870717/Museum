@@ -1,20 +1,24 @@
 {
   "id": "powerstation_art",
   "name": "上海当代艺术博物馆",
-  "englishName": "",
+  "englishName": "Power Station of Art",
   "city": "上海",
   "province": "上海",
-  "category": "综合",
-  "founded": null,
+  "category": "艺术",
+  "founded": 2012,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "上海市黄浦区苗江路678号",
+  "website": "https://www.powerstationofart.com/",
+  "phone": "021-31108550",
   "openingHours": "请查看官网",
   "summary": "上海当代艺术博物馆（英文名：Power Station of Art），是一座位于中華人民共和國上海市黄浦区黄浦江畔的当代艺术博物馆，是中国内地第一座公立的当代艺术博物馆。原为2010年上海世博会城市未来馆，前身为南市发电厂。博物馆建筑面积4万多平方米，展陈面积达到1.5万平方米，拥有12个展厅。上海当代艺术博物馆成立于2012年10月1日，也是目前上海双年展主场馆。",
-  "highlights": [],
+  "highlights": [
+    "当代艺术展览",
+    "上海双年展",
+    "工业遗存改造空间"
+  ],
   "images": [
     {
       "filename": "01.jpg",

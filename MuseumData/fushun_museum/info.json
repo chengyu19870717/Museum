@@ -1,0 +1,26 @@
+{
+  "id": "fushun_museum",
+  "name": "抚顺市博物馆",
+  "englishName": "Fushun Museum",
+  "city": "抚顺",
+  "province": "辽宁",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "辽宁省抚顺市顺城区新华大街88号",
+  "website": "http://www.fsmuseum.cn/",
+  "phone": "0413-2730990",
+  "openingHours": "请查看官网",
+  "summary": "抚顺市博物馆展示抚顺地区历史文化，以满族发祥地文化、努尔哈赤后金政权历史和抚顺煤矿工业史为特色，是了解满清肇兴历史的重要窗口。",
+  "highlights": [
+    "满族发祥地历史",
+    "努尔哈赤相关文物",
+    "抚顺工业发展史"
+  ],
+  "images": [],
+  "latitude": 41.8808,
+  "longitude": 123.9573,
+  "grade": "国家三级博物馆"
+}

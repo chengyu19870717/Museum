@@ -1,0 +1,26 @@
+{
+  "id": "grand_prix_museum",
+  "name": "大赛车博物馆",
+  "englishName": "Grand Prix Museum",
+  "city": "澳门",
+  "province": "澳门",
+  "category": "专题",
+  "founded": 1993,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "澳门（坐标定位，详细地址请查看官网）",
+  "website": "https://mgpm.macaotourism.gov.mo/en/",
+  "phone": "+853 8798 4108",
+  "openingHours": "请查看官网",
+  "summary": "大赛车博物馆位于澳门，是一座以专题收藏、主题研究与公共展示为主要内容的专题类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "专题收藏陈列",
+    "主题文物展示",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 22.1949,
+  "longitude": 113.553,
+  "grade": null
+}

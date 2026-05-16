@@ -1,20 +1,24 @@
 {
   "id": "aviation_museum",
   "name": "中国航空博物馆",
-  "englishName": "",
+  "englishName": "China Aviation Museum",
   "city": "北京",
   "province": "北京",
-  "category": "综合",
-  "founded": null,
+  "category": "军事",
+  "founded": 1989,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "北京市昌平区小汤山镇大汤山村700号",
+  "website": "https://www.zghkbwg.mil.cn",
+  "phone": "010-61784882",
   "openingHours": "请查看官网",
   "summary": "中国航空博物馆（英語：Chinese Aviation Museum）原位于北京市昌平区小汤山镇，坐落在昌平大汤山脚下的沙河机场，目前已启动搬迁至吉林省长春市绿园区大房身机场的计划，北京原址已于2025年10月9日闭馆。",
-  "highlights": [],
+  "highlights": [
+    "毛主席座机",
+    "歼-12轻型歼击机",
+    "人民空军装备发展陈列"
+  ],
   "images": [
     {
       "filename": "01.png",
@@ -79,5 +83,5 @@
   ],
   "latitude": 40.18316667,
   "longitude": 116.35675,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

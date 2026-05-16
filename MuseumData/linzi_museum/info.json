@@ -1,21 +1,31 @@
 {
   "id": "linzi_museum",
   "name": "淄博市博物馆",
-  "englishName": "",
+  "englishName": "Zibo City Museum",
   "city": "淄博",
   "province": "山东",
-  "category": "综合",
-  "founded": null,
+  "category": "历史",
+  "founded": 1958,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "山东省淄博市张店区商场西路153号",
+  "website": "http://www.zbsbwg.cn",
+  "phone": "0533-2287817",
   "openingHours": "请查看官网",
   "summary": "淄博市博物馆，中华人民共和国山东省淄博市的一家地志性综合性博物馆，国家一级博物馆，座落于淄博市张店区商场西路153号，该市中心广场北侧。",
-  "highlights": [],
+  "highlights": [
+    "齐国故城文物",
+    "临淄陶俑",
+    "齐文化陈列"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "淄博市博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "02.jpg",
       "caption": "​西汉初年齐国矩形龙纹铜镜，1980年出土于山东淄博大武公社窝托村南古墓五号陪葬坑。照片拍摄于淄博市博物馆，据User:Inhorw称，它应为复制品，因为此铜镜的原件在中国国内一直不公开展出。",

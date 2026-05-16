@@ -1,0 +1,26 @@
+{
+  "id": "zhongwei_museum",
+  "name": "中卫市博物馆",
+  "englishName": "Zhongwei Museum",
+  "city": "中卫",
+  "province": "宁夏",
+  "category": "综合",
+  "founded": 2013,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "宁夏回族自治区中卫市沙坡头区文化街",
+  "website": "http://www.zwmuseum.cn/",
+  "phone": "0955-7012345",
+  "openingHours": "请查看官网",
+  "summary": "中卫市博物馆展示中卫地区历史文化，以黄河文化、沙漠文化及西夏历史为特色。沙坡头是举世闻名的治沙典范，馆内黄河文物与沙漠生态展览独具地域特色。",
+  "highlights": [
+    "黄河文化历史展",
+    "沙坡头治沙文化",
+    "西夏历史遗存"
+  ],
+  "images": [],
+  "latitude": 37.5,
+  "longitude": 105.1833,
+  "grade": "国家三级博物馆"
+}

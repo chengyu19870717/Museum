@@ -1,0 +1,26 @@
+{
+  "id": "haixi_museum",
+  "name": "海西蒙古族藏族自治州博物馆",
+  "englishName": "Haixi Mongolian and Tibetan Autonomous Prefecture Museum",
+  "city": "德令哈",
+  "province": "青海",
+  "category": "综合",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "青海省海西蒙古族藏族自治州德令哈市建设路28号",
+  "website": "http://www.hxmuseum.cn/",
+  "phone": "0977-8225601",
+  "openingHours": "请查看官网",
+  "summary": "海西蒙古族藏族自治州博物馆展示柴达木盆地历史文化，以吐谷浑文化、蒙古族藏族民俗及青海湖自然资源为特色，馆内吐谷浑遗址出土文物是重要历史见证。",
+  "highlights": [
+    "吐谷浑文化遗存",
+    "柴达木历史文物",
+    "蒙藏民俗文化展"
+  ],
+  "images": [],
+  "latitude": 37.3742,
+  "longitude": 97.3638,
+  "grade": "国家三级博物馆"
+}

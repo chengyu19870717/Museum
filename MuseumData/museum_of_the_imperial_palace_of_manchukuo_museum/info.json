@@ -1,0 +1,26 @@
+{
+  "id": "museum_of_the_imperial_palace_of_manchukuo_museum",
+  "name": "伪满皇宫博物院",
+  "englishName": "Museum of the Imperial Palace of Manchukuo",
+  "city": "长春",
+  "province": "吉林",
+  "category": "历史",
+  "founded": 1962,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "吉林长春（坐标定位，详细地址请查看官网）",
+  "website": "http://www.wmhg.com.cn/",
+  "phone": "0431-88455008",
+  "openingHours": "请查看官网",
+  "summary": "伪满皇宫博物院位于吉林长春，是一座以地方历史、考古发现与文物收藏为主要内容的历史类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "地方历史文化陈列",
+    "馆藏文物精品",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 43.903611,
+  "longitude": 125.342222,
+  "grade": null
+}

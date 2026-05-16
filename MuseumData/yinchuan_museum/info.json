@@ -1,0 +1,26 @@
+{
+  "id": "yinchuan_museum",
+  "name": "银川市博物馆",
+  "englishName": "Yinchuan Museum",
+  "city": "银川",
+  "province": "宁夏",
+  "category": "综合",
+  "founded": 2008,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "宁夏回族自治区银川市兴庆区清河南街",
+  "website": "http://www.ycmuseum.cn/",
+  "phone": "0951-5023311",
+  "openingHours": "请查看官网",
+  "summary": "银川市博物馆展示西夏王朝、回族文化、丝绸之路等专题内容，馆内西夏文物收藏为国内重要研究基地。",
+  "highlights": [
+    "西夏历史文物",
+    "回族文化专题",
+    "丝绸之路出土文物"
+  ],
+  "images": [],
+  "latitude": 38.4681,
+  "longitude": 106.2732,
+  "grade": "国家二级博物馆"
+}

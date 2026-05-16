@@ -1,22 +1,57 @@
 {
   "id": "jingdezhen_museum",
   "name": "景德镇中国陶瓷博物馆",
-  "englishName": "",
+  "englishName": "Jingdezhen China Ceramics Museum",
   "city": "景德镇",
   "province": "江西",
-  "category": "综合",
-  "founded": null,
+  "category": "专题",
+  "founded": 1954,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "江西省景德镇市昌江区紫晶北路1号",
+  "website": "https://www.jdzcct.com/",
+  "phone": "0798-8253701",
   "openingHours": "请查看官网",
-  "summary": "",
-  "highlights": [],
-  "images": [],
-  "latitude": null,
-  "longitude": null,
-  "grade": null
+  "summary": "景德镇中国陶瓷博物馆前身为景德镇陶瓷馆，创建于1954年，是中国较早成立的陶瓷专题博物馆之一。现馆位于江西省景德镇市昌江区紫晶北路1号，常设陈列系统展示景德镇陶瓷发展脉络与代表性藏品。",
+  "highlights": [
+    "元青花瓷器",
+    "明清御窑瓷",
+    "景德镇陶瓷发展陈列"
+  ],
+  "images": [
+    {
+      "filename": "01.png",
+      "caption": "景德镇中国陶瓷博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "景德镇中国陶瓷博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "03.jpg",
+      "caption": "景德镇中国陶瓷博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "景德镇中国陶瓷博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "05.jpg",
+      "caption": "景德镇中国陶瓷博物馆",
+      "credit": null,
+      "license": null
+    }
+  ],
+  "latitude": 29.295779,
+  "longitude": 117.1701087,
+  "grade": "国家一级博物馆"
 }

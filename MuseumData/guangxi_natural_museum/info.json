@@ -1,0 +1,26 @@
+{
+  "id": "guangxi_natural_museum",
+  "name": "广西自然博物馆",
+  "englishName": "Guangxi Natural Museum",
+  "city": "南宁",
+  "province": "广西",
+  "category": "自然",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区南宁市青秀区民族大道1号",
+  "website": "http://www.gxnhm.com/",
+  "phone": "0771-5394042",
+  "openingHours": "请查看官网",
+  "summary": "广西自然博物馆是广西最大的自然科学类博物馆，展示广西独特的喀斯特地貌、热带动植物及矿产资源，以恐龙化石和古生物标本收藏见长。",
+  "highlights": [
+    "广西恐龙化石群",
+    "喀斯特地质奇观",
+    "热带生物多样性"
+  ],
+  "images": [],
+  "latitude": 22.8182,
+  "longitude": 108.3669,
+  "grade": "国家二级博物馆"
+}

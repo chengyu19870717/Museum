@@ -1,0 +1,26 @@
+{
+  "id": "baoding_museum",
+  "name": "保定直隶总督署博物馆",
+  "englishName": "Baoding Governor-General's Hall Museum",
+  "city": "保定",
+  "province": "河北",
+  "category": "历史",
+  "founded": 1988,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "河北省保定市莲池区裕华路301号",
+  "website": "http://www.bdbwg.com/",
+  "phone": "0312-5023219",
+  "openingHours": "请查看官网",
+  "summary": "保定直隶总督署博物馆原为清代直隶总督的办公和生活场所，是我国现存最完整的古代官衙建筑群之一，完整保存了清代行政机构的历史风貌。",
+  "highlights": [
+    "清代总督衙门原址",
+    "直隶历史陈列",
+    "古代官府建筑群"
+  ],
+  "images": [],
+  "latitude": 38.8669,
+  "longitude": 115.4978,
+  "grade": "国家一级博物馆"
+}

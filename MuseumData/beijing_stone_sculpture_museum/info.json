@@ -1,0 +1,26 @@
+{
+  "id": "beijing_stone_sculpture_museum",
+  "name": "北京石刻艺术博物馆",
+  "englishName": "Beijing Stone Carving Art Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "艺术",
+  "founded": 1987,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京市海淀区白石桥路24号",
+  "website": "http://www.bjskbwg.com/",
+  "phone": "010-68330577",
+  "openingHours": "请查看官网",
+  "summary": "北京石刻艺术博物馆位于真觉寺（五塔寺）旧址，是专门收藏石刻文物的专题博物馆，馆藏历代石刻千余件，以五塔寺金刚宝座塔和历代经幢、墓志为特色。",
+  "highlights": [
+    "金刚宝座塔建筑",
+    "历代经幢石刻",
+    "墓志铭珍品"
+  ],
+  "images": [],
+  "latitude": 39.9481,
+  "longitude": 116.3396,
+  "grade": "国家二级博物馆"
+}

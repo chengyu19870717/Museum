@@ -1,0 +1,26 @@
+{
+  "id": "shanghai_film_museum",
+  "name": "上海电影博物馆",
+  "englishName": "Shanghai Film Museum",
+  "city": "上海",
+  "province": "上海",
+  "category": "专题",
+  "founded": 2013,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "上海市徐汇区漕溪北路595号",
+  "website": "https://www.shanghaifilmmuseum.com/",
+  "phone": "021-64261133",
+  "openingHours": "请查看官网",
+  "summary": "上海电影博物馆建于上海电影制片厂旧址，全面展示中国电影百年历史，馆内珍藏珍贵电影片段、道具、器械及百余位电影艺术家的影人殿堂，是中国电影的记忆宝库。",
+  "highlights": [
+    "中国百年电影史",
+    "明星影人殿堂",
+    "经典电影道具珍藏"
+  ],
+  "images": [],
+  "latitude": 31.1745,
+  "longitude": 121.4372,
+  "grade": "国家二级博物馆"
+}

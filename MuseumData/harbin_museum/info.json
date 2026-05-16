@@ -1,0 +1,26 @@
+{
+  "id": "harbin_museum",
+  "name": "哈尔滨博物馆",
+  "englishName": "Harbin Museum",
+  "city": "哈尔滨",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 1986,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省哈尔滨市道里区尚志大街57号",
+  "website": "http://www.hrbmuseum.com/",
+  "phone": "0451-84695566",
+  "openingHours": "请查看官网",
+  "summary": "哈尔滨博物馆是黑龙江省综合性历史博物馆，展示哈尔滨从远古到现代的历史，尤以中东铁路历史、中俄文化交融、金源文化等特色展览见长。",
+  "highlights": [
+    "中东铁路历史",
+    "金代文物精品",
+    "哈尔滨近代史"
+  ],
+  "images": [],
+  "latitude": 45.7698,
+  "longitude": 126.626,
+  "grade": "国家二级博物馆"
+}

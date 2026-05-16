@@ -1,0 +1,26 @@
+{
+  "id": "chengdu_museum",
+  "name": "成都博物馆",
+  "englishName": "Chengdu Museum",
+  "city": "成都",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1984,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "四川成都（坐标定位，详细地址请查看官网）",
+  "website": "https://www.cdmuseum.com/",
+  "phone": "028-86632222",
+  "openingHours": "请查看官网",
+  "summary": "成都博物馆位于四川成都，是一座以地方文化、历史记忆与综合收藏为主要内容的综合类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "综合历史陈列",
+    "馆藏文物精品",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 30.65973,
+  "longitude": 104.0612,
+  "grade": null
+}

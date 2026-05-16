@@ -1,0 +1,26 @@
+{
+  "id": "anhui_geological_museum",
+  "name": "安徽省地质博物馆",
+  "englishName": "Anhui Geological Museum",
+  "city": "合肥",
+  "province": "安徽",
+  "category": "自然",
+  "founded": 2011,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "安徽省合肥市经济技术开发区翡翠路868号",
+  "website": "http://www.ahdz.com/",
+  "phone": "0551-65319201",
+  "openingHours": "请查看官网",
+  "summary": "安徽省地质博物馆是安徽省规模最大的自然科学类博物馆，以地球科学为主题，馆内陈列有恐龙化石、矿物宝石、古生物等珍贵标本，是地学科普教育的重要基地。",
+  "highlights": [
+    "恐龙化石群",
+    "矿物宝石展",
+    "安徽古生物标本"
+  ],
+  "images": [],
+  "latitude": 31.7742,
+  "longitude": 117.1996,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "beijing_art_museum",
+  "name": "北京艺术博物馆",
+  "englishName": "Beijing Art Museum",
+  "city": "北京",
+  "province": "北京",
+  "category": "艺术",
+  "founded": 1987,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "北京市海淀区苏州街万寿寺",
+  "website": "http://www.bjysbwg.com/",
+  "phone": "010-68413380",
+  "openingHours": "请查看官网",
+  "summary": "北京艺术博物馆坐落于清代皇家寺庙万寿寺内，是综合性艺术博物馆，馆内藏有历代书画、青铜器、瓷器、织绣等艺术珍品，万寿寺古建筑本身也是重要的文物展示。",
+  "highlights": [
+    "万寿寺皇家寺庙建筑",
+    "历代书画精品",
+    "宫廷工艺品收藏"
+  ],
+  "images": [],
+  "latitude": 39.9531,
+  "longitude": 116.3166,
+  "grade": "国家二级博物馆"
+}

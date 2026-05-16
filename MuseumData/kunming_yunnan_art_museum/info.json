@@ -1,0 +1,26 @@
+{
+  "id": "kunming_yunnan_art_museum",
+  "name": "云南省博物馆新馆",
+  "englishName": "Yunnan Provincial Museum (New Building)",
+  "city": "昆明",
+  "province": "云南",
+  "category": "综合",
+  "founded": 1951,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省昆明市官渡区广福路6393号",
+  "website": "http://www.ynbwg.cn/",
+  "phone": "0871-67286223",
+  "openingHours": "请查看官网",
+  "summary": "云南省博物馆是展示云南历史文化与自然资源的最高学术机构，馆藏文物23万余件，以滇国青铜器、南诏大理文物、民族文物三大主题展览闻名于世。",
+  "highlights": [
+    "滇国青铜器珍品",
+    "南诏大理历史文物",
+    "云南民族文物精品"
+  ],
+  "images": [],
+  "latitude": 25.0262,
+  "longitude": 102.7628,
+  "grade": "国家一级博物馆"
+}

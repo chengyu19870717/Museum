@@ -1,0 +1,26 @@
+{
+  "id": "jinzhou_museum",
+  "name": "锦州市博物馆",
+  "englishName": "Jinzhou Museum",
+  "city": "锦州",
+  "province": "辽宁",
+  "category": "综合",
+  "founded": 1957,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "辽宁省锦州市太和区中华路56号",
+  "website": "http://www.jzmuseum.cn/",
+  "phone": "0416-3860901",
+  "openingHours": "请查看官网",
+  "summary": "锦州市博物馆展示辽西地区历史文化，以红山文化遗存、辽代文物及锦州战役历史为特色，馆藏红山文化玉器是重要收藏亮点。",
+  "highlights": [
+    "红山文化玉器",
+    "辽代文物精品",
+    "锦州战役史料"
+  ],
+  "images": [],
+  "latitude": 41.1307,
+  "longitude": 121.1268,
+  "grade": "国家二级博物馆"
+}

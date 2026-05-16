@@ -1,0 +1,26 @@
+{
+  "id": "hezhou_museum",
+  "name": "贺州市博物馆",
+  "englishName": "Hezhou Museum",
+  "city": "贺州",
+  "province": "广西",
+  "category": "综合",
+  "founded": 1982,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区贺州市八步区民主北路14号",
+  "website": "http://www.hzmuseum.cn/",
+  "phone": "0774-5128456",
+  "openingHours": "请查看官网",
+  "summary": "贺州市博物馆展示贺州地区历史文化，以古代铜鼓、客家文化及多民族融合历史为特色，贺州是中国客家文化的重要聚集地之一。",
+  "highlights": [
+    "古代铜鼓珍品",
+    "客家文化历史",
+    "多民族融合展"
+  ],
+  "images": [],
+  "latitude": 24.4001,
+  "longitude": 111.5694,
+  "grade": "国家三级博物馆"
+}

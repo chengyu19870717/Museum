@@ -1,0 +1,26 @@
+{
+  "id": "former_residence_of_mao_dun_museum",
+  "name": "乌镇茅盾故居",
+  "englishName": "Former residence of Mao Dun",
+  "city": "乌镇",
+  "province": "浙江",
+  "category": "历史",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "浙江乌镇（坐标定位，详细地址请查看官网）",
+  "website": "http://www.maodun.org/",
+  "phone": "0573-88721026",
+  "openingHours": "请查看官网",
+  "summary": "乌镇茅盾故居位于浙江乌镇，是一座以地方历史、考古发现与文物收藏为主要内容的历史类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "地方历史文化陈列",
+    "馆藏文物精品",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 30.740667,
+  "longitude": 120.489611,
+  "grade": null
+}

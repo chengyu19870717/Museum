@@ -1,21 +1,37 @@
 {
   "id": "yunnan_museum",
   "name": "云南省博物馆",
-  "englishName": "",
+  "englishName": "Yunnan Provincial Museum",
   "city": "昆明",
   "province": "云南",
   "category": "综合",
-  "founded": null,
+  "founded": 1951,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "云南省昆明市官渡区广福路6393号",
+  "website": "http://www.ynbwg.cn",
+  "phone": "0871-67286223",
   "openingHours": "请查看官网",
   "summary": "云南省博物馆是中华人民共和国云南省昆明市的一家综合地志博物馆，是国家一级博物馆，创建于1951年，2015年迁至新馆。云南省博物馆自成立以来在云南全省范围内进行了上百次的科学考古发掘、试掘、调查，包括石寨山古墓群、李家山古墓群大规模的发掘。",
-  "highlights": [],
+  "highlights": [
+    "牛虎铜案",
+    "滇国青铜器",
+    "云南历史文明陈列"
+  ],
   "images": [
+    {
+      "filename": "01.jpg",
+      "caption": "云南省博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
+      "filename": "02.jpg",
+      "caption": "云南省博物馆",
+      "credit": null,
+      "license": null
+    },
     {
       "filename": "03.jpg",
       "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
@@ -33,6 +49,12 @@
       "caption": "Exhibit in the Yunnan Provincial Museum, Kunming, Yunnan, China.",
       "credit": "Daderot",
       "license": "Public domain"
+    },
+    {
+      "filename": "06.jpg",
+      "caption": "云南省博物馆",
+      "credit": null,
+      "license": null
     },
     {
       "filename": "07.jpg",
@@ -61,5 +83,5 @@
   ],
   "latitude": 24.95221,
   "longitude": 102.7522,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

@@ -1,20 +1,24 @@
 {
   "id": "hk_history_museum",
   "name": "香港历史博物馆",
-  "englishName": "",
+  "englishName": "Hong Kong Museum of History",
   "city": "香港",
   "province": "香港",
-  "category": "综合",
-  "founded": null,
+  "category": "历史",
+  "founded": 1975,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "香港九龙尖沙咀漆咸道南100号",
+  "website": "http://hk.history.museum",
+  "phone": "+852 2724 9042",
   "openingHours": "请查看官网",
   "summary": "香港歷史博物館（英語：Hong Kong Museum of History）位於香港九龍尖沙咀漆咸道南100號，現由康樂及文化事務署管理，共耗資3億9千萬港元興建，於1998年9月28日開放。建築設計由建築署委托巴馬丹拿公司承辦，採用建築師威拿（E. Verner Johnson）的概念，總承建商為宏宗建築有限公司。\n香港歷史博物館為香港居民及遊客介紹香港的歷史，展覽內容包括香港及南中國一帶的考古發現、珍貴文物及資料等；涵蓋自然生態、民間風俗及歷史發展，向參觀者呈現香港四億年來的生態環境及歷史故事。博物館總樓面面積18,500平方米，常設展廳佔地7,000平方米，並經常舉辦包括香港掌故等主題展覽。\n館內的「香港故事」常設展由2020年10月19日起暫停開放，以進行大規模的更新工程，於2024年8月開放二樓展覧廳部分，2026年4月1日重新開放地庫展覽廳。在新常設展覽推出之前，專題展覽廳佈置成「經典再現－香港故事精華展」，作為原常設展的濃縮版，讓參觀者重溫香港由史前時期至1997年回歸的發展歷程。",
-  "highlights": [],
+  "highlights": [
+    "香港故事常设展",
+    "考古与民俗藏品",
+    "香港城市发展史料"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -33,6 +37,12 @@
       "caption": "Hong Kong Museum of History-History-Birth and Early Growth of the City",
       "credit": "Wpcpey",
       "license": "CC BY 4.0"
+    },
+    {
+      "filename": "04.jpg",
+      "caption": "香港历史博物馆",
+      "credit": null,
+      "license": null
     },
     {
       "filename": "05.jpg",

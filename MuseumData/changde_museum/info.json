@@ -1,0 +1,26 @@
+{
+  "id": "changde_museum",
+  "name": "常德博物馆",
+  "englishName": "Changde Museum",
+  "city": "常德",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省常德市武陵区朗州路888号",
+  "website": "http://www.cdmuseum.cn/",
+  "phone": "0736-7781199",
+  "openingHours": "请查看官网",
+  "summary": "常德博物馆展示洞庭湖西岸常德地区历史文化，以楚汉文物、澧县城头山遗址（全国最早城市之一）及常德民俗文物为特色。",
+  "highlights": [
+    "城头山史前城市遗址",
+    "楚汉文物精品",
+    "洞庭湖流域历史"
+  ],
+  "images": [],
+  "latitude": 29.0317,
+  "longitude": 111.6881,
+  "grade": "国家二级博物馆"
+}

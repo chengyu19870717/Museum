@@ -1,0 +1,26 @@
+{
+  "id": "national_maritime_museum_of_china_museum",
+  "name": "国家海洋博物馆",
+  "englishName": "National Maritime Museum of China",
+  "city": "天津",
+  "province": "天津",
+  "category": "自然",
+  "founded": 2019,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "天津（坐标定位，详细地址请查看官网）",
+  "website": "https://www.nmmc.cc/",
+  "phone": "022-66339999",
+  "openingHours": "请查看官网",
+  "summary": "国家海洋博物馆位于天津，是一座以自然标本、生态环境与地质演化为主要内容的自然类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "自然标本陈列",
+    "生态与地质展示",
+    "科普教育活动"
+  ],
+  "images": [],
+  "latitude": 39.10551,
+  "longitude": 117.78944,
+  "grade": null
+}

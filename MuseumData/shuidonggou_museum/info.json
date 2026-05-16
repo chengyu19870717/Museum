@@ -1,0 +1,26 @@
+{
+  "id": "shuidonggou_museum",
+  "name": "水洞沟遗址博物馆",
+  "englishName": "Shuidonggou Site Museum",
+  "city": "银川",
+  "province": "宁夏",
+  "category": "历史",
+  "founded": 2010,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "宁夏回族自治区银川市灵武市临河镇水洞沟村",
+  "website": "http://www.shuidonggou.com/",
+  "phone": "0951-8882828",
+  "openingHours": "请查看官网",
+  "summary": "水洞沟遗址博物馆建于旧石器时代遗址之上，出土了大量距今3万年前的石器文物，是中国旧石器考古的圣地，也是东西方远古文化交流的重要节点。",
+  "highlights": [
+    "旧石器时代遗址",
+    "远古石器文物",
+    "东西方文化交流史"
+  ],
+  "images": [],
+  "latitude": 38.4847,
+  "longitude": 106.4836,
+  "grade": "国家二级博物馆"
+}

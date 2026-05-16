@@ -1,0 +1,26 @@
+{
+  "id": "mudanjiang_museum",
+  "name": "牡丹江市博物馆",
+  "englishName": "Mudanjiang Museum",
+  "city": "牡丹江",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省牡丹江市爱民区光华街134号",
+  "website": "http://www.mdjmuseum.cn/",
+  "phone": "0453-6691888",
+  "openingHours": "请查看官网",
+  "summary": "牡丹江市博物馆展示牡丹江地区历史文化，以渤海国历史文物、满族文化及朝鲜族民俗文物为特色，馆内藏有渤海国时期精美遗物。",
+  "highlights": [
+    "渤海国历史文物",
+    "满族文化展",
+    "牡丹江地区自然史"
+  ],
+  "images": [],
+  "latitude": 44.5869,
+  "longitude": 129.5974,
+  "grade": "国家三级博物馆"
+}

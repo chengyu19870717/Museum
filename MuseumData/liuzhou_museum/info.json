@@ -1,0 +1,26 @@
+{
+  "id": "liuzhou_museum",
+  "name": "柳州博物馆",
+  "englishName": "Liuzhou Museum",
+  "city": "柳州",
+  "province": "广西",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广西壮族自治区柳州市鱼峰区文化路3号",
+  "website": "http://www.lzmuseum.cn/",
+  "phone": "0772-2826018",
+  "openingHours": "请查看官网",
+  "summary": "柳州博物馆是展示柳州历史文化的综合性博物馆，以白莲洞古人类遗址、白色恐怖历史及壮族文化为特色，白莲洞是距今约5万年的旧石器时代遗址。",
+  "highlights": [
+    "白莲洞古人类遗址",
+    "壮族文化历史展",
+    "柳州近现代史陈列"
+  ],
+  "images": [],
+  "latitude": 24.3258,
+  "longitude": 109.428,
+  "grade": "国家二级博物馆"
+}

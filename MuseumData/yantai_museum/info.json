@@ -1,0 +1,26 @@
+{
+  "id": "yantai_museum",
+  "name": "烟台市博物馆",
+  "englishName": "Yantai Museum",
+  "city": "烟台",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省烟台市芝罘区毓璜顶东路86号",
+  "website": "http://www.ytbwg.cn/",
+  "phone": "0535-6212021",
+  "openingHours": "请查看官网",
+  "summary": "烟台市博物馆是胶东地区综合性历史博物馆，展示胶东半岛史前文化、海洋文化及近代开埠历史，以商周青铜器和历代钱币等收藏见长。",
+  "highlights": [
+    "胶东史前文化",
+    "商周青铜器",
+    "烟台开埠历史"
+  ],
+  "images": [],
+  "latitude": 37.5344,
+  "longitude": 121.3987,
+  "grade": "国家二级博物馆"
+}

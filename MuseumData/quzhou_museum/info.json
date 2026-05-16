@@ -1,0 +1,26 @@
+{
+  "id": "quzhou_museum",
+  "name": "衢州博物馆",
+  "englishName": "Quzhou Museum",
+  "city": "衢州",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省衢州市柯城区荷花街道府山街51号",
+  "website": "http://www.qzmuseum.cn/",
+  "phone": "0570-3028888",
+  "openingHours": "请查看官网",
+  "summary": "衢州博物馆展示衢州地区历史文化，以儒学圣地文化（孔氏南宗家庙在此）、南孔文化及衢州古城历史为特色，衢州是南宋孔氏后裔南迁定居地，保存了珍贵的孔氏文献。",
+  "highlights": [
+    "南孔文化历史展",
+    "孔氏南宗文献",
+    "衢州古城历史"
+  ],
+  "images": [],
+  "latitude": 28.935,
+  "longitude": 118.8742,
+  "grade": "国家三级博物馆"
+}

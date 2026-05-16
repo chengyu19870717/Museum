@@ -1,0 +1,26 @@
+{
+  "id": "hong_kong_railway_museum",
+  "name": "香港铁路博物馆",
+  "englishName": "Hong Kong Railway Museum",
+  "city": "香港",
+  "province": "香港",
+  "category": "科技",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "香港（坐标定位，详细地址请查看官网）",
+  "website": "https://www.heritagemuseum.gov.hk/zh_TW/web/hm/museums/railway.html",
+  "phone": "+852 2653 3455",
+  "openingHours": "请查看官网",
+  "summary": "香港铁路博物馆位于香港，是一座以科学技术、互动体验与科普教育为主要内容的科技类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "科学互动展项",
+    "科普教育活动",
+    "专题展览"
+  ],
+  "images": [],
+  "latitude": 22.4483,
+  "longitude": 114.16373,
+  "grade": null
+}

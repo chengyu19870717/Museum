@@ -1,0 +1,26 @@
+{
+  "id": "linfen_museum",
+  "name": "临汾博物馆",
+  "englishName": "Linfen Museum",
+  "city": "临汾",
+  "province": "山西",
+  "category": "历史",
+  "founded": 2017,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山西省临汾市尧都区鼓楼南大街66号",
+  "website": "http://www.lfmuseum.cn/",
+  "phone": "0357-3213678",
+  "openingHours": "请查看官网",
+  "summary": "临汾博物馆展示尧都临汾的历史文化，临汾是中华文明的重要发源地之一，馆内收藏丁村人头骨化石复制品、陶寺遗址文物等，再现了中华文明早期辉煌。",
+  "highlights": [
+    "陶寺遗址文物",
+    "丁村古人类史",
+    "尧舜文化历史"
+  ],
+  "images": [],
+  "latitude": 36.0881,
+  "longitude": 111.5185,
+  "grade": "国家二级博物馆"
+}

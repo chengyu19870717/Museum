@@ -1,0 +1,26 @@
+{
+  "id": "jilin_city_museum",
+  "name": "吉林市博物馆",
+  "englishName": "Jilin City Museum",
+  "city": "吉林",
+  "province": "吉林",
+  "category": "综合",
+  "founded": 1962,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "吉林省吉林市昌邑区河南街84号",
+  "website": "http://www.jlcitymuseum.cn/",
+  "phone": "0432-62045598",
+  "openingHours": "请查看官网",
+  "summary": "吉林市博物馆是展示吉林市及松花江流域历史文化的综合性博物馆，以女真族文物、满族历史文物及自然科学收藏为特色，陨石收藏尤为知名。",
+  "highlights": [
+    "吉林陨石珍藏",
+    "女真族历史文物",
+    "松花江流域文化"
+  ],
+  "images": [],
+  "latitude": 43.8385,
+  "longitude": 126.5497,
+  "grade": "国家二级博物馆"
+}

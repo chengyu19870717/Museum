@@ -1,0 +1,26 @@
+{
+  "id": "siping_museum",
+  "name": "四平战役纪念馆",
+  "englishName": "Siping Battle Memorial Hall",
+  "city": "四平",
+  "province": "吉林",
+  "category": "革命纪念",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "吉林省四平市铁西区英雄大街中段",
+  "website": "http://www.spmuseum.cn/",
+  "phone": "0434-3228858",
+  "openingHours": "请查看官网",
+  "summary": "四平战役纪念馆是展示解放战争时期四平保卫战的革命历史博物馆，四平被誉为英雄城，纪念馆系统还原了解放战争时期重要战役的历史全貌。",
+  "highlights": [
+    "四平保卫战史料",
+    "解放战争文物",
+    "英雄城历史陈列"
+  ],
+  "images": [],
+  "latitude": 43.1662,
+  "longitude": 124.3514,
+  "grade": "国家二级博物馆"
+}

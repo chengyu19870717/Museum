@@ -1,0 +1,26 @@
+{
+  "id": "museum_of_the_war_of_chinese_people_s_resistance_against_japanese_aggression_museum",
+  "name": "中国人民抗日战争纪念馆",
+  "englishName": "Museum of the War of Chinese People's Resistance Against Japanese Aggression",
+  "city": "北京",
+  "province": "北京",
+  "category": "革命纪念",
+  "founded": 1987,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "北京（坐标定位，详细地址请查看官网）",
+  "website": "http://www.1937china.org.cn",
+  "phone": "010-89021260",
+  "openingHours": "请查看官网",
+  "summary": "中国人民抗日战争纪念馆位于北京，是一座以革命历史、人物事迹与文献实物为主要内容的革命纪念类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "革命历史陈列",
+    "文献与实物展品",
+    "红色文化教育"
+  ],
+  "images": [],
+  "latitude": 39.850815,
+  "longitude": 116.219896,
+  "grade": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tianjin_fine_arts_museum",
+  "name": "天津美术馆",
+  "englishName": "Tianjin Art Museum",
+  "city": "天津",
+  "province": "天津",
+  "category": "艺术",
+  "founded": 2012,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "天津市河西区平江道2号",
+  "website": "https://www.tjam.org.cn/",
+  "phone": "022-58687789",
+  "openingHours": "请查看官网",
+  "summary": "天津美术馆是天津市综合性公共美术馆，展示古今中外各类艺术作品，以近现代书画、津门书画名家作品及当代艺术展览为特色，是天津最重要的美术展览机构。",
+  "highlights": [
+    "津门书画名家精品",
+    "近现代美术展览",
+    "当代艺术专题展"
+  ],
+  "images": [],
+  "latitude": 39.1051,
+  "longitude": 117.2185,
+  "grade": "国家二级博物馆"
+}

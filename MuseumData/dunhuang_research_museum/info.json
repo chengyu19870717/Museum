@@ -1,0 +1,26 @@
+{
+  "id": "dunhuang_research_museum",
+  "name": "敦煌研究院陈列馆",
+  "englishName": "Dunhuang Academy Exhibition Hall",
+  "city": "敦煌",
+  "province": "甘肃",
+  "category": "艺术",
+  "founded": 1944,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "甘肃省酒泉市敦煌市莫高窟",
+  "website": "https://www.dha.ac.cn/",
+  "phone": "0937-8882680",
+  "openingHours": "请查看官网",
+  "summary": "敦煌研究院是世界上最大的佛教艺术宝库莫高窟的管理机构，莫高窟开凿于公元366年，现存洞窟735个、壁画4.5万平方米、彩塑2415身，是举世无双的世界文化遗产。",
+  "highlights": [
+    "世界最大佛教石窟群",
+    "盛唐壁画艺术巅峰",
+    "飞天与彩塑精品"
+  ],
+  "images": [],
+  "latitude": 40.036,
+  "longitude": 94.8022,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lei_feng_memorial_hall",
+  "name": "湖南雷锋纪念馆",
+  "englishName": "Lei Feng Memorial Hall",
+  "city": "长沙",
+  "province": "湖南",
+  "category": "革命纪念",
+  "founded": 1968,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "湖南长沙（坐标定位，详细地址请查看官网）",
+  "website": "https://www.chinaleifeng.com",
+  "phone": "0731-55788399",
+  "openingHours": "请查看官网",
+  "summary": "湖南雷锋纪念馆位于湖南长沙，是一座以革命历史、人物事迹与文献实物为主要内容的革命纪念类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "革命历史陈列",
+    "文献与实物展品",
+    "红色文化教育"
+  ],
+  "images": [],
+  "latitude": 28.20737,
+  "longitude": 112.83964,
+  "grade": null
+}

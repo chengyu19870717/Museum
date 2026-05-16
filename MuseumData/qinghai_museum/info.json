@@ -1,0 +1,26 @@
+{
+  "id": "qinghai_museum",
+  "name": "青海省博物馆",
+  "englishName": "Qinghai Provincial Museum",
+  "city": "西宁",
+  "province": "青海",
+  "category": "综合",
+  "founded": 1978,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "青海省西宁市城西区西关大街58号",
+  "website": "http://www.qhmuseum.cn/",
+  "phone": "0971-6165637",
+  "openingHours": "请查看官网",
+  "summary": "青海省博物馆是青海最大的综合性博物馆，馆藏文物4.7万余件，以彩陶文化、藏传佛教文物、丝绸之路出土文物及民族文物最具特色，全面展示青藏高原的历史文明。",
+  "highlights": [
+    "马家窑彩陶精品",
+    "藏传佛教文物",
+    "丝路出土文物"
+  ],
+  "images": [],
+  "latitude": 36.6283,
+  "longitude": 101.7769,
+  "grade": "国家二级博物馆"
+}

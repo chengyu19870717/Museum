@@ -1,0 +1,26 @@
+{
+  "id": "jiujiang_museum",
+  "name": "九江博物馆",
+  "englishName": "Jiujiang Museum",
+  "city": "九江",
+  "province": "江西",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江西省九江市浔阳区大中路",
+  "website": "http://www.jjmuseum.cn/",
+  "phone": "0792-8222888",
+  "openingHours": "请查看官网",
+  "summary": "九江博物馆展示九江地区历史文化，以庐山文化、浔阳历史及陶渊明文化为特色，九江是长江与鄱阳湖的交汇处，自古以来是南北交通要道。",
+  "highlights": [
+    "庐山历史文化展",
+    "浔阳历史陈列",
+    "陶渊明文化专题"
+  ],
+  "images": [],
+  "latitude": 29.7056,
+  "longitude": 116.0012,
+  "grade": "国家三级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "anyang_museum",
+  "name": "安阳博物馆",
+  "englishName": "Anyang Museum",
+  "city": "安阳",
+  "province": "河南",
+  "category": "历史",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河南省安阳市文峰区文峰中路旁",
+  "website": "https://www.aymuseum.cn/",
+  "phone": "0372-2222268",
+  "openingHours": "请查看官网",
+  "summary": "安阳博物馆与世界文化遗产殷墟相关，安阳是商代后期都城，出土甲骨文最多的地方，馆内商代青铜器、甲骨文原件等文物是研究中国文字起源的珍贵史料。",
+  "highlights": [
+    "商代青铜器精品",
+    "甲骨文原件展示",
+    "殷墟文化历史"
+  ],
+  "images": [],
+  "latitude": 36.0979,
+  "longitude": 114.3927,
+  "grade": "国家一级博物馆"
+}

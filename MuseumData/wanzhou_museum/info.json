@@ -1,0 +1,26 @@
+{
+  "id": "wanzhou_museum",
+  "name": "万州区博物馆",
+  "englishName": "Wanzhou District Museum",
+  "city": "重庆",
+  "province": "重庆",
+  "category": "综合",
+  "founded": 1956,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "重庆市万州区高笋塘街道万州大道100号",
+  "website": "http://www.wzmuseum.cn/",
+  "phone": "023-58263999",
+  "openingHours": "请查看官网",
+  "summary": "万州区博物馆展示三峡库区核心地区万州的历史文化，以三峡地区考古出土文物、峡江移民文化为特色，三峡工程建设中的考古抢救保护了大量珍贵文物。",
+  "highlights": [
+    "三峡考古抢救文物",
+    "峡江移民文化史",
+    "三峡地区古文明"
+  ],
+  "images": [],
+  "latitude": 30.8068,
+  "longitude": 108.3975,
+  "grade": "国家三级博物馆"
+}

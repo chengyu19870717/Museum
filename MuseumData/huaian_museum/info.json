@@ -1,0 +1,26 @@
+{
+  "id": "huaian_museum",
+  "name": "淮安市博物馆",
+  "englishName": "Huaian Museum",
+  "city": "淮安",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1960,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省淮安市清江浦区健康东路6号",
+  "website": "http://www.hamuseum.cn/",
+  "phone": "0517-83688999",
+  "openingHours": "请查看官网",
+  "summary": "淮安市博物馆展示淮安历史文化，以周恩来故里文化、大运河文化及淮扬文化为特色，淮安是中国历史文化名城，也是一代伟人周恩来的故乡。",
+  "highlights": [
+    "周恩来故里文化展",
+    "大运河历史文物",
+    "淮扬文化精品"
+  ],
+  "images": [],
+  "latitude": 33.567,
+  "longitude": 119.0153,
+  "grade": "国家二级博物馆"
+}

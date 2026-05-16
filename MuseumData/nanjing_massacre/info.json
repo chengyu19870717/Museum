@@ -1,20 +1,24 @@
 {
   "id": "nanjing_massacre",
   "name": "侵华日军南京大屠杀遇难同胞纪念馆",
-  "englishName": "",
+  "englishName": "Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders",
   "city": "南京",
   "province": "江苏",
-  "category": "综合",
-  "founded": null,
+  "category": "革命纪念",
+  "founded": 1985,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "江苏省南京市建邺区水西门大街418号",
+  "website": "http://www.nj1937.org/english/default.asp",
+  "phone": "025-86612230",
   "openingHours": "请查看官网",
   "summary": "侵华日军南京大屠杀遇难同胞纪念馆（英語：Memorial Hall of the Victims of the Nanjing Massacre by Japanese Invaders，日語：侵華日軍南京大屠殺遭難同胞紀念館）又称江东门纪念馆，是南京市人民政府为悼念侵华日军南京大屠杀遇难者而设立的遗址型专门史博物馆。馆址位于南京城西南江东门，是当年日军大屠杀的一处主要地点和遇难者丛葬地。纪念馆于1985年落成开放，经过1995年、2005年两次扩建，现占地约7.4万平方米、建筑面积2.5万平方米、展陈面积9800平方米，包括展览集会、遗址悼念、和平公园和馆藏交流等4个区域，其中展览陈列包括廣場陈列、遗骨陈列和史料陈列三部份。该馆收集了10000多份历史资料和文物，是国家一级博物馆、全国爱国主义教育示范基地。",
-  "highlights": [],
+  "highlights": [
+    "遇难者名单墙",
+    "万人坑遗址",
+    "抗战史料与证言"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -79,5 +83,5 @@
   ],
   "latitude": 32.03552778,
   "longitude": 118.74351944,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

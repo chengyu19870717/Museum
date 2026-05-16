@@ -1,0 +1,26 @@
+{
+  "id": "baotou_museum",
+  "name": "包头博物馆",
+  "englishName": "Baotou Museum",
+  "city": "包头",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": 1985,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区包头市昆都仑区阿尔丁大街18号",
+  "website": "http://www.btmuseum.cn/",
+  "phone": "0472-5157777",
+  "openingHours": "请查看官网",
+  "summary": "包头博物馆是展示包头历史文化与草原文明的综合性博物馆，以秦汉边塞遗址文物、匈奴历史文物及蒙古族民俗文化为特色，反映了草原丝绸之路的重要历史。",
+  "highlights": [
+    "秦汉边塞文物",
+    "匈奴历史遗存",
+    "草原丝路文化"
+  ],
+  "images": [],
+  "latitude": 40.6574,
+  "longitude": 109.8399,
+  "grade": "国家二级博物馆"
+}

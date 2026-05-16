@@ -1,0 +1,26 @@
+{
+  "id": "chaozhou_museum",
+  "name": "潮州市博物馆",
+  "englishName": "Chaozhou Museum",
+  "city": "潮州",
+  "province": "广东",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "广东省潮州市湘桥区中山路23号",
+  "website": "http://www.czmuseum.cn/",
+  "phone": "0768-2222777",
+  "openingHours": "请查看官网",
+  "summary": "潮州市博物馆是展示潮州历史文化的综合性博物馆，潮州是中国历史文化名城，馆内潮州木雕、潮绣、潮州陶瓷及韩文公祠相关文物展示了潮州文化的独特魅力。",
+  "highlights": [
+    "潮州木雕国家级非遗",
+    "潮绣精品",
+    "韩文公祠历史文物"
+  ],
+  "images": [],
+  "latitude": 23.6574,
+  "longitude": 116.6224,
+  "grade": "国家二级博物馆"
+}

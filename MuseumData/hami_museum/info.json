@@ -1,0 +1,26 @@
+{
+  "id": "hami_museum",
+  "name": "哈密博物馆",
+  "englishName": "Hami Museum",
+  "city": "哈密",
+  "province": "新疆",
+  "category": "综合",
+  "founded": 1979,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区哈密市伊州区和平南路15号",
+  "website": "http://www.hmbwg.cn/",
+  "phone": "0902-2231388",
+  "openingHours": "请查看官网",
+  "summary": "哈密博物馆展示哈密地区历史文化，以古代干尸（哈密人）、哈密维吾尔王府文物及丝路东端文物为特色，哈密是古丝绸之路的咽喉要道，出土大量保存完好的古代纺织品。",
+  "highlights": [
+    "哈密古代干尸展示",
+    "丝路东端历史文物",
+    "维吾尔王府珍藏"
+  ],
+  "images": [],
+  "latitude": 42.8166,
+  "longitude": 93.5147,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "zhenjiang_museum",
+  "name": "镇江博物馆",
+  "englishName": "Zhenjiang Museum",
+  "city": "镇江",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1958,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省镇江市润州区迎江路85号",
+  "website": "http://www.zjsbwg.cn/",
+  "phone": "0511-85511273",
+  "openingHours": "请查看官网",
+  "summary": "镇江博物馆以镇江独特的江南文化和近代历史为主题，馆藏以青铜器、瓷器、金银器为特色，镇江西津渡历史文化及近代开埠展览生动展现这座历史名城的千年变迁。",
+  "highlights": [
+    "镇江青铜器精品",
+    "西津渡历史文化",
+    "近代开埠史陈列"
+  ],
+  "images": [],
+  "latitude": 32.1979,
+  "longitude": 119.4303,
+  "grade": "国家二级博物馆"
+}

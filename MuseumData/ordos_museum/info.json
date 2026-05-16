@@ -1,0 +1,26 @@
+{
+  "id": "ordos_museum",
+  "name": "鄂尔多斯博物馆",
+  "englishName": "Ordos Museum",
+  "city": "鄂尔多斯",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": 2006,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区鄂尔多斯市东胜区包府路",
+  "website": "http://www.edsmuseum.com/",
+  "phone": "0477-8589999",
+  "openingHours": "请查看官网",
+  "summary": "鄂尔多斯博物馆展示鄂尔多斯青铜文化、匈奴历史、蒙古族风情等独特的草原文明，馆内青铜器收藏极具代表性。",
+  "highlights": [
+    "鄂尔多斯青铜器",
+    "匈奴历史文物",
+    "蒙古族民俗展"
+  ],
+  "images": [],
+  "latitude": 39.6091,
+  "longitude": 110.0213,
+  "grade": "国家二级博物馆"
+}

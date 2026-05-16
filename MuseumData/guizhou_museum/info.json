@@ -1,20 +1,24 @@
 {
   "id": "guizhou_museum",
   "name": "贵州省博物馆",
-  "englishName": "",
+  "englishName": "Guizhou Provincial Museum",
   "city": "贵阳",
   "province": "贵州",
   "category": "综合",
-  "founded": null,
+  "founded": 1953,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "贵州省贵阳市观山湖区林城东路107号",
+  "website": "http://www.gzmuseum.com/",
+  "phone": "0851-84811809",
   "openingHours": "请查看官网",
   "summary": "贵州省博物馆是中国贵州省的大型综合性博物馆，老馆位于贵阳市云岩区北京路168号，占地总面积约1.93万平方米；新馆位于贵阳市观山湖区林城东路，占地面积106.29亩，总建筑面积4.645万平方米，现为中国国家二级博物馆。",
-  "highlights": [],
+  "highlights": [
+    "贵州民族文物",
+    "贵州古生物化石",
+    "夜郎文化相关文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -41,7 +45,7 @@
       "license": "CC BY-SA 4.0"
     }
   ],
-  "latitude": null,
-  "longitude": null,
-  "grade": null
+  "latitude": 26.65069,
+  "longitude": 106.63917,
+  "grade": "国家一级博物馆"
 }

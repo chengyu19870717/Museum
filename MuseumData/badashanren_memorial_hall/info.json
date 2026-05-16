@@ -1,0 +1,26 @@
+{
+  "id": "badashanren_memorial_hall",
+  "name": "八大山人纪念馆",
+  "englishName": "Badashanren Memorial Hall",
+  "city": "南昌",
+  "province": "江西",
+  "category": "艺术",
+  "founded": 1959,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "江西南昌（坐标定位，详细地址请查看官网）",
+  "website": "http://www.bdsrjng.cn/",
+  "phone": "0791-83612250",
+  "openingHours": "请查看官网",
+  "summary": "八大山人纪念馆位于江西南昌，是一座以艺术收藏、展览策划与公共美育为主要内容的艺术类博物馆。馆内展陈通常围绕常设收藏、专题展览与公共教育展开，适合作为了解当地文化脉络的参观点。",
+  "highlights": [
+    "馆藏艺术作品",
+    "专题艺术展览",
+    "公共教育活动"
+  ],
+  "images": [],
+  "latitude": 28.607846,
+  "longitude": 115.911637,
+  "grade": null
+}

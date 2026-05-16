@@ -1,20 +1,24 @@
 {
   "id": "heilongjiang_museum",
   "name": "黑龙江省博物馆",
-  "englishName": "",
+  "englishName": "Heilongjiang Provincial Museum",
   "city": "哈尔滨",
   "province": "黑龙江",
   "category": "综合",
-  "founded": null,
+  "founded": 1904,
   "area": null,
   "annualVisitors": null,
   "freeEntry": false,
-  "address": "",
-  "website": null,
-  "phone": null,
+  "address": "黑龙江省哈尔滨市南岗区红军街50号",
+  "website": "http://www.hljmus.org.cn/",
+  "phone": "0451-53644151",
   "openingHours": "请查看官网",
   "summary": "黑龙江省博物馆是一座位于中华人民共和国黑龙江省哈尔滨市的国家一级博物馆。该博物馆所在建筑位于南岗区松花江街道红军街50号，始建于1904年。截至2023年5月，黑龙江省博物馆藏有各类藏品63万余件。2006年5月25日，黑龙江省博物馆馆舍以“哈尔滨莫斯科商场旧址”之名列入第六批全国重点文物保护单位。\n\n",
-  "highlights": [],
+  "highlights": [
+    "金代文物",
+    "黑龙江自然与历史陈列",
+    "东北抗联相关文物"
+  ],
   "images": [
     {
       "filename": "01.jpg",
@@ -29,6 +33,12 @@
       "license": "Public domain"
     },
     {
+      "filename": "03.jpg",
+      "caption": "黑龙江省博物馆",
+      "credit": null,
+      "license": null
+    },
+    {
       "filename": "04.jpg",
       "caption": "​黑龙江省博物馆入口",
       "credit": "Amarespeco",
@@ -37,5 +47,5 @@
   ],
   "latitude": 45.75556111,
   "longitude": 126.63471944,
-  "grade": null
+  "grade": "国家一级博物馆"
 }

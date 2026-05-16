@@ -1,0 +1,26 @@
+{
+  "id": "tongren_museum",
+  "name": "铜仁市博物馆",
+  "englishName": "Tongren Museum",
+  "city": "铜仁",
+  "province": "贵州",
+  "category": "综合",
+  "founded": 1980,
+  "area": null,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省铜仁市碧江区民主路38号",
+  "website": "http://www.trmuseum.cn/",
+  "phone": "0856-5226688",
+  "openingHours": "请查看官网",
+  "summary": "铜仁市博物馆展示铜仁地区历史文化，以土家族文化、梵净山生态文化及汞矿历史为特色，梵净山是世界自然遗产，馆内民族文物与自然标本并重。",
+  "highlights": [
+    "土家族文化展",
+    "梵净山世界遗产史",
+    "汞矿历史文物"
+  ],
+  "images": [],
+  "latitude": 27.7186,
+  "longitude": 109.191,
+  "grade": "国家三级博物馆"
+}
