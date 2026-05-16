@@ -40,3 +40,17 @@ targets:
           - UIInterfaceOrientationPortraitUpsideDown
           - UIInterfaceOrientationLandscapeLeft
           - UIInterfaceOrientationLandscapeRight
+
+  MuseumTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - MuseumTests
+    dependencies:
+      - target: Museum
+    settings:
+      base:
+        SWIFT_VERSION: "5.9"
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/Museum.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Museum"
+        BUNDLE_LOADER: "$(TEST_HOST)"

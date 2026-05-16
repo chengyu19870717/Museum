@@ -148,20 +148,22 @@ class MuseumStore: ObservableObject {
         guard forceReload || museums.isEmpty else { return }
         isLoading = true
 
-        Task.detached(priority: .userInitiated) { [self] in
+        Task.detached(priority: .userInitiated) {
             let loaded = MuseumDataLoader.loadAll()
             let sortedByName = loaded.sorted { $0.name < $1.name }
             // #7: build URL map synchronously in this background task
             let urlMap = MuseumDataLoader.buildURLMap(for: sortedByName)
+            let index  = Dictionary(uniqueKeysWithValues: sortedByName.map {
+                ($0.id, IndexEntry(museum: $0, searchBlob: Self.searchBlob(for: $0)))
+            })
 
-            await MainActor.run {
+            await MainActor.run { [weak self] in
+                guard let self else { return }
                 if sortedByName.isEmpty {
                     self.loadError = true
                 } else {
                     self.museums = sortedByName
-                    self.museumIndex = Dictionary(uniqueKeysWithValues: sortedByName.map {
-                        ($0.id, IndexEntry(museum: $0, searchBlob: Self.searchBlob(for: $0)))
-                    })
+                    self.museumIndex = index
                     MuseumDataLoader.applyURLMap(urlMap)
                     self.precomputeStats(for: sortedByName)
                 }

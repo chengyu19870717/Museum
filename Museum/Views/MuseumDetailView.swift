@@ -126,17 +126,37 @@ private struct DetailGalleryHeader: View {
             showFull: $showFull
         )
         .frame(maxWidth: .infinity)
-        .frame(height: galleryHeight)
+        // Use layout width via GeometryReader to avoid deprecated UIScreen.main.bounds
+        .modifier(GalleryHeightModifier())
         .clipped()
         .contentShape(Rectangle())
     }
+}
 
-    private var galleryHeight: CGFloat {
-        let screenWidth = UIScreen.main.bounds.width
-        let usableWidth = UIDevice.current.userInterfaceIdiom == .pad
-            ? min(screenWidth * 0.58, 680)
-            : screenWidth
-        return max(220, usableWidth * 0.75)
+private struct GalleryHeightModifier: ViewModifier {
+    @State private var height: CGFloat = 260
+
+    func body(content: Content) -> some View {
+        content
+            .frame(height: height)
+            .background(
+                GeometryReader { geo in
+                    Color.clear.onAppear {
+                        height = computeHeight(for: geo.size.width)
+                    }
+                    .onChange(of: geo.size.width) { _, w in
+                        height = computeHeight(for: w)
+                    }
+                }
+            )
+    }
+
+    private func computeHeight(for width: CGFloat) -> CGFloat {
+        guard width > 0 else { return 260 }
+        let usable = UIDevice.current.userInterfaceIdiom == .pad
+            ? min(width * 0.75, 680)
+            : width
+        return max(220, usable * 0.75)
     }
 }
 
