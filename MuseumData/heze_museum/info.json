@@ -1,0 +1,26 @@
+{
+  "id": "heze_museum",
+  "name": "菏泽博物馆",
+  "englishName": "Heze Museum",
+  "city": "菏泽",
+  "province": "山东",
+  "category": "综合",
+  "founded": 1986,
+  "area": 18000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省菏泽市牡丹区东方红大街南段",
+  "website": null,
+  "phone": "0530-5888199",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "菏泽博物馆是鲁西南地区重要综合性博物馆，菏泽是中国牡丹之都、曹州文化发祥地，馆藏新石器时代文物、汉代文物及近现代革命文物，展现鲁西南历史文化积淀。",
+  "highlights": [
+    "龙山文化文物",
+    "汉代铜器",
+    "菏泽牡丹文化"
+  ],
+  "images": [],
+  "latitude": 35.2328,
+  "longitude": 115.4808,
+  "grade": "国家三级博物馆"
+}

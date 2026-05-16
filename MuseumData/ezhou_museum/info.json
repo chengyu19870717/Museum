@@ -1,0 +1,26 @@
+{
+  "id": "ezhou_museum",
+  "name": "鄂州市博物馆",
+  "englishName": "Ezhou Museum",
+  "city": "鄂州",
+  "province": "湖北",
+  "category": "历史",
+  "founded": 1981,
+  "area": 8000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省鄂州市鄂城区寿昌大道1号",
+  "website": null,
+  "phone": "0711-3412530",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "鄂州市博物馆展示三国时期吴国都城武昌（今鄂州）的历史文化，馆藏三国至两晋时期出土文物丰富，铜镜、青铜器等文物是研究三国历史的重要实物资料。",
+  "highlights": [
+    "三国吴国都城文物",
+    "两晋铜镜精品",
+    "孙权相关历史"
+  ],
+  "images": [],
+  "latitude": 30.3986,
+  "longitude": 114.8948,
+  "grade": "国家三级博物馆"
+}

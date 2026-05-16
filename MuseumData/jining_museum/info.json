@@ -1,0 +1,26 @@
+{
+  "id": "jining_museum",
+  "name": "济宁市博物馆",
+  "englishName": "Jining Museum",
+  "city": "济宁",
+  "province": "山东",
+  "category": "历史",
+  "founded": 1985,
+  "area": 35000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "山东省济宁市任城区古槐路7号",
+  "website": "http://www.jnmuseum.cn/",
+  "phone": "0537-2711018",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "济宁市博物馆坐落于孔孟之乡，是展示儒家文化发祥地历史的重要场所，馆藏汉画像石、孔庙文物、运河文化遗存等精品，是了解儒学源流与鲁文化的核心窗口。",
+  "highlights": [
+    "汉画像石精品",
+    "孔孟文化展",
+    "京杭运河济宁段历史"
+  ],
+  "images": [],
+  "latitude": 35.415,
+  "longitude": 116.5874,
+  "grade": "国家二级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pingdingshan_museum",
+  "name": "平顶山博物馆",
+  "englishName": "Pingdingshan Museum",
+  "city": "平顶山",
+  "province": "河南",
+  "category": "综合",
+  "founded": 1978,
+  "area": 28000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "河南省平顶山市新城区建设路与光明路交叉口",
+  "website": "http://www.pdsmuseum.com/",
+  "phone": "0375-2689999",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "平顶山博物馆是豫中南地区重要综合性博物馆，馆藏应国青铜器、汝瓷精品等珍贵文物，应国青铜器群是周代诸侯国文物的重要代表，汝瓷是中国五大名瓷之冠。",
+  "highlights": [
+    "应国青铜器",
+    "汝瓷珍品",
+    "煤炭工业历史展"
+  ],
+  "images": [],
+  "latitude": 33.7664,
+  "longitude": 113.3009,
+  "grade": "国家二级博物馆"
+}

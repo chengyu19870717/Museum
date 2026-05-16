@@ -1,0 +1,26 @@
+{
+  "id": "lishui_museum",
+  "name": "丽水博物馆",
+  "englishName": "Lishui Museum",
+  "city": "丽水",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1985,
+  "area": 12000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省丽水市莲都区大众街33号",
+  "website": null,
+  "phone": "0578-2123778",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "丽水博物馆展示浙西南山区历史文化，龙泉青瓷文化是馆藏核心，龙泉窑是宋代五大名窑之一，馆内还有畲族民俗文化专题展，展示浙江民族文化多样性。",
+  "highlights": [
+    "龙泉青瓷珍品",
+    "畲族民俗文化",
+    "浙西南历史文物"
+  ],
+  "images": [],
+  "latitude": 28.468,
+  "longitude": 119.9228,
+  "grade": "国家三级博物馆"
+}

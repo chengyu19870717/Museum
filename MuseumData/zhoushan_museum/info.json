@@ -1,0 +1,26 @@
+{
+  "id": "zhoushan_museum",
+  "name": "舟山博物馆",
+  "englishName": "Zhoushan Museum",
+  "city": "舟山",
+  "province": "浙江",
+  "category": "综合",
+  "founded": 1988,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "浙江省舟山市定海区文化馆路1号",
+  "website": null,
+  "phone": "0580-2022220",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "舟山博物馆展示中国最大群岛的海洋文化与历史，馆藏航海文物、盐业文物、佛教文化文物丰富，普陀山佛教文化和渔业文明是重要展示主题，海岛文化独具特色。",
+  "highlights": [
+    "海洋文明与渔业史",
+    "普陀山佛教文化",
+    "舟山盐业文化"
+  ],
+  "images": [],
+  "latitude": 30.0169,
+  "longitude": 122.1067,
+  "grade": "国家三级博物馆"
+}

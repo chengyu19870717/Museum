@@ -1,0 +1,26 @@
+{
+  "id": "dazhou_museum",
+  "name": "达州市博物馆",
+  "englishName": "Dazhou Museum",
+  "city": "达州",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1993,
+  "area": 12000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省达州市通川区西外镇文化北路1号",
+  "website": null,
+  "phone": "0818-2125366",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "达州市博物馆是川东地区重要的综合性历史博物馆，展示巴文化遗存、红色革命文化及达州地区民俗风情，王维舟等革命先辈的革命史迹是重要展览内容。",
+  "highlights": [
+    "巴文化遗存",
+    "川东革命史",
+    "达州民俗文物"
+  ],
+  "images": [],
+  "latitude": 31.2092,
+  "longitude": 107.468,
+  "grade": "国家三级博物馆"
+}

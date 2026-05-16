@@ -1,0 +1,26 @@
+{
+  "id": "chamdo_museum",
+  "name": "昌都市博物馆",
+  "englishName": "Chamdo Museum",
+  "city": "昌都",
+  "province": "西藏",
+  "category": "综合",
+  "founded": 2016,
+  "area": 12000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "西藏自治区昌都市卡若区解放路1号",
+  "website": null,
+  "phone": "0895-4823456",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "昌都市博物馆展示藏东地区历史文化，卡若遗址是西藏最重要的新石器时代遗址，昌都解放是西藏和平解放的历史起点，茶马古道昌都段历史文化是重要展示主题。",
+  "highlights": [
+    "卡若新石器遗址文物",
+    "昌都解放历史",
+    "茶马古道藏东段"
+  ],
+  "images": [],
+  "latitude": 31.1365,
+  "longitude": 97.1669,
+  "grade": "国家三级博物馆"
+}

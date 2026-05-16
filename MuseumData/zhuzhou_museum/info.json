@@ -1,0 +1,26 @@
+{
+  "id": "zhuzhou_museum",
+  "name": "株洲博物馆",
+  "englishName": "Zhuzhou Museum",
+  "city": "株洲",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1984,
+  "area": 12000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省株洲市天元区泰山路100号",
+  "website": null,
+  "phone": "0731-28660858",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "株洲博物馆是湘东地区综合性博物馆，展示炎帝故里文化（株洲炎陵为炎帝陵所在地）、近代工业文明与红色革命历史，炎帝文化是中华民族根祖文化的重要组成部分。",
+  "highlights": [
+    "炎帝文化展",
+    "近代铁路工业史",
+    "株洲革命历史"
+  ],
+  "images": [],
+  "latitude": 27.8283,
+  "longitude": 113.1339,
+  "grade": "国家三级博物馆"
+}

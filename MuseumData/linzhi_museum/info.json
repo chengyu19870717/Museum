@@ -1,0 +1,26 @@
+{
+  "id": "linzhi_museum",
+  "name": "林芝市博物馆",
+  "englishName": "Nyingchi Museum",
+  "city": "林芝",
+  "province": "西藏",
+  "category": "综合",
+  "founded": 2015,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "西藏自治区林芝市巴宜区林芝镇文化路",
+  "website": null,
+  "phone": "0894-5821234",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "林芝市博物馆展示藏东南地区独特的生态文化与历史，林芝被誉为西藏江南，门珞文化（门巴族、珞巴族）是重要展示特色，雅鲁藏布大峡谷地质文化世界闻名。",
+  "highlights": [
+    "门巴族珞巴族文化",
+    "雅鲁藏布峡谷地理",
+    "藏东南生态历史"
+  ],
+  "images": [],
+  "latitude": 29.6494,
+  "longitude": 94.3616,
+  "grade": "国家三级博物馆"
+}

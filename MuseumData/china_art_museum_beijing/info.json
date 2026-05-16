@@ -1,0 +1,26 @@
+{
+  "id": "china_art_museum_beijing",
+  "name": "中国美术馆",
+  "englishName": "National Art Museum of China",
+  "city": "北京",
+  "province": "北京",
+  "category": "艺术",
+  "founded": 1963,
+  "area": 18000,
+  "annualVisitors": 1000000,
+  "freeEntry": true,
+  "address": "北京市东城区五四大街1号",
+  "website": "https://www.namoc.org/",
+  "phone": "010-64001476",
+  "openingHours": "9:00-17:00，周一闭馆，节假日照常开放",
+  "summary": "中国美术馆是国家级造型艺术博物馆，馆藏中国古代书画、近现代美术作品十余万件，齐白石、徐悲鸿、林风眠等大师原作荟萃，是中国现当代美术的最高殿堂。",
+  "highlights": [
+    "齐白石原作珍藏",
+    "徐悲鸿国画精品",
+    "当代艺术特展"
+  ],
+  "images": [],
+  "latitude": 39.9218,
+  "longitude": 116.4039,
+  "grade": "国家一级博物馆"
+}

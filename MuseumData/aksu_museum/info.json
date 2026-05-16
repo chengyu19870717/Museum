@@ -1,0 +1,26 @@
+{
+  "id": "aksu_museum",
+  "name": "阿克苏地区博物馆",
+  "englishName": "Aksu Prefecture Museum",
+  "city": "阿克苏",
+  "province": "新疆",
+  "category": "历史",
+  "founded": 1986,
+  "area": 9000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区阿克苏市解放北路28号",
+  "website": null,
+  "phone": "0997-2127853",
+  "openingHours": "9:30-13:30 14:30-18:00，周一闭馆",
+  "summary": "阿克苏地区博物馆展示丝绸之路中段古龟兹文化，库车（古龟兹）是著名的佛教圣地，克孜尔石窟是中国最大的佛教石窟群，馆藏丝路文物与龟兹艺术珍品。",
+  "highlights": [
+    "古龟兹佛教文化",
+    "丝绸之路中段文物",
+    "克孜尔石窟艺术"
+  ],
+  "images": [],
+  "latitude": 41.1685,
+  "longitude": 80.2601,
+  "grade": "国家三级博物馆"
+}

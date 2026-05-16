@@ -1,0 +1,26 @@
+{
+  "id": "yaan_museum",
+  "name": "雅安市博物馆",
+  "englishName": "Ya'an Museum",
+  "city": "雅安",
+  "province": "四川",
+  "category": "综合",
+  "founded": 1985,
+  "area": 8000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "四川省雅安市雨城区正和北路133号",
+  "website": null,
+  "phone": "0835-2222081",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "雅安市博物馆展示雅安地区从新石器时代至近现代的历史文化，汉代文物丰富，南方丝绸之路茶马古道文化是重要特色，藏汉交融的多元文化遗产独具特色。",
+  "highlights": [
+    "汉代石刻文物",
+    "茶马古道历史",
+    "南方丝路文化"
+  ],
+  "images": [],
+  "latitude": 29.9876,
+  "longitude": 103.0141,
+  "grade": "国家三级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "baoji_bronze_museum",
+  "name": "宝鸡青铜器博物院",
+  "englishName": "Baoji Bronze Ware Museum",
+  "city": "宝鸡",
+  "province": "陕西",
+  "category": "历史",
+  "founded": 1956,
+  "area": 34630,
+  "annualVisitors": 800000,
+  "freeEntry": true,
+  "address": "陕西省宝鸡市渭滨区滨河北路中段",
+  "website": "http://www.bronzemuseum.com/",
+  "phone": "0917-3226002",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "宝鸡青铜器博物院是全国唯一以青铜器命名的综合性历史文化博物馆，国家一级博物馆，馆藏青铜器数量居全国前列，拥有何尊（含'中国'二字最早铭文）等国宝级文物。",
+  "highlights": [
+    "何尊（最早'中国'铭文）",
+    "逨盘（西周历史百科）",
+    "大盂鼎复制展"
+  ],
+  "images": [],
+  "latitude": 34.3631,
+  "longitude": 107.2413,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "suihua_museum",
+  "name": "绥化市博物馆",
+  "englishName": "Suihua Museum",
+  "city": "绥化",
+  "province": "黑龙江",
+  "category": "综合",
+  "founded": 1989,
+  "area": 7000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "黑龙江省绥化市北林区团结路1号",
+  "website": null,
+  "phone": "0455-8310076",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "绥化市博物馆展示黑龙江中部地区历史文化，馆藏新石器时代昂昂溪文化遗存、金代文物及近代闯关东移民历史文物，展示了东北亚文明的演变历程。",
+  "highlights": [
+    "昂昂溪文化遗存",
+    "金代文物精品",
+    "闯关东历史展"
+  ],
+  "images": [],
+  "latitude": 46.6384,
+  "longitude": 126.9924,
+  "grade": "国家三级博物馆"
+}

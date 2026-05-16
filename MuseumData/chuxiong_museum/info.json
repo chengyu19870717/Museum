@@ -1,0 +1,26 @@
+{
+  "id": "chuxiong_museum",
+  "name": "楚雄彝族自治州博物馆",
+  "englishName": "Chuxiong Yi Autonomous Prefecture Museum",
+  "city": "楚雄",
+  "province": "云南",
+  "category": "民俗",
+  "founded": 1980,
+  "area": 14000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省楚雄市鹿城东路1号",
+  "website": null,
+  "phone": "0878-3113988",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "楚雄彝族自治州博物馆系统展示彝族文化遗产，馆藏彝族服饰、漆器、铜器及元谋人化石相关文物，元谋人化石的发现地在境内，是研究人类起源的重要地方。",
+  "highlights": [
+    "彝族传统服饰",
+    "元谋人化石展",
+    "彝文古籍文献"
+  ],
+  "images": [],
+  "latitude": 25.0441,
+  "longitude": 101.5285,
+  "grade": "国家二级博物馆"
+}

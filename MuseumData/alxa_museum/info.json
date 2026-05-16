@@ -1,0 +1,26 @@
+{
+  "id": "alxa_museum",
+  "name": "阿拉善博物馆",
+  "englishName": "Alxa Museum",
+  "city": "阿拉善左旗",
+  "province": "内蒙古",
+  "category": "综合",
+  "founded": 1991,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区阿拉善盟阿拉善左旗巴彦浩特镇延福寺街",
+  "website": null,
+  "phone": "0483-8322219",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "阿拉善博物馆展示阿拉善地区独特的沙漠文化、蒙古族历史与佛教文化，延福寺是重要文化遗址，馆藏骆驼文化、西夏文物及蒙古族传统文物，荒漠生态与文化交融。",
+  "highlights": [
+    "阿拉善骆驼文化",
+    "西夏遗址文物",
+    "延福寺历史文物"
+  ],
+  "images": [],
+  "latitude": 38.8332,
+  "longitude": 105.6896,
+  "grade": "国家三级博物馆"
+}

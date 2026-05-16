@@ -1,0 +1,26 @@
+{
+  "id": "xilingol_museum",
+  "name": "锡林郭勒盟博物馆",
+  "englishName": "Xilin Gol League Museum",
+  "city": "锡林浩特",
+  "province": "内蒙古",
+  "category": "民俗",
+  "founded": 1985,
+  "area": 14000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "内蒙古自治区锡林浩特市额尔敦大街",
+  "website": null,
+  "phone": "0479-8268566",
+  "openingHours": "9:00-17:30，周一闭馆",
+  "summary": "锡林郭勒盟博物馆展示蒙古族游牧文化，锡林郭勒草原是中国保存最完好的天然草原之一，馆藏蒙古族马具、银器、传统服饰及元代文物，草原文化浓郁。",
+  "highlights": [
+    "蒙古族游牧文化",
+    "元代草原文物",
+    "传统马具银器"
+  ],
+  "images": [],
+  "latitude": 43.944,
+  "longitude": 116.0726,
+  "grade": "国家三级博物馆"
+}

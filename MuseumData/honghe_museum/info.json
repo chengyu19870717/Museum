@@ -1,0 +1,26 @@
+{
+  "id": "honghe_museum",
+  "name": "红河哈尼族彝族自治州博物馆",
+  "englishName": "Honghe Hani and Yi Autonomous Prefecture Museum",
+  "city": "蒙自",
+  "province": "云南",
+  "category": "民俗",
+  "founded": 1984,
+  "area": 16000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "云南省蒙自市环城东路",
+  "website": null,
+  "phone": "0873-3729266",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "红河州博物馆展示哈尼族、彝族等多民族的历史文化与民俗风情，哈尼梯田农耕文化是世界文化遗产，馆藏民族服饰、银饰、铜鼓等珍贵文物，民族文化多样性突出。",
+  "highlights": [
+    "哈尼族梯田文化",
+    "彝族铜鼓文物",
+    "多民族银饰珍品"
+  ],
+  "images": [],
+  "latitude": 23.3659,
+  "longitude": 103.3874,
+  "grade": "国家三级博物馆"
+}

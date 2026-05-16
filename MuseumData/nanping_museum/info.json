@@ -1,0 +1,26 @@
+{
+  "id": "nanping_museum",
+  "name": "南平市博物馆",
+  "englishName": "Nanping Museum",
+  "city": "南平",
+  "province": "福建",
+  "category": "综合",
+  "founded": 1984,
+  "area": 8000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "福建省南平市延平区建设路195号",
+  "website": null,
+  "phone": "0599-8621150",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "南平市博物馆展示闽北地区历史文化，武夷山是世界文化与自然双遗产，朱子文化（朱熹讲学地）是重要展示主题，馆藏建窑黑釉瓷（建盏）等闽北特色文物珍品。",
+  "highlights": [
+    "建盏黑釉瓷精品",
+    "朱子理学文化",
+    "武夷山世遗文物"
+  ],
+  "images": [],
+  "latitude": 26.6453,
+  "longitude": 118.1775,
+  "grade": "国家三级博物馆"
+}

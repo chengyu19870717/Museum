@@ -1,0 +1,26 @@
+{
+  "id": "maanshan_museum",
+  "name": "马鞍山市博物馆",
+  "englishName": "Ma'anshan Museum",
+  "city": "马鞍山",
+  "province": "安徽",
+  "category": "综合",
+  "founded": 1983,
+  "area": 11000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "安徽省马鞍山市雨山区解放南路2号",
+  "website": null,
+  "phone": "0555-2423966",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "马鞍山市博物馆展示皖东地区历史文化，薛家洼遗址为旧石器时代人类活动遗址，采石矶是李白纵情山水的历史名地，诗仙文化与六朝文物是重要展示内容。",
+  "highlights": [
+    "李白采石矶诗仙文化",
+    "六朝文物精品",
+    "薛家洼旧石器文物"
+  ],
+  "images": [],
+  "latitude": 31.6618,
+  "longitude": 118.5072,
+  "grade": "国家三级博物馆"
+}

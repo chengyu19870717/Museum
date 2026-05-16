@@ -1,0 +1,26 @@
+{
+  "id": "ningde_museum",
+  "name": "宁德市博物馆",
+  "englishName": "Ningde Museum",
+  "city": "宁德",
+  "province": "福建",
+  "category": "综合",
+  "founded": 1988,
+  "area": 9000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "福建省宁德市蕉城区蕉城南路180号",
+  "website": null,
+  "phone": "0593-2824826",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "宁德市博物馆展示闽东地区多元文化，畲族文化是重要特色，霍童溪流域新石器文化遗存丰富，福鼎白茶、福安工夫红茶等茶文化与海洋渔业文化是特色展示内容。",
+  "highlights": [
+    "畲族文化专题",
+    "闽东茶文化历史",
+    "宁德海洋渔业文明"
+  ],
+  "images": [],
+  "latitude": 26.6652,
+  "longitude": 119.5234,
+  "grade": "国家三级博物馆"
+}

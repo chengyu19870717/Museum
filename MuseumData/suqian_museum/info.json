@@ -1,0 +1,26 @@
+{
+  "id": "suqian_museum",
+  "name": "宿迁市博物馆",
+  "englishName": "Suqian Museum",
+  "city": "宿迁",
+  "province": "江苏",
+  "category": "综合",
+  "founded": 1991,
+  "area": 15000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "江苏省宿迁市宿城区幸福南路1号",
+  "website": null,
+  "phone": "0527-8499188",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "宿迁市博物馆是苏北地区重要综合性博物馆，宿迁是西楚霸王项羽的故乡，馆内楚汉文化展示丰富，骆马湖地区出土的新石器时代文物及汉代文物是馆藏重点。",
+  "highlights": [
+    "项羽故里文化展",
+    "楚汉文化遗存",
+    "骆马湖考古文物"
+  ],
+  "images": [],
+  "latitude": 33.9543,
+  "longitude": 118.2753,
+  "grade": "国家三级博物馆"
+}

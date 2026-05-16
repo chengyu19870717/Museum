@@ -1,0 +1,26 @@
+{
+  "id": "hotan_museum",
+  "name": "和田地区博物馆",
+  "englishName": "Hotan Prefecture Museum",
+  "city": "和田",
+  "province": "新疆",
+  "category": "历史",
+  "founded": 1984,
+  "area": 8000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "新疆维吾尔自治区和田市努尔路1号",
+  "website": null,
+  "phone": "0903-2023622",
+  "openingHours": "9:30-13:30 14:30-18:00，周一闭馆",
+  "summary": "和田地区博物馆展示古于阗王国历史文化，和田是丝绸之路南道要冲，以和田玉、丝绸、地毯闻名，馆藏丝绸之路出土文物、于阗文书及和田玉器文物珍品。",
+  "highlights": [
+    "于阗古国文物",
+    "和田玉器珍品",
+    "丝路南道出土文物"
+  ],
+  "images": [],
+  "latitude": 37.1143,
+  "longitude": 79.9304,
+  "grade": "国家三级博物馆"
+}

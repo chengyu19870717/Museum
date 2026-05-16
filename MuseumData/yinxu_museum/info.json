@@ -1,0 +1,26 @@
+{
+  "id": "yinxu_museum",
+  "name": "殷墟博物馆",
+  "englishName": "Yinxu Museum",
+  "city": "安阳",
+  "province": "河南",
+  "category": "历史",
+  "founded": 2023,
+  "area": 50000,
+  "annualVisitors": null,
+  "freeEntry": false,
+  "address": "河南省安阳市殷都区洹北商城遗址",
+  "website": "https://www.yinxumuseum.com/",
+  "phone": "0372-3959999",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "殷墟博物馆新馆（2024年正式开放）是中国规模最大的商代文化博物馆，依托世界文化遗产殷墟遗址而建，系统展示商代青铜礼乐文明，馆藏包括妇好墓出土文物近2000件。",
+  "highlights": [
+    "妇好墓出土文物",
+    "商代甲骨文真品",
+    "青铜礼器精品"
+  ],
+  "images": [],
+  "latitude": 36.1236,
+  "longitude": 114.3152,
+  "grade": "国家一级博物馆"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bijie_museum",
+  "name": "毕节博物馆",
+  "englishName": "Bijie Museum",
+  "city": "毕节",
+  "province": "贵州",
+  "category": "综合",
+  "founded": 1989,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "贵州省毕节市七星关区胜利路",
+  "website": null,
+  "phone": "0857-8227773",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "毕节博物馆是黔西北地区综合性博物馆，展示大方彝族漆器、赫章可乐遗址夜郎时期文物，夜郎文明遗存是贵州古代文明的重要代表，彝族文化底蕴深厚。",
+  "highlights": [
+    "夜郎时期文物",
+    "彝族大漆器",
+    "可乐遗址文物"
+  ],
+  "images": [],
+  "latitude": 27.2974,
+  "longitude": 105.2929,
+  "grade": "国家三级博物馆"
+}

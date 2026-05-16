@@ -1,0 +1,26 @@
+{
+  "id": "guoluo_museum",
+  "name": "果洛藏族自治州博物馆",
+  "englishName": "Golog Tibetan Autonomous Prefecture Museum",
+  "city": "玛沁",
+  "province": "青海",
+  "category": "综合",
+  "founded": 2010,
+  "area": 6000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "青海省果洛藏族自治州玛沁县昆仑路1号",
+  "website": null,
+  "phone": "0975-8381234",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "果洛藏族自治州博物馆展示黄河源头地区藏族游牧文化，果洛是格萨尔王传说的故乡，高原游牧文化遗产独特，玛多（黄河源）地区生态文化与宗教文物是展示重点。",
+  "highlights": [
+    "格萨尔故乡文化",
+    "黄河源头游牧文化",
+    "高原藏传佛教文物"
+  ],
+  "images": [],
+  "latitude": 34.4753,
+  "longitude": 100.2418,
+  "grade": "国家三级博物馆"
+}

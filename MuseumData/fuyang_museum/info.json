@@ -1,0 +1,26 @@
+{
+  "id": "fuyang_museum",
+  "name": "阜阳市博物馆",
+  "englishName": "Fuyang Museum",
+  "city": "阜阳",
+  "province": "安徽",
+  "category": "综合",
+  "founded": 1978,
+  "area": 12000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "安徽省阜阳市颍州区清河路20号",
+  "website": null,
+  "phone": "0558-2292701",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "阜阳市博物馆展示皖北平原历史文化，馆藏汉代文物丰富，双古堆汉墓出土的竹简（阜阳汉简）是研究汉代文化的珍贵文献，管仲、欧阳修等历史名人文化是重要展示内容。",
+  "highlights": [
+    "阜阳汉简（双古堆汉墓）",
+    "管仲历史文化",
+    "欧阳修相关文物"
+  ],
+  "images": [],
+  "latitude": 32.8997,
+  "longitude": 115.8163,
+  "grade": "国家二级博物馆"
+}

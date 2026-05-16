@@ -1,0 +1,26 @@
+{
+  "id": "suizhou_museum",
+  "name": "随州博物馆",
+  "englishName": "Suizhou Museum",
+  "city": "随州",
+  "province": "湖北",
+  "category": "历史",
+  "founded": 1979,
+  "area": 20000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖北省随州市曾都区文峰大道1号",
+  "website": "http://www.szwbw.com/",
+  "phone": "0722-3226767",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "随州博物馆是曾侯乙编钟的重要展示地之一，馆藏战国早期曾国文物精华，展示了曾随之谜与先秦礼乐文化，是了解楚文化与汉江流域文明的重要窗口。",
+  "highlights": [
+    "曾侯乙编钟复制演示",
+    "曾国青铜器",
+    "擂鼓墩出土文物"
+  ],
+  "images": [],
+  "latitude": 31.7253,
+  "longitude": 113.3735,
+  "grade": "国家二级博物馆"
+}

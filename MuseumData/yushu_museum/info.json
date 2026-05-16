@@ -1,0 +1,26 @@
+{
+  "id": "yushu_museum",
+  "name": "玉树藏族自治州博物馆",
+  "englishName": "Yushu Tibetan Autonomous Prefecture Museum",
+  "city": "玉树",
+  "province": "青海",
+  "category": "综合",
+  "founded": 2013,
+  "area": 8000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "青海省玉树藏族自治州玉树市胜利路1号",
+  "website": null,
+  "phone": "0976-8832198",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "玉树藏族自治州博物馆展示三江源地区藏族历史文化，玉树是长江、黄河、澜沧江的发源地，康巴藏族文化浓郁，格萨尔王文化是重要展示主题，高原生态文明独具特色。",
+  "highlights": [
+    "三江源藏族文化",
+    "格萨尔王史诗展",
+    "康巴藏族传统文物"
+  ],
+  "images": [],
+  "latitude": 33.0047,
+  "longitude": 97.0082,
+  "grade": "国家三级博物馆"
+}

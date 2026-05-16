@@ -1,0 +1,26 @@
+{
+  "id": "huainan_museum",
+  "name": "淮南市博物馆",
+  "englishName": "Huainan Museum",
+  "city": "淮南",
+  "province": "安徽",
+  "category": "综合",
+  "founded": 1980,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "安徽省淮南市田家庵区龙湖路86号",
+  "website": null,
+  "phone": "0554-6681520",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "淮南市博物馆展示淮南地区历史文化，寿县（古寿州）是楚国晚期都城，馆藏楚文化文物丰富，楚王鼎等青铜器是镇馆之宝，淮南子文化和汉代淮南国历史是重要展示主题。",
+  "highlights": [
+    "楚王鼎青铜重器",
+    "淮南子文化展",
+    "淮南国历史文物"
+  ],
+  "images": [],
+  "latitude": 32.6254,
+  "longitude": 116.9999,
+  "grade": "国家二级博物馆"
+}

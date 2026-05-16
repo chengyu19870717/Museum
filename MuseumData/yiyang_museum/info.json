@@ -1,0 +1,26 @@
+{
+  "id": "yiyang_museum",
+  "name": "益阳市博物馆",
+  "englishName": "Yiyang Museum",
+  "city": "益阳",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1983,
+  "area": 10000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省益阳市赫山区龙洲南路6号",
+  "website": null,
+  "phone": "0737-4226050",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "益阳市博物馆展示湘中地区历史文化，羊舞岭窑出土青瓷是湖南陶瓷史上的重要发现，兔子山遗址出土的秦简为研究秦代历史提供了珍贵的一手资料。",
+  "highlights": [
+    "兔子山秦简",
+    "羊舞岭青瓷",
+    "益阳茶文化"
+  ],
+  "images": [],
+  "latitude": 28.5916,
+  "longitude": 112.3553,
+  "grade": "国家三级博物馆"
+}

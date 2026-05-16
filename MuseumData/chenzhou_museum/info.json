@@ -1,0 +1,26 @@
+{
+  "id": "chenzhou_museum",
+  "name": "郴州博物馆",
+  "englishName": "Chenzhou Museum",
+  "city": "郴州",
+  "province": "湖南",
+  "category": "综合",
+  "founded": 1988,
+  "area": 9000,
+  "annualVisitors": null,
+  "freeEntry": true,
+  "address": "湖南省郴州市苏仙区郴江西路81号",
+  "website": null,
+  "phone": "0735-2281126",
+  "openingHours": "9:00-17:00，周一闭馆",
+  "summary": "郴州博物馆展示湘南地区历史文化，苏仙岭文物、汉代砖室墓出土文物为馆藏精品，郴州是湖南进入中原的南大门，历史上商贾云集，留下丰富历史遗存。",
+  "highlights": [
+    "苏仙岭历史文物",
+    "汉代砖室墓文物",
+    "郴州古代商业史"
+  ],
+  "images": [],
+  "latitude": 25.7706,
+  "longitude": 113.0153,
+  "grade": "国家三级博物馆"
+}
