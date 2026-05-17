@@ -50,7 +50,8 @@ struct MuseumListView: View {
             }
         }
         .navigationTitle("中国博物馆")
-        .searchable(text: $store.searchText, prompt: "搜索博物馆、城市、拼音...")
+        .searchable(text: $store.searchText, prompt: "中文、城市、拼音首字母均可搜索")
+        .imeSearchFix(text: $store.searchText)
         .navigationDestination(isPresented: $showAbout) { AboutView() }
         .toolbarBackground(.visible, for: .navigationBar)
         .toolbar {
