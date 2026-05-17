@@ -22,6 +22,7 @@
 		813FA19B2A603D1C0C3C8EF9 /* MuseumApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62645DCD3980B72F08DE8D5 /* MuseumApp.swift */; };
 		858071E37F72D0778DE9F017 /* Museum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03816C519FEC3353E3D4F5FE /* Museum.swift */; };
 		9F7112D98E105F83A036B7F0 /* PinyinHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E80BD0BC1A42CE4B117D6BB /* PinyinHelper.swift */; };
+		A1B2C3D4E5F6A7B8C9D0E1F2 /* IMESearchFix.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C3D4E5F6A7B8C9D0E1F2A3 /* IMESearchFix.swift */; };
 		AC4A29F8D38EA5F2F03C4F11 /* MuseumDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75B460101B326E1690BD094C /* MuseumDetailView.swift */; };
 		B623C5BCD9EC64924456877C /* MuseumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A8A63B74CE6B81215177A9 /* MuseumStore.swift */; };
 		BE99AA487FFDD28F8D127B9E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B1022BD5F30867E01B79B61F /* PrivacyInfo.xcprivacy */; };
@@ -44,6 +45,7 @@
 		5A55040E56896BE43C2F2909 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5D280373B6D44F7C18D49110 /* LocalImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalImageCache.swift; sourceTree = "<group>"; };
 		5E80BD0BC1A42CE4B117D6BB /* PinyinHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinHelper.swift; sourceTree = "<group>"; };
+		B2C3D4E5F6A7B8C9D0E1F2A3 /* IMESearchFix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IMESearchFix.swift; sourceTree = "<group>"; };
 		75B460101B326E1690BD094C /* MuseumDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuseumDetailView.swift; sourceTree = "<group>"; };
 		7AB38812A778964A87C2512A /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
 		8B5ED77D2453DF9028320027 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				5D280373B6D44F7C18D49110 /* LocalImageCache.swift */,
+				B2C3D4E5F6A7B8C9D0E1F2A3 /* IMESearchFix.swift */,
 				5E80BD0BC1A42CE4B117D6BB /* PinyinHelper.swift */,
 			);
 			path = Helpers;
@@ -233,6 +236,7 @@
 				AC4A29F8D38EA5F2F03C4F11 /* MuseumDetailView.swift in Sources */,
 				EB3521AE3EC3B721AEEBDD30 /* MuseumListView.swift in Sources */,
 				B623C5BCD9EC64924456877C /* MuseumStore.swift in Sources */,
+				A1B2C3D4E5F6A7B8C9D0E1F2 /* IMESearchFix.swift in Sources */,
 				9F7112D98E105F83A036B7F0 /* PinyinHelper.swift in Sources */,
 				198309A6150AD6CFC168341A /* TodoManagementView.swift in Sources */,
 				5B1028390AA9F5A7ABE4196E /* TreasureBoxView.swift in Sources */,

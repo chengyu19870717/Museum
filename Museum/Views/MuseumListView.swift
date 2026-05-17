@@ -53,7 +53,7 @@ struct MuseumListView: View {
         .searchable(text: $store.searchText, prompt: "中文、城市、拼音首字母均可搜索")
         .imeSearchFix(text: $store.searchText)
         .navigationDestination(isPresented: $showAbout) { AboutView() }
-        .toolbarBackground(.visible, for: .navigationBar)
+        .toolbarBackground(Visibility.visible, for: ToolbarPlacement.navigationBar)
         .toolbar {
             ToolbarItem(placement: .navigationBarLeading) {
                 Button { showAbout = true } label: {
